@@ -1,0 +1,2689 @@
+gender,race,eth,age,hhi,population_share
+Male,race_white,eth_not_hispanic,18 to 24 Years,1,0.0020039990926945597
+Female,race_white,eth_not_hispanic,18 to 24 Years,1,0.0020039990926945597
+Nonbinary,race_white,eth_not_hispanic,18 to 24 Years,1,0.0004453331317099021
+Male,race_white,eth_not_hispanic,18 to 24 Years,2,0.0047868319134916435
+Female,race_white,eth_not_hispanic,18 to 24 Years,2,0.0047868319134916435
+Nonbinary,race_white,eth_not_hispanic,18 to 24 Years,2,0.0010637404252203653
+Male,race_white,eth_not_hispanic,18 to 24 Years,3,0.005327522251655123
+Female,race_white,eth_not_hispanic,18 to 24 Years,3,0.005327522251655123
+Nonbinary,race_white,eth_not_hispanic,18 to 24 Years,3,0.0011838938337011386
+Male,race_white,eth_not_hispanic,18 to 24 Years,4,0.006230669824820165
+Female,race_white,eth_not_hispanic,18 to 24 Years,4,0.006230669824820165
+Nonbinary,race_white,eth_not_hispanic,18 to 24 Years,4,0.001384593294404481
+Male,race_white,eth_not_hispanic,18 to 24 Years,5,0.00683276820693019
+Female,race_white,eth_not_hispanic,18 to 24 Years,5,0.00683276820693019
+Nonbinary,race_white,eth_not_hispanic,18 to 24 Years,5,0.0015183929348733757
+Male,race_white,eth_not_hispanic,18 to 24 Years,6,0.01041839887054064
+Female,race_white,eth_not_hispanic,18 to 24 Years,6,0.01041839887054064
+Nonbinary,race_white,eth_not_hispanic,18 to 24 Years,6,0.0023151997490090314
+Male,race_white,eth_not_hispanic,18 to 24 Years,7,0.006432867042692939
+Female,race_white,eth_not_hispanic,18 to 24 Years,7,0.006432867042692939
+Nonbinary,race_white,eth_not_hispanic,18 to 24 Years,7,0.0014295260094873198
+Male,race_white,eth_not_hispanic,18 to 24 Years,8,0.007096373468749507
+Female,race_white,eth_not_hispanic,18 to 24 Years,8,0.007096373468749507
+Nonbinary,race_white,eth_not_hispanic,18 to 24 Years,8,0.001576971881944335
+Male,race_white,eth_not_hispanic,25 to 34 Years,1,0.004682091182254149
+Female,race_white,eth_not_hispanic,25 to 34 Years,1,0.004682091182254149
+Nonbinary,race_white,eth_not_hispanic,25 to 34 Years,1,0.0010404647071675887
+Male,race_white,eth_not_hispanic,25 to 34 Years,2,0.011183829161796917
+Female,race_white,eth_not_hispanic,25 to 34 Years,2,0.011183829161796917
+Nonbinary,race_white,eth_not_hispanic,25 to 34 Years,2,0.002485295369288204
+Male,race_white,eth_not_hispanic,25 to 34 Years,3,0.01244708395760689
+Female,race_white,eth_not_hispanic,25 to 34 Years,3,0.01244708395760689
+Nonbinary,race_white,eth_not_hispanic,25 to 34 Years,3,0.002766018657245976
+Male,race_white,eth_not_hispanic,25 to 34 Years,4,0.014557174378308882
+Female,race_white,eth_not_hispanic,25 to 34 Years,4,0.014557174378308882
+Nonbinary,race_white,eth_not_hispanic,25 to 34 Years,4,0.003234927639624196
+Male,race_white,eth_not_hispanic,25 to 34 Years,5,0.01596390132544354
+Female,race_white,eth_not_hispanic,25 to 34 Years,5,0.01596390132544354
+Nonbinary,race_white,eth_not_hispanic,25 to 34 Years,5,0.003547533627876342
+Male,race_white,eth_not_hispanic,25 to 34 Years,6,0.024341275234499183
+Female,race_white,eth_not_hispanic,25 to 34 Years,6,0.024341275234499183
+Nonbinary,race_white,eth_not_hispanic,25 to 34 Years,6,0.005409172274333152
+Male,race_white,eth_not_hispanic,25 to 34 Years,7,0.01502958268145113
+Female,race_white,eth_not_hispanic,25 to 34 Years,7,0.01502958268145113
+Nonbinary,race_white,eth_not_hispanic,25 to 34 Years,7,0.0033399072625446957
+Male,race_white,eth_not_hispanic,25 to 34 Years,8,0.01657978177991046
+Female,race_white,eth_not_hispanic,25 to 34 Years,8,0.01657978177991046
+Nonbinary,race_white,eth_not_hispanic,25 to 34 Years,8,0.0036843959510912136
+Male,race_white,eth_not_hispanic,35 to 44 Years,1,0.0020264572529723464
+Female,race_white,eth_not_hispanic,35 to 44 Years,1,0.0020264572529723464
+Nonbinary,race_white,eth_not_hispanic,35 to 44 Years,1,0.00045032383399385475
+Male,race_white,eth_not_hispanic,35 to 44 Years,2,0.004840476368086417
+Female,race_white,eth_not_hispanic,35 to 44 Years,2,0.004840476368086417
+Nonbinary,race_white,eth_not_hispanic,35 to 44 Years,2,0.0010756614151303148
+Male,race_white,eth_not_hispanic,35 to 44 Years,3,0.005387226045457878
+Female,race_white,eth_not_hispanic,35 to 44 Years,3,0.005387226045457878
+Nonbinary,race_white,eth_not_hispanic,35 to 44 Years,3,0.0011971613434350842
+Male,race_white,eth_not_hispanic,35 to 44 Years,4,0.006300494897133762
+Female,race_white,eth_not_hispanic,35 to 44 Years,4,0.006300494897133762
+Nonbinary,race_white,eth_not_hispanic,35 to 44 Years,4,0.001400109977140836
+Male,race_white,eth_not_hispanic,35 to 44 Years,5,0.006909340798251015
+Female,race_white,eth_not_hispanic,35 to 44 Years,5,0.006909340798251015
+Nonbinary,race_white,eth_not_hispanic,35 to 44 Years,5,0.0015354090662780034
+Male,race_white,eth_not_hispanic,35 to 44 Years,6,0.010535154448188089
+Female,race_white,eth_not_hispanic,35 to 44 Years,6,0.010535154448188089
+Nonbinary,race_white,eth_not_hispanic,35 to 44 Years,6,0.0023411454329306867
+Male,race_white,eth_not_hispanic,35 to 44 Years,7,0.006504958072882097
+Female,race_white,eth_not_hispanic,35 to 44 Years,7,0.006504958072882097
+Nonbinary,race_white,eth_not_hispanic,35 to 44 Years,7,0.001445546238418244
+Male,race_white,eth_not_hispanic,35 to 44 Years,8,0.007175900197745139
+Female,race_white,eth_not_hispanic,35 to 44 Years,8,0.007175900197745139
+Nonbinary,race_white,eth_not_hispanic,35 to 44 Years,8,0.0015946444883878086
+Male,race_white,eth_not_hispanic,45 to 54 Years,1,0.0012376361349983166
+Female,race_white,eth_not_hispanic,45 to 54 Years,1,0.0012376361349983166
+Nonbinary,race_white,eth_not_hispanic,45 to 54 Years,1,0.0002750302522218481
+Male,race_white,eth_not_hispanic,45 to 54 Years,2,0.002956266881505698
+Female,race_white,eth_not_hispanic,45 to 54 Years,2,0.002956266881505698
+Nonbinary,race_white,eth_not_hispanic,45 to 54 Years,2,0.0006569481958901551
+Male,race_white,eth_not_hispanic,45 to 54 Years,3,0.0032901881406494885
+Female,race_white,eth_not_hispanic,45 to 54 Years,3,0.0032901881406494885
+Nonbinary,race_white,eth_not_hispanic,45 to 54 Years,3,0.0007311529201443307
+Male,race_white,eth_not_hispanic,45 to 54 Years,4,0.0038479568920724992
+Female,race_white,eth_not_hispanic,45 to 54 Years,4,0.0038479568920724992
+Nonbinary,race_white,eth_not_hispanic,45 to 54 Years,4,0.0008551015315716665
+Male,race_white,eth_not_hispanic,45 to 54 Years,5,0.004219802726354505
+Female,race_white,eth_not_hispanic,45 to 54 Years,5,0.004219802726354505
+Nonbinary,race_white,eth_not_hispanic,45 to 54 Years,5,0.0009377339391898901
+Male,race_white,eth_not_hispanic,45 to 54 Years,6,0.006434227918571228
+Female,race_white,eth_not_hispanic,45 to 54 Years,6,0.006434227918571228
+Nonbinary,race_white,eth_not_hispanic,45 to 54 Years,6,0.0014298284263491619
+Male,race_white,eth_not_hispanic,45 to 54 Years,7,0.003972830493137354
+Female,race_white,eth_not_hispanic,45 to 54 Years,7,0.003972830493137354
+Nonbinary,race_white,eth_not_hispanic,45 to 54 Years,7,0.0008828512206971898
+Male,race_white,eth_not_hispanic,45 to 54 Years,8,0.004382600902557574
+Female,race_white,eth_not_hispanic,45 to 54 Years,8,0.004382600902557574
+Nonbinary,race_white,eth_not_hispanic,45 to 54 Years,8,0.0009739113116794609
+Male,race_white,eth_not_hispanic,65 to 74 Years,1,0.0007263212765808093
+Female,race_white,eth_not_hispanic,65 to 74 Years,1,0.0007263212765808093
+Nonbinary,race_white,eth_not_hispanic,65 to 74 Years,1,0.00016140472812906873
+Male,race_white,eth_not_hispanic,65 to 74 Years,2,0.0017349198803828618
+Female,race_white,eth_not_hispanic,65 to 74 Years,2,0.0017349198803828618
+Nonbinary,race_white,eth_not_hispanic,65 to 74 Years,2,0.0003855377511961915
+Male,race_white,eth_not_hispanic,65 to 74 Years,3,0.0019308854863960695
+Female,race_white,eth_not_hispanic,65 to 74 Years,3,0.0019308854863960695
+Nonbinary,race_white,eth_not_hispanic,65 to 74 Years,3,0.000429085663643571
+Male,race_white,eth_not_hispanic,65 to 74 Years,4,0.002258218617769934
+Female,race_white,eth_not_hispanic,65 to 74 Years,4,0.002258218617769934
+Nonbinary,race_white,eth_not_hispanic,65 to 74 Years,4,0.0005018263595044297
+Male,race_white,eth_not_hispanic,65 to 74 Years,5,0.0024764407053525094
+Female,race_white,eth_not_hispanic,65 to 74 Years,5,0.0024764407053525094
+Nonbinary,race_white,eth_not_hispanic,65 to 74 Years,5,0.000550320156745002
+Male,race_white,eth_not_hispanic,65 to 74 Years,6,0.003776002092597995
+Female,race_white,eth_not_hispanic,65 to 74 Years,6,0.003776002092597995
+Nonbinary,race_white,eth_not_hispanic,65 to 74 Years,6,0.0008391115761328878
+Male,race_white,eth_not_hispanic,65 to 74 Years,7,0.002331502154644681
+Female,race_white,eth_not_hispanic,65 to 74 Years,7,0.002331502154644681
+Nonbinary,race_white,eth_not_hispanic,65 to 74 Years,7,0.0005181115899210402
+Male,race_white,eth_not_hispanic,65 to 74 Years,8,0.0025719807237966226
+Female,race_white,eth_not_hispanic,65 to 74 Years,8,0.0025719807237966226
+Nonbinary,race_white,eth_not_hispanic,65 to 74 Years,8,0.000571551271954805
+Male,race_white,eth_not_hispanic,75 Years & Over,1,0.0005438704861070097
+Female,race_white,eth_not_hispanic,75 Years & Over,1,0.0005438704861070097
+Nonbinary,race_white,eth_not_hispanic,75 Years & Over,1,0.00012086010802377992
+Male,race_white,eth_not_hispanic,75 Years & Over,2,0.0012991106678609898
+Female,race_white,eth_not_hispanic,75 Years & Over,2,0.0012991106678609898
+Nonbinary,race_white,eth_not_hispanic,75 Years & Over,2,0.00028869125952466445
+Male,race_white,eth_not_hispanic,75 Years & Over,3,0.0014458500142620588
+Female,race_white,eth_not_hispanic,75 Years & Over,3,0.0014458500142620588
+Nonbinary,race_white,eth_not_hispanic,75 Years & Over,3,0.0003213000031693464
+Male,race_white,eth_not_hispanic,75 Years & Over,4,0.0016909575651757572
+Female,race_white,eth_not_hispanic,75 Years & Over,4,0.0016909575651757572
+Nonbinary,race_white,eth_not_hispanic,75 Years & Over,4,0.00037576834781683497
+Male,race_white,eth_not_hispanic,75 Years & Over,5,0.0018543625991182223
+Female,race_white,eth_not_hispanic,75 Years & Over,5,0.0018543625991182223
+Nonbinary,race_white,eth_not_hispanic,75 Years & Over,5,0.0004120805775818272
+Male,race_white,eth_not_hispanic,75 Years & Over,6,0.002827476159462156
+Female,race_white,eth_not_hispanic,75 Years & Over,6,0.002827476159462156
+Nonbinary,race_white,eth_not_hispanic,75 Years & Over,6,0.0006283280354360347
+Male,race_white,eth_not_hispanic,75 Years & Over,7,0.0017458323900071833
+Female,race_white,eth_not_hispanic,75 Years & Over,7,0.0017458323900071833
+Nonbinary,race_white,eth_not_hispanic,75 Years & Over,7,0.00038796275333492964
+Male,race_white,eth_not_hispanic,75 Years & Over,8,0.0019259031114910435
+Female,race_white,eth_not_hispanic,75 Years & Over,8,0.0019259031114910435
+Nonbinary,race_white,eth_not_hispanic,75 Years & Over,8,0.0004279784692202319
+Male,race_white,eth_not_hispanic,17 Years,1,8.916527975922131e-05
+Female,race_white,eth_not_hispanic,17 Years,1,8.916527975922131e-05
+Nonbinary,race_white,eth_not_hispanic,17 Years,1,1.981450661316029e-05
+Male,race_white,eth_not_hispanic,17 Years,2,0.00021298373251903708
+Female,race_white,eth_not_hispanic,17 Years,2,0.00021298373251903708
+Nonbinary,race_white,eth_not_hispanic,17 Years,2,4.7329718337563796e-05
+Male,race_white,eth_not_hispanic,17 Years,3,0.0002370410314675265
+Female,race_white,eth_not_hispanic,17 Years,3,0.0002370410314675265
+Nonbinary,race_white,eth_not_hispanic,17 Years,3,5.267578477056145e-05
+Male,race_white,eth_not_hispanic,17 Years,4,0.0002772253840047543
+Female,race_white,eth_not_hispanic,17 Years,4,0.0002772253840047543
+Nonbinary,race_white,eth_not_hispanic,17 Years,4,6.160564088994539e-05
+Male,race_white,eth_not_hispanic,17 Years,5,0.000304014952362906
+Female,race_white,eth_not_hispanic,17 Years,5,0.000304014952362906
+Nonbinary,race_white,eth_not_hispanic,17 Years,5,6.7558878302868e-05
+Male,race_white,eth_not_hispanic,17 Years,6,0.00046355282960025736
+Female,race_white,eth_not_hispanic,17 Years,6,0.00046355282960025736
+Nonbinary,race_white,eth_not_hispanic,17 Years,6,0.00010301173991116831
+Male,race_white,eth_not_hispanic,17 Years,7,0.0002862218808414472
+Female,race_white,eth_not_hispanic,17 Years,7,0.0002862218808414472
+Nonbinary,race_white,eth_not_hispanic,17 Years,7,6.360486240921049e-05
+Male,race_white,eth_not_hispanic,17 Years,8,0.0003157437186092611
+Female,race_white,eth_not_hispanic,17 Years,8,0.0003157437186092611
+Nonbinary,race_white,eth_not_hispanic,17 Years,8,7.016527080205803e-05
+Male,race_white,eth_not_hispanic,55 to 64 Years,1,0.0012101292410146686
+Female,race_white,eth_not_hispanic,55 to 64 Years,1,0.0012101292410146686
+Nonbinary,race_white,eth_not_hispanic,55 to 64 Years,1,0.0002689176091143708
+Male,race_white,eth_not_hispanic,55 to 64 Years,2,0.002890562820839226
+Female,race_white,eth_not_hispanic,55 to 64 Years,2,0.002890562820839226
+Nonbinary,race_white,eth_not_hispanic,55 to 64 Years,2,0.000642347293519828
+Male,race_white,eth_not_hispanic,55 to 64 Years,3,0.0032170625637437814
+Female,race_white,eth_not_hispanic,55 to 64 Years,3,0.0032170625637437814
+Nonbinary,race_white,eth_not_hispanic,55 to 64 Years,3,0.0007149027919430626
+Male,race_white,eth_not_hispanic,55 to 64 Years,4,0.0037624347104790947
+Female,race_white,eth_not_hispanic,55 to 64 Years,4,0.0037624347104790947
+Nonbinary,race_white,eth_not_hispanic,55 to 64 Years,4,0.0008360966023286877
+Male,race_white,eth_not_hispanic,55 to 64 Years,5,0.004126016141635969
+Female,race_white,eth_not_hispanic,55 to 64 Years,5,0.004126016141635969
+Nonbinary,race_white,eth_not_hispanic,55 to 64 Years,5,0.0009168924759191042
+Male,race_white,eth_not_hispanic,55 to 64 Years,6,0.006291224963003025
+Female,race_white,eth_not_hispanic,55 to 64 Years,6,0.006291224963003025
+Nonbinary,race_white,eth_not_hispanic,55 to 64 Years,6,0.0013980499917784501
+Male,race_white,eth_not_hispanic,55 to 64 Years,7,0.0038845329522855104
+Female,race_white,eth_not_hispanic,55 to 64 Years,7,0.0038845329522855104
+Nonbinary,race_white,eth_not_hispanic,55 to 64 Years,7,0.0008632295449523356
+Male,race_white,eth_not_hispanic,55 to 64 Years,8,0.004285196071694701
+Female,race_white,eth_not_hispanic,55 to 64 Years,8,0.004285196071694701
+Nonbinary,race_white,eth_not_hispanic,55 to 64 Years,8,0.0009522657937099336
+Male,race_white,eth_hispanic,18 to 24 Years,1,0.00022199674634655316
+Female,race_white,eth_hispanic,18 to 24 Years,1,0.00022199674634655316
+Nonbinary,race_white,eth_hispanic,18 to 24 Years,1,4.9332610299234036e-05
+Male,race_white,eth_hispanic,18 to 24 Years,2,0.000530270255099839
+Female,race_white,eth_hispanic,18 to 24 Years,2,0.000530270255099839
+Nonbinary,race_white,eth_hispanic,18 to 24 Years,2,0.00011783783446663089
+Male,race_white,eth_hispanic,18 to 24 Years,3,0.000590166238232205
+Female,race_white,eth_hispanic,18 to 24 Years,3,0.000590166238232205
+Nonbinary,race_white,eth_hispanic,18 to 24 Years,3,0.00013114805294048998
+Male,race_white,eth_hispanic,18 to 24 Years,4,0.0006902140992538583
+Female,race_white,eth_hispanic,18 to 24 Years,4,0.0006902140992538583
+Nonbinary,race_white,eth_hispanic,18 to 24 Years,4,0.00015338091094530186
+Male,race_white,eth_hispanic,18 to 24 Years,5,0.0007569126732682936
+Female,race_white,eth_hispanic,18 to 24 Years,5,0.0007569126732682936
+Nonbinary,race_white,eth_hispanic,18 to 24 Years,5,0.00016820281628184304
+Male,race_white,eth_hispanic,18 to 24 Years,6,0.0011541176140408267
+Female,race_white,eth_hispanic,18 to 24 Years,6,0.0011541176140408267
+Nonbinary,race_white,eth_hispanic,18 to 24 Years,6,0.0002564705808979615
+Male,race_white,eth_hispanic,18 to 24 Years,7,0.0007126128741094527
+Female,race_white,eth_hispanic,18 to 24 Years,7,0.0007126128741094527
+Nonbinary,race_white,eth_hispanic,18 to 24 Years,7,0.00015835841646876729
+Male,race_white,eth_hispanic,18 to 24 Years,8,0.0007861140390059572
+Female,race_white,eth_hispanic,18 to 24 Years,8,0.0007861140390059572
+Nonbinary,race_white,eth_hispanic,18 to 24 Years,8,0.0001746920086679905
+Male,race_white,eth_hispanic,25 to 34 Years,1,0.0005186674047645037
+Female,race_white,eth_hispanic,25 to 34 Years,1,0.0005186674047645037
+Nonbinary,race_white,eth_hispanic,25 to 34 Years,1,0.00011525942328100081
+Male,race_white,eth_hispanic,25 to 34 Years,2,0.0012389095856706691
+Female,race_white,eth_hispanic,25 to 34 Years,2,0.0012389095856706691
+Nonbinary,race_white,eth_hispanic,25 to 34 Years,2,0.0002753132412601487
+Male,race_white,eth_hispanic,25 to 34 Years,3,0.0013788489975690142
+Female,race_white,eth_hispanic,25 to 34 Years,3,0.0013788489975690142
+Nonbinary,race_white,eth_hispanic,25 to 34 Years,3,0.0003064108883486698
+Male,race_white,eth_hispanic,25 to 34 Years,4,0.0016125982091332873
+Female,race_white,eth_hispanic,25 to 34 Years,4,0.0016125982091332873
+Nonbinary,race_white,eth_hispanic,25 to 34 Years,4,0.000358355157585175
+Male,race_white,eth_hispanic,25 to 34 Years,5,0.0017684310168428019
+Female,race_white,eth_hispanic,25 to 34 Years,5,0.0017684310168428019
+Nonbinary,race_white,eth_hispanic,25 to 34 Years,5,0.0003929846704095116
+Male,race_white,eth_hispanic,25 to 34 Years,6,0.0026964502746949872
+Female,race_white,eth_hispanic,25 to 34 Years,6,0.0026964502746949872
+Nonbinary,race_white,eth_hispanic,25 to 34 Years,6,0.0005992111721544416
+Male,race_white,eth_hispanic,25 to 34 Years,7,0.0016649301221700655
+Female,race_white,eth_hispanic,25 to 34 Years,7,0.0016649301221700655
+Nonbinary,race_white,eth_hispanic,25 to 34 Years,7,0.00036998447159334794
+Male,race_white,eth_hispanic,25 to 34 Years,8,0.0018366563256907496
+Female,race_white,eth_hispanic,25 to 34 Years,8,0.0018366563256907496
+Nonbinary,race_white,eth_hispanic,25 to 34 Years,8,0.0004081458501534999
+Male,race_white,eth_hispanic,35 to 44 Years,1,0.00022448459104108063
+Female,race_white,eth_hispanic,35 to 44 Years,1,0.00022448459104108063
+Nonbinary,race_white,eth_hispanic,35 to 44 Years,1,4.98854646757957e-05
+Male,race_white,eth_hispanic,35 to 44 Years,2,0.0005362128198559749
+Female,race_white,eth_hispanic,35 to 44 Years,2,0.0005362128198559749
+Nonbinary,race_white,eth_hispanic,35 to 44 Years,2,0.00011915840441243888
+Male,race_white,eth_hispanic,35 to 44 Years,3,0.0005967800376181796
+Female,race_white,eth_hispanic,35 to 44 Years,3,0.0005967800376181796
+Nonbinary,race_white,eth_hispanic,35 to 44 Years,3,0.00013261778613737326
+Male,race_white,eth_hispanic,35 to 44 Years,4,0.0006979491021905058
+Female,race_white,eth_hispanic,35 to 44 Years,4,0.0006979491021905058
+Nonbinary,race_white,eth_hispanic,35 to 44 Years,4,0.0001550998004867791
+Male,race_white,eth_hispanic,35 to 44 Years,5,0.0007653951452387229
+Female,race_white,eth_hispanic,35 to 44 Years,5,0.0007653951452387229
+Nonbinary,race_white,eth_hispanic,35 to 44 Years,5,0.00017008781005304957
+Male,race_white,eth_hispanic,35 to 44 Years,6,0.00116705143145124
+Female,race_white,eth_hispanic,35 to 44 Years,6,0.00116705143145124
+Nonbinary,race_white,eth_hispanic,35 to 44 Years,6,0.00025934476254472
+Male,race_white,eth_hispanic,35 to 44 Years,7,0.0007205988927664001
+Female,race_white,eth_hispanic,35 to 44 Years,7,0.0007205988927664001
+Nonbinary,race_white,eth_hispanic,35 to 44 Years,7,0.00016013308728142224
+Male,race_white,eth_hispanic,35 to 44 Years,8,0.0007949237611006292
+Female,race_white,eth_hispanic,35 to 44 Years,8,0.0007949237611006292
+Nonbinary,race_white,eth_hispanic,35 to 44 Years,8,0.00017664972468902873
+Male,race_white,eth_hispanic,45 to 54 Years,1,0.00013710145684802763
+Female,race_white,eth_hispanic,45 to 54 Years,1,0.00013710145684802763
+Nonbinary,race_white,eth_hispanic,45 to 54 Years,1,3.0466990410672805e-05
+Male,race_white,eth_hispanic,45 to 54 Years,2,0.00032748599109588697
+Female,race_white,eth_hispanic,45 to 54 Years,2,0.00032748599109588697
+Nonbinary,race_white,eth_hispanic,45 to 54 Years,2,7.277466468797489e-05
+Male,race_white,eth_hispanic,45 to 54 Years,3,0.0003644767429061544
+Female,race_white,eth_hispanic,45 to 54 Years,3,0.0003644767429061544
+Nonbinary,race_white,eth_hispanic,45 to 54 Years,3,8.099483175692321e-05
+Male,race_white,eth_hispanic,45 to 54 Years,4,0.00042626461919865154
+Female,race_white,eth_hispanic,45 to 54 Years,4,0.00042626461919865154
+Nonbinary,race_white,eth_hispanic,45 to 54 Years,4,9.472547093303367e-05
+Male,race_white,eth_hispanic,45 to 54 Years,5,0.0004674565367269828
+Female,race_white,eth_hispanic,45 to 54 Years,5,0.0004674565367269828
+Nonbinary,race_white,eth_hispanic,45 to 54 Years,5,0.00010387923038377395
+Male,race_white,eth_hispanic,45 to 54 Years,6,0.0007127636276792837
+Female,race_white,eth_hispanic,45 to 54 Years,6,0.0007127636276792837
+Nonbinary,race_white,eth_hispanic,45 to 54 Years,6,0.00015839191726206307
+Male,race_white,eth_hispanic,45 to 54 Years,7,0.0004400977258313003
+Female,race_white,eth_hispanic,45 to 54 Years,7,0.0004400977258313003
+Nonbinary,race_white,eth_hispanic,45 to 54 Years,7,9.779949462917786e-05
+Male,race_white,eth_hispanic,45 to 54 Years,8,0.0004854908090776951
+Female,race_white,eth_hispanic,45 to 54 Years,8,0.0004854908090776951
+Nonbinary,race_white,eth_hispanic,45 to 54 Years,8,0.00010788684646171003
+Male,race_white,eth_hispanic,65 to 74 Years,1,8.04595974075075e-05
+Female,race_white,eth_hispanic,65 to 74 Years,1,8.04595974075075e-05
+Nonbinary,race_white,eth_hispanic,65 to 74 Years,1,1.7879910535001668e-05
+Male,race_white,eth_hispanic,65 to 74 Years,2,0.0001921889935085159
+Female,race_white,eth_hispanic,65 to 74 Years,2,0.0001921889935085159
+Nonbinary,race_white,eth_hispanic,65 to 74 Years,2,4.270866522411464e-05
+Male,race_white,eth_hispanic,65 to 74 Years,3,0.00021389744990919614
+Female,race_white,eth_hispanic,65 to 74 Years,3,0.00021389744990919614
+Nonbinary,race_white,eth_hispanic,65 to 74 Years,3,4.753276664648803e-05
+Male,race_white,eth_hispanic,65 to 74 Years,4,0.0002501583895480058
+Female,race_white,eth_hispanic,65 to 74 Years,4,0.0002501583895480058
+Nonbinary,race_white,eth_hispanic,65 to 74 Years,4,5.559075323289017e-05
+Male,race_white,eth_hispanic,65 to 74 Years,5,0.00027433234930721213
+Female,race_white,eth_hispanic,65 to 74 Years,5,0.00027433234930721213
+Nonbinary,race_white,eth_hispanic,65 to 74 Years,5,6.096274429049159e-05
+Male,race_white,eth_hispanic,65 to 74 Years,6,0.00041829369175382894
+Female,race_white,eth_hispanic,65 to 74 Years,6,0.00041829369175382894
+Nonbinary,race_white,eth_hispanic,65 to 74 Years,6,9.29541537230731e-05
+Male,race_white,eth_hispanic,65 to 74 Years,7,0.0002582765103626648
+Female,race_white,eth_hispanic,65 to 74 Years,7,0.0002582765103626648
+Nonbinary,race_white,eth_hispanic,65 to 74 Years,7,5.739478008059217e-05
+Male,race_white,eth_hispanic,65 to 74 Years,8,0.0002849159734803971
+Female,race_white,eth_hispanic,65 to 74 Years,8,0.0002849159734803971
+Nonbinary,race_white,eth_hispanic,65 to 74 Years,8,6.331466077342157e-05
+Male,race_white,eth_hispanic,75 Years & Over,1,6.024826996669536e-05
+Female,race_white,eth_hispanic,75 Years & Over,1,6.024826996669536e-05
+Nonbinary,race_white,eth_hispanic,75 Years & Over,1,1.3388504437043414e-05
+Male,race_white,eth_hispanic,75 Years & Over,2,0.00014391141316409458
+Female,race_white,eth_hispanic,75 Years & Over,2,0.00014391141316409458
+Nonbinary,race_white,eth_hispanic,75 Years & Over,2,3.198031403646546e-05
+Male,race_white,eth_hispanic,75 Years & Over,3,0.00016016673861848695
+Female,race_white,eth_hispanic,75 Years & Over,3,0.00016016673861848695
+Nonbinary,race_white,eth_hispanic,75 Years & Over,3,3.559260858188599e-05
+Male,race_white,eth_hispanic,75 Years & Over,4,0.00018731898584563005
+Female,race_white,eth_hispanic,75 Years & Over,4,0.00018731898584563005
+Nonbinary,race_white,eth_hispanic,75 Years & Over,4,4.1626441299028906e-05
+Male,race_white,eth_hispanic,75 Years & Over,5,0.00020542048399705873
+Female,race_white,eth_hispanic,75 Years & Over,5,0.00020542048399705873
+Nonbinary,race_white,eth_hispanic,75 Years & Over,5,4.5648996443790836e-05
+Male,race_white,eth_hispanic,75 Years & Over,6,0.00031321895806302955
+Female,race_white,eth_hispanic,75 Years & Over,6,0.00031321895806302955
+Nonbinary,race_white,eth_hispanic,75 Years & Over,6,6.960421290289546e-05
+Male,race_white,eth_hispanic,75 Years & Over,7,0.00019339784716513982
+Female,race_white,eth_hispanic,75 Years & Over,7,0.00019339784716513982
+Nonbinary,race_white,eth_hispanic,75 Years & Over,7,4.2977299370031076e-05
+Male,race_white,eth_hispanic,75 Years & Over,8,0.0002133455180136047
+Female,race_white,eth_hispanic,75 Years & Over,8,0.0002133455180136047
+Nonbinary,race_white,eth_hispanic,75 Years & Over,8,4.741011511413438e-05
+Male,race_white,eth_hispanic,17 Years,1,9.87745057659279e-06
+Female,race_white,eth_hispanic,17 Years,1,9.87745057659279e-06
+Nonbinary,race_white,eth_hispanic,17 Years,1,2.19498901702062e-06
+Male,race_white,eth_hispanic,17 Years,2,2.3593671182952606e-05
+Female,race_white,eth_hispanic,17 Years,2,2.3593671182952606e-05
+Nonbinary,race_white,eth_hispanic,17 Years,2,5.243038040656135e-06
+Male,race_white,eth_hispanic,17 Years,3,2.6258663453617773e-05
+Female,race_white,eth_hispanic,17 Years,3,2.6258663453617773e-05
+Nonbinary,race_white,eth_hispanic,17 Years,3,5.835258545248394e-06
+Male,race_white,eth_hispanic,17 Years,4,3.071016023813607e-05
+Female,race_white,eth_hispanic,17 Years,4,3.071016023813607e-05
+Nonbinary,race_white,eth_hispanic,17 Years,4,6.824480052919127e-06
+Male,race_white,eth_hispanic,17 Years,5,3.367782476114826e-05
+Female,race_white,eth_hispanic,17 Years,5,3.367782476114826e-05
+Nonbinary,race_white,eth_hispanic,17 Years,5,7.483961058032947e-06
+Male,race_white,eth_hispanic,17 Years,6,5.1350931398190996e-05
+Female,race_white,eth_hispanic,17 Years,6,5.1350931398190996e-05
+Nonbinary,race_white,eth_hispanic,17 Years,6,1.1411318088486889e-05
+Male,race_white,eth_hispanic,17 Years,7,3.170676399586407e-05
+Female,race_white,eth_hispanic,17 Years,7,3.170676399586407e-05
+Nonbinary,race_white,eth_hispanic,17 Years,7,7.045947554636459e-06
+Male,race_white,eth_hispanic,17 Years,8,3.497710077122326e-05
+Female,race_white,eth_hispanic,17 Years,8,3.497710077122326e-05
+Nonbinary,race_white,eth_hispanic,17 Years,8,7.772689060271836e-06
+Male,race_white,eth_hispanic,55 to 64 Years,1,0.00013405432923767587
+Female,race_white,eth_hispanic,55 to 64 Years,1,0.00013405432923767587
+Nonbinary,race_white,eth_hispanic,55 to 64 Years,1,2.978985094170575e-05
+Male,race_white,eth_hispanic,55 to 64 Years,2,0.00032020750092945626
+Female,race_white,eth_hispanic,55 to 64 Years,2,0.00032020750092945626
+Nonbinary,race_white,eth_hispanic,55 to 64 Years,2,7.115722242876807e-05
+Male,race_white,eth_hispanic,55 to 64 Years,3,0.0003563761204024017
+Female,race_white,eth_hispanic,55 to 64 Years,3,0.0003563761204024017
+Nonbinary,race_white,eth_hispanic,55 to 64 Years,3,7.919469342275594e-05
+Male,race_white,eth_hispanic,55 to 64 Years,4,0.0004167907396328344
+Female,race_white,eth_hispanic,55 to 64 Years,4,0.0004167907396328344
+Nonbinary,race_white,eth_hispanic,55 to 64 Years,4,9.26201643628521e-05
+Male,race_white,eth_hispanic,55 to 64 Years,5,0.0004570671524531227
+Female,race_white,eth_hispanic,55 to 64 Years,5,0.0004570671524531227
+Nonbinary,race_white,eth_hispanic,55 to 64 Years,5,0.00010157047832291615
+Male,race_white,eth_hispanic,55 to 64 Years,6,0.0006969222079052875
+Female,race_white,eth_hispanic,55 to 64 Years,6,0.0006969222079052875
+Nonbinary,race_white,eth_hispanic,55 to 64 Years,6,0.00015487160175673057
+Male,race_white,eth_hispanic,55 to 64 Years,7,0.0004303164006545733
+Female,race_white,eth_hispanic,55 to 64 Years,7,0.0004303164006545733
+Nonbinary,race_white,eth_hispanic,55 to 64 Years,7,9.56258668121274e-05
+Male,race_white,eth_hispanic,55 to 64 Years,8,0.0004747006068222044
+Female,race_white,eth_hispanic,55 to 64 Years,8,0.0004747006068222044
+Nonbinary,race_white,eth_hispanic,55 to 64 Years,8,0.00010548902373826765
+Male,race_aa,eth_not_hispanic,18 to 24 Years,1,0.00016465454734750063
+Female,race_aa,eth_not_hispanic,18 to 24 Years,1,0.00016465454734750063
+Nonbinary,race_aa,eth_not_hispanic,18 to 24 Years,1,3.6589899410555695e-05
+Male,race_aa,eth_not_hispanic,18 to 24 Years,2,0.00039330039859687037
+Female,race_aa,eth_not_hispanic,18 to 24 Years,2,0.00039330039859687037
+Nonbinary,race_aa,eth_not_hispanic,18 to 24 Years,2,8.740008857708231e-05
+Male,race_aa,eth_not_hispanic,18 to 24 Years,3,0.00043772513072874454
+Female,race_aa,eth_not_hispanic,18 to 24 Years,3,0.00043772513072874454
+Nonbinary,race_aa,eth_not_hispanic,18 to 24 Years,3,9.727225127305435e-05
+Male,race_aa,eth_not_hispanic,18 to 24 Years,4,0.0005119304312149504
+Female,race_aa,eth_not_hispanic,18 to 24 Years,4,0.0005119304312149504
+Nonbinary,race_aa,eth_not_hispanic,18 to 24 Years,4,0.00011376231804776675
+Male,race_aa,eth_not_hispanic,18 to 24 Years,5,0.0005614006315390875
+Female,race_aa,eth_not_hispanic,18 to 24 Years,5,0.0005614006315390875
+Nonbinary,race_aa,eth_not_hispanic,18 to 24 Years,5,0.000124755695897575
+Male,race_aa,eth_not_hispanic,18 to 24 Years,6,0.0008560067498873065
+Female,race_aa,eth_not_hispanic,18 to 24 Years,6,0.0008560067498873065
+Nonbinary,race_aa,eth_not_hispanic,18 to 24 Years,6,0.00019022372219717923
+Male,race_aa,eth_not_hispanic,18 to 24 Years,7,0.0005285435581894744
+Female,race_aa,eth_not_hispanic,18 to 24 Years,7,0.0005285435581894744
+Nonbinary,race_aa,eth_not_hispanic,18 to 24 Years,7,0.00011745412404210541
+Male,race_aa,eth_not_hispanic,18 to 24 Years,8,0.000583059226705874
+Female,race_aa,eth_not_hispanic,18 to 24 Years,8,0.000583059226705874
+Nonbinary,race_aa,eth_not_hispanic,18 to 24 Years,8,0.00012956871704574978
+Male,race_aa,eth_not_hispanic,25 to 34 Years,1,0.00038469458746969706
+Female,race_aa,eth_not_hispanic,25 to 34 Years,1,0.00038469458746969706
+Nonbinary,race_aa,eth_not_hispanic,25 to 34 Years,1,8.548768610437712e-05
+Male,race_aa,eth_not_hispanic,25 to 34 Years,2,0.0009188967874089336
+Female,race_aa,eth_not_hispanic,25 to 34 Years,2,0.0009188967874089336
+Nonbinary,race_aa,eth_not_hispanic,25 to 34 Years,2,0.00020419928609087415
+Male,race_aa,eth_not_hispanic,25 to 34 Years,3,0.0010226895722195168
+Female,race_aa,eth_not_hispanic,25 to 34 Years,3,0.0010226895722195168
+Nonbinary,race_aa,eth_not_hispanic,25 to 34 Years,3,0.00022726434938211484
+Male,race_aa,eth_not_hispanic,25 to 34 Years,4,0.0011960608997563095
+Female,race_aa,eth_not_hispanic,25 to 34 Years,4,0.0011960608997563095
+Nonbinary,race_aa,eth_not_hispanic,25 to 34 Years,4,0.0002657913110569577
+Male,race_aa,eth_not_hispanic,25 to 34 Years,5,0.0013116417847808374
+Female,race_aa,eth_not_hispanic,25 to 34 Years,5,0.0013116417847808374
+Nonbinary,race_aa,eth_not_hispanic,25 to 34 Years,5,0.00029147595217351947
+Male,race_aa,eth_not_hispanic,25 to 34 Years,6,0.0019999518314194444
+Female,race_aa,eth_not_hispanic,25 to 34 Years,6,0.0019999518314194444
+Nonbinary,race_aa,eth_not_hispanic,25 to 34 Years,6,0.00044443374031543216
+Male,race_aa,eth_not_hispanic,25 to 34 Years,7,0.0012348753760705175
+Female,race_aa,eth_not_hispanic,25 to 34 Years,7,0.0012348753760705175
+Nonbinary,race_aa,eth_not_hispanic,25 to 34 Years,7,0.0002744167502378928
+Male,race_aa,eth_not_hispanic,25 to 34 Years,8,0.0013622443613089898
+Female,race_aa,eth_not_hispanic,25 to 34 Years,8,0.0013622443613089898
+Nonbinary,race_aa,eth_not_hispanic,25 to 34 Years,8,0.0003027209691797755
+Male,race_aa,eth_not_hispanic,35 to 44 Years,1,0.00016649977683302127
+Female,race_aa,eth_not_hispanic,35 to 44 Years,1,0.00016649977683302127
+Nonbinary,race_aa,eth_not_hispanic,35 to 44 Years,1,3.699995040733806e-05
+Male,race_aa,eth_not_hispanic,35 to 44 Years,2,0.0003977079871138539
+Female,race_aa,eth_not_hispanic,35 to 44 Years,2,0.0003977079871138539
+Nonbinary,race_aa,eth_not_hispanic,35 to 44 Years,2,8.837955269196753e-05
+Male,race_aa,eth_not_hispanic,35 to 44 Years,3,0.00044263057264204566
+Female,race_aa,eth_not_hispanic,35 to 44 Years,3,0.00044263057264204566
+Nonbinary,race_aa,eth_not_hispanic,35 to 44 Years,3,9.836234947601015e-05
+Male,race_aa,eth_not_hispanic,35 to 44 Years,4,0.0005176674675824883
+Female,race_aa,eth_not_hispanic,35 to 44 Years,4,0.0005176674675824883
+Nonbinary,race_aa,eth_not_hispanic,35 to 44 Years,4,0.00011503721501833074
+Male,race_aa,eth_not_hispanic,35 to 44 Years,5,0.00056769206420945
+Female,race_aa,eth_not_hispanic,35 to 44 Years,5,0.00056769206420945
+Nonbinary,race_aa,eth_not_hispanic,35 to 44 Years,5,0.00012615379204654445
+Male,race_aa,eth_not_hispanic,35 to 44 Years,6,0.0008655997366595647
+Female,race_aa,eth_not_hispanic,35 to 44 Years,6,0.0008655997366595647
+Nonbinary,race_aa,eth_not_hispanic,35 to 44 Years,6,0.00019235549703545884
+Male,race_aa,eth_not_hispanic,35 to 44 Years,7,0.0005344667724199011
+Female,race_aa,eth_not_hispanic,35 to 44 Years,7,0.0005344667724199011
+Nonbinary,race_aa,eth_not_hispanic,35 to 44 Years,7,0.00011877039387108915
+Male,race_aa,eth_not_hispanic,35 to 44 Years,8,0.0005895933801456324
+Female,race_aa,eth_not_hispanic,35 to 44 Years,8,0.0005895933801456324
+Nonbinary,race_aa,eth_not_hispanic,35 to 44 Years,8,0.00013102075114347387
+Male,race_aa,eth_not_hispanic,45 to 54 Years,1,0.00010168787916717763
+Female,race_aa,eth_not_hispanic,45 to 54 Years,1,0.00010168787916717763
+Nonbinary,race_aa,eth_not_hispanic,45 to 54 Years,1,2.259730648159503e-05
+Male,race_aa,eth_not_hispanic,45 to 54 Years,2,0.00024289571137391637
+Female,race_aa,eth_not_hispanic,45 to 54 Years,2,0.00024289571137391637
+Nonbinary,race_aa,eth_not_hispanic,45 to 54 Years,2,5.3976824749759196e-05
+Male,race_aa,eth_not_hispanic,45 to 54 Years,3,0.0002703316787725345
+Female,race_aa,eth_not_hispanic,45 to 54 Years,3,0.0002703316787725345
+Nonbinary,race_aa,eth_not_hispanic,45 to 54 Years,3,6.0073706393896555e-05
+Male,race_aa,eth_not_hispanic,45 to 54 Years,4,0.000316159624316487
+Female,race_aa,eth_not_hispanic,45 to 54 Years,4,0.000316159624316487
+Nonbinary,race_aa,eth_not_hispanic,45 to 54 Years,4,7.025769429255266e-05
+Male,race_aa,eth_not_hispanic,45 to 54 Years,5,0.00034671158801245517
+Female,race_aa,eth_not_hispanic,45 to 54 Years,5,0.00034671158801245517
+Nonbinary,race_aa,eth_not_hispanic,45 to 54 Years,5,7.704701955832338e-05
+Male,race_aa,eth_not_hispanic,45 to 54 Years,6,0.0005286553718138182
+Female,race_aa,eth_not_hispanic,45 to 54 Years,6,0.0005286553718138182
+Nonbinary,race_aa,eth_not_hispanic,45 to 54 Years,6,0.00011747897151418184
+Male,race_aa,eth_not_hispanic,45 to 54 Years,7,0.0003264196121248347
+Female,race_aa,eth_not_hispanic,45 to 54 Years,7,0.0003264196121248347
+Nonbinary,race_aa,eth_not_hispanic,45 to 54 Years,7,7.25376915832966e-05
+Male,race_aa,eth_not_hispanic,45 to 54 Years,8,0.0003600875721181529
+Female,race_aa,eth_not_hispanic,45 to 54 Years,8,0.0003600875721181529
+Nonbinary,race_aa,eth_not_hispanic,45 to 54 Years,8,8.001946047070065e-05
+Male,race_aa,eth_not_hispanic,65 to 74 Years,1,5.967672413637149e-05
+Female,race_aa,eth_not_hispanic,65 to 74 Years,1,5.967672413637149e-05
+Nonbinary,race_aa,eth_not_hispanic,65 to 74 Years,1,1.3261494252526997e-05
+Male,race_aa,eth_not_hispanic,65 to 74 Years,2,0.00014254619606864235
+Female,race_aa,eth_not_hispanic,65 to 74 Years,2,0.00014254619606864235
+Nonbinary,race_aa,eth_not_hispanic,65 to 74 Years,2,3.16769324596983e-05
+Male,race_aa,eth_not_hispanic,65 to 74 Years,3,0.00015864731521156468
+Female,race_aa,eth_not_hispanic,65 to 74 Years,3,0.00015864731521156468
+Nonbinary,race_aa,eth_not_hispanic,65 to 74 Years,3,3.5254958935903263e-05
+Male,race_aa,eth_not_hispanic,65 to 74 Years,4,0.00018554198236719413
+Female,race_aa,eth_not_hispanic,65 to 74 Years,4,0.00018554198236719413
+Nonbinary,race_aa,eth_not_hispanic,65 to 74 Years,4,4.123155163715425e-05
+Male,race_aa,eth_not_hispanic,65 to 74 Years,5,0.00020347176047094703
+Female,race_aa,eth_not_hispanic,65 to 74 Years,5,0.00020347176047094703
+Nonbinary,race_aa,eth_not_hispanic,65 to 74 Years,5,4.521594677132156e-05
+Male,race_aa,eth_not_hispanic,65 to 74 Years,6,0.00031024760320822175
+Female,race_aa,eth_not_hispanic,65 to 74 Years,6,0.00031024760320822175
+Nonbinary,race_aa,eth_not_hispanic,65 to 74 Years,6,6.894391182404927e-05
+Male,race_aa,eth_not_hispanic,65 to 74 Years,7,0.00019156317650651422
+Female,race_aa,eth_not_hispanic,65 to 74 Years,7,0.00019156317650651422
+Nonbinary,race_aa,eth_not_hispanic,65 to 74 Years,7,4.256959477922539e-05
+Male,race_aa,eth_not_hispanic,65 to 74 Years,8,0.0002113216135710976
+Female,race_aa,eth_not_hispanic,65 to 74 Years,8,0.0002113216135710976
+Nonbinary,race_aa,eth_not_hispanic,65 to 74 Years,8,4.6960358571355026e-05
+Male,race_aa,eth_not_hispanic,75 Years & Over,1,4.468602257958393e-05
+Female,race_aa,eth_not_hispanic,75 Years & Over,1,4.468602257958393e-05
+Nonbinary,race_aa,eth_not_hispanic,75 Years & Over,1,9.930227239907541e-06
+Male,race_aa,eth_not_hispanic,75 Years & Over,2,0.0001067388102872574
+Female,race_aa,eth_not_hispanic,75 Years & Over,2,0.0001067388102872574
+Nonbinary,race_aa,eth_not_hispanic,75 Years & Over,2,2.3719735619390534e-05
+Male,race_aa,eth_not_hispanic,75 Years & Over,3,0.00011879535300118098
+Female,race_aa,eth_not_hispanic,75 Years & Over,3,0.00011879535300118098
+Nonbinary,race_aa,eth_not_hispanic,75 Years & Over,3,2.6398967333595777e-05
+Male,race_aa,eth_not_hispanic,75 Years & Over,4,0.00013893412102471557
+Female,race_aa,eth_not_hispanic,75 Years & Over,4,0.00013893412102471557
+Nonbinary,race_aa,eth_not_hispanic,75 Years & Over,4,3.087424911660346e-05
+Male,race_aa,eth_not_hispanic,75 Years & Over,5,0.00015235996637373854
+Female,race_aa,eth_not_hispanic,75 Years & Over,5,0.00015235996637373854
+Nonbinary,race_aa,eth_not_hispanic,75 Years & Over,5,3.385777030527523e-05
+Male,race_aa,eth_not_hispanic,75 Years & Over,6,0.00023231388121344265
+Female,race_aa,eth_not_hispanic,75 Years & Over,6,0.00023231388121344265
+Nonbinary,race_aa,eth_not_hispanic,75 Years & Over,6,5.162530693632059e-05
+Male,race_aa,eth_not_hispanic,75 Years & Over,7,0.00014344280043296966
+Female,race_aa,eth_not_hispanic,75 Years & Over,7,0.00014344280043296966
+Nonbinary,race_aa,eth_not_hispanic,75 Years & Over,7,3.1876177873993256e-05
+Male,race_aa,eth_not_hispanic,75 Years & Over,8,0.00015823794841709197
+Female,race_aa,eth_not_hispanic,75 Years & Over,8,0.00015823794841709197
+Nonbinary,race_aa,eth_not_hispanic,75 Years & Over,8,3.516398853713155e-05
+Male,race_aa,eth_not_hispanic,17 Years,1,7.3260855413498585e-06
+Female,race_aa,eth_not_hispanic,17 Years,1,7.3260855413498585e-06
+Nonbinary,race_aa,eth_not_hispanic,17 Years,1,1.6280190091888574e-06
+Male,race_aa,eth_not_hispanic,17 Years,2,1.749937921536186e-05
+Female,race_aa,eth_not_hispanic,17 Years,2,1.749937921536186e-05
+Nonbinary,race_aa,eth_not_hispanic,17 Years,2,3.88875093674708e-06
+Male,race_aa,eth_not_hispanic,17 Years,3,1.9475998707459986e-05
+Female,race_aa,eth_not_hispanic,17 Years,3,1.9475998707459986e-05
+Nonbinary,race_aa,eth_not_hispanic,17 Years,3,4.327999712768886e-06
+Male,race_aa,eth_not_hispanic,17 Years,4,2.277766506129705e-05
+Female,race_aa,eth_not_hispanic,17 Years,4,2.277766506129705e-05
+Nonbinary,race_aa,eth_not_hispanic,17 Years,4,5.0617033469549e-06
+Male,race_aa,eth_not_hispanic,17 Years,5,2.497877596385508e-05
+Female,race_aa,eth_not_hispanic,17 Years,5,2.497877596385508e-05
+Nonbinary,race_aa,eth_not_hispanic,17 Years,5,5.5508391030789066e-06
+Male,race_aa,eth_not_hispanic,17 Years,6,3.808688417461113e-05
+Female,race_aa,eth_not_hispanic,17 Years,6,3.808688417461113e-05
+Nonbinary,race_aa,eth_not_hispanic,17 Years,6,8.463752038802473e-06
+Male,race_aa,eth_not_hispanic,17 Years,7,2.3516844095738195e-05
+Female,race_aa,eth_not_hispanic,17 Years,7,2.3516844095738195e-05
+Nonbinary,race_aa,eth_not_hispanic,17 Years,7,5.225965354608488e-06
+Male,race_aa,eth_not_hispanic,17 Years,8,2.594244640875612e-05
+Female,race_aa,eth_not_hispanic,17 Years,8,2.594244640875612e-05
+Nonbinary,race_aa,eth_not_hispanic,17 Years,8,5.764988090834694e-06
+Male,race_aa,eth_not_hispanic,55 to 64 Years,1,9.942783065002815e-05
+Female,race_aa,eth_not_hispanic,55 to 64 Years,1,9.942783065002815e-05
+Nonbinary,race_aa,eth_not_hispanic,55 to 64 Years,1,2.2095073477784036e-05
+Male,race_aa,eth_not_hispanic,55 to 64 Years,2,0.00023749726962443222
+Female,race_aa,eth_not_hispanic,55 to 64 Years,2,0.00023749726962443222
+Nonbinary,race_aa,eth_not_hispanic,55 to 64 Years,2,5.27771710276516e-05
+Male,race_aa,eth_not_hispanic,55 to 64 Years,3,0.00026432346309577756
+Female,race_aa,eth_not_hispanic,55 to 64 Years,3,0.00026432346309577756
+Nonbinary,race_aa,eth_not_hispanic,55 to 64 Years,3,5.8738547354617244e-05
+Male,race_aa,eth_not_hispanic,55 to 64 Years,4,0.0003091328665950057
+Female,race_aa,eth_not_hispanic,55 to 64 Years,4,0.0003091328665950057
+Nonbinary,race_aa,eth_not_hispanic,55 to 64 Years,4,6.869619257666794e-05
+Male,race_aa,eth_not_hispanic,55 to 64 Years,5,0.00033900580226115776
+Female,race_aa,eth_not_hispanic,55 to 64 Years,5,0.00033900580226115776
+Nonbinary,race_aa,eth_not_hispanic,55 to 64 Years,5,7.533462272470173e-05
+Male,race_aa,eth_not_hispanic,55 to 64 Years,6,0.0005169058221237645
+Female,race_aa,eth_not_hispanic,55 to 64 Years,6,0.0005169058221237645
+Nonbinary,race_aa,eth_not_hispanic,55 to 64 Years,6,0.00011486796047194767
+Male,race_aa,eth_not_hispanic,55 to 64 Years,7,0.00031916482260229583
+Female,race_aa,eth_not_hispanic,55 to 64 Years,7,0.00031916482260229583
+Nonbinary,race_aa,eth_not_hispanic,55 to 64 Years,7,7.092551613384351e-05
+Male,race_aa,eth_not_hispanic,55 to 64 Years,8,0.0003520845004632543
+Female,race_aa,eth_not_hispanic,55 to 64 Years,8,0.0003520845004632543
+Nonbinary,race_aa,eth_not_hispanic,55 to 64 Years,8,7.82410001029454e-05
+Male,race_aa,eth_hispanic,18 to 24 Years,1,1.6378297497512544e-05
+Female,race_aa,eth_hispanic,18 to 24 Years,1,1.6378297497512544e-05
+Nonbinary,race_aa,eth_hispanic,18 to 24 Years,1,3.6396216661138983e-06
+Male,race_aa,eth_hispanic,18 to 24 Years,2,3.912185261737678e-05
+Female,race_aa,eth_hispanic,18 to 24 Years,2,3.912185261737678e-05
+Nonbinary,race_aa,eth_hispanic,18 to 24 Years,2,8.69374502608373e-06
+Male,race_aa,eth_hispanic,18 to 24 Years,3,4.3540810312893987e-05
+Female,race_aa,eth_hispanic,18 to 24 Years,3,4.3540810312893987e-05
+Nonbinary,race_aa,eth_hispanic,18 to 24 Years,3,9.675735625087554e-06
+Male,race_aa,eth_hispanic,18 to 24 Years,4,5.092206097881336e-05
+Female,race_aa,eth_hispanic,18 to 24 Years,4,5.092206097881336e-05
+Nonbinary,race_aa,eth_hispanic,18 to 24 Years,4,1.1316013550847413e-05
+Male,race_aa,eth_hispanic,18 to 24 Years,5,5.584289475609292e-05
+Female,race_aa,eth_hispanic,18 to 24 Years,5,5.584289475609292e-05
+Nonbinary,race_aa,eth_hispanic,18 to 24 Years,5,1.240953216802065e-05
+Male,race_aa,eth_hispanic,18 to 24 Years,6,8.514756157899657e-05
+Female,race_aa,eth_hispanic,18 to 24 Years,6,8.514756157899657e-05
+Nonbinary,race_aa,eth_hispanic,18 to 24 Years,6,1.8921680350888126e-05
+Male,race_aa,eth_hispanic,18 to 24 Years,7,5.257457978461623e-05
+Female,race_aa,eth_hispanic,18 to 24 Years,7,5.257457978461623e-05
+Nonbinary,race_aa,eth_hispanic,18 to 24 Years,7,1.168323995213694e-05
+Male,race_aa,eth_hispanic,18 to 24 Years,8,5.7997289643658125e-05
+Female,race_aa,eth_hispanic,18 to 24 Years,8,5.7997289643658125e-05
+Nonbinary,race_aa,eth_hispanic,18 to 24 Years,8,1.2888286587479584e-05
+Male,race_aa,eth_hispanic,25 to 34 Years,1,3.826582685241095e-05
+Female,race_aa,eth_hispanic,25 to 34 Years,1,3.826582685241095e-05
+Nonbinary,race_aa,eth_hispanic,25 to 34 Years,1,8.503517078313545e-06
+Male,race_aa,eth_hispanic,25 to 34 Years,2,9.140327550097573e-05
+Female,race_aa,eth_hispanic,25 to 34 Years,2,9.140327550097573e-05
+Nonbinary,race_aa,eth_hispanic,25 to 34 Years,2,2.0311839000216828e-05
+Male,race_aa,eth_hispanic,25 to 34 Years,3,0.00010172761294022859
+Female,race_aa,eth_hispanic,25 to 34 Years,3,0.00010172761294022859
+Nonbinary,race_aa,eth_hispanic,25 to 34 Years,3,2.2606136208939686e-05
+Male,race_aa,eth_hispanic,25 to 34 Years,4,0.00011897297436923002
+Female,race_aa,eth_hispanic,25 to 34 Years,4,0.00011897297436923002
+Nonbinary,race_aa,eth_hispanic,25 to 34 Years,4,2.6438438748717784e-05
+Male,race_aa,eth_hispanic,25 to 34 Years,5,0.00013046988198856427
+Female,race_aa,eth_hispanic,25 to 34 Years,5,0.00013046988198856427
+Nonbinary,race_aa,eth_hispanic,25 to 34 Years,5,2.8993307108569842e-05
+Male,race_aa,eth_hispanic,25 to 34 Years,6,0.00019893654079624137
+Female,race_aa,eth_hispanic,25 to 34 Years,6,0.00019893654079624137
+Nonbinary,race_aa,eth_hispanic,25 to 34 Years,6,4.420812017694253e-05
+Male,race_aa,eth_hispanic,25 to 34 Years,7,0.0001228338761816931
+Female,race_aa,eth_hispanic,25 to 34 Years,7,0.0001228338761816931
+Nonbinary,race_aa,eth_hispanic,25 to 34 Years,7,2.7296416929265137e-05
+Male,race_aa,eth_hispanic,25 to 34 Years,8,0.0001355033539811087
+Female,race_aa,eth_hispanic,25 to 34 Years,8,0.0001355033539811087
+Nonbinary,race_aa,eth_hispanic,25 to 34 Years,8,3.0111856440246376e-05
+Male,race_aa,eth_hispanic,35 to 44 Years,1,1.6561843703505e-05
+Female,race_aa,eth_hispanic,35 to 44 Years,1,1.6561843703505e-05
+Nonbinary,race_aa,eth_hispanic,35 to 44 Years,1,3.6804097118899997e-06
+Male,race_aa,eth_hispanic,35 to 44 Years,2,3.9560278382961154e-05
+Female,race_aa,eth_hispanic,35 to 44 Years,2,3.9560278382961154e-05
+Nonbinary,race_aa,eth_hispanic,35 to 44 Years,2,8.791172973991368e-06
+Male,race_aa,eth_hispanic,35 to 44 Years,3,4.402875788741952e-05
+Female,race_aa,eth_hispanic,35 to 44 Years,3,4.402875788741952e-05
+Nonbinary,race_aa,eth_hispanic,35 to 44 Years,3,9.784168419426561e-06
+Male,race_aa,eth_hispanic,35 to 44 Years,4,5.1492727807609035e-05
+Female,race_aa,eth_hispanic,35 to 44 Years,4,5.1492727807609035e-05
+Nonbinary,race_aa,eth_hispanic,35 to 44 Years,4,1.1442828401690896e-05
+Male,race_aa,eth_hispanic,35 to 44 Years,5,5.646870775440202e-05
+Female,race_aa,eth_hispanic,35 to 44 Years,5,5.646870775440202e-05
+Nonbinary,race_aa,eth_hispanic,35 to 44 Years,5,1.254860172320045e-05
+Male,race_aa,eth_hispanic,35 to 44 Years,6,8.610178236291551e-05
+Female,race_aa,eth_hispanic,35 to 44 Years,6,8.610178236291551e-05
+Nonbinary,race_aa,eth_hispanic,35 to 44 Years,6,1.9133729413981223e-05
+Male,race_aa,eth_hispanic,35 to 44 Years,7,5.316376584944253e-05
+Female,race_aa,eth_hispanic,35 to 44 Years,7,5.316376584944253e-05
+Nonbinary,race_aa,eth_hispanic,35 to 44 Years,7,1.1814170188765008e-05
+Male,race_aa,eth_hispanic,35 to 44 Years,8,5.8647246238570125e-05
+Female,race_aa,eth_hispanic,35 to 44 Years,8,5.8647246238570125e-05
+Nonbinary,race_aa,eth_hispanic,35 to 44 Years,8,1.3032721386348917e-05
+Male,race_aa,eth_hispanic,45 to 54 Years,1,1.0114961072870873e-05
+Female,race_aa,eth_hispanic,45 to 54 Years,1,1.0114961072870873e-05
+Nonbinary,race_aa,eth_hispanic,45 to 54 Years,1,2.2477691273046386e-06
+Male,race_aa,eth_hispanic,45 to 54 Years,2,2.4160998197978585e-05
+Female,race_aa,eth_hispanic,45 to 54 Years,2,2.4160998197978585e-05
+Nonbinary,race_aa,eth_hispanic,45 to 54 Years,2,5.369110710661908e-06
+Male,race_aa,eth_hispanic,45 to 54 Years,3,2.68900721496276e-05
+Female,race_aa,eth_hispanic,45 to 54 Years,3,2.68900721496276e-05
+Nonbinary,race_aa,eth_hispanic,45 to 54 Years,3,5.975571588806133e-06
+Male,race_aa,eth_hispanic,45 to 54 Years,4,3.144860841789454e-05
+Female,race_aa,eth_hispanic,45 to 54 Years,4,3.144860841789454e-05
+Nonbinary,race_aa,eth_hispanic,45 to 54 Years,4,6.9885796484210094e-06
+Male,race_aa,eth_hispanic,45 to 54 Years,5,3.4487632596739156e-05
+Female,race_aa,eth_hispanic,45 to 54 Years,5,3.4487632596739156e-05
+Nonbinary,race_aa,eth_hispanic,45 to 54 Years,5,7.663918354830925e-06
+Male,race_aa,eth_hispanic,45 to 54 Years,6,5.2585701960306355e-05
+Female,race_aa,eth_hispanic,45 to 54 Years,6,5.2585701960306355e-05
+Nonbinary,race_aa,eth_hispanic,45 to 54 Years,6,1.1685711546734747e-05
+Male,race_aa,eth_hispanic,45 to 54 Years,7,3.2469176239148353e-05
+Female,race_aa,eth_hispanic,45 to 54 Years,7,3.2469176239148353e-05
+Nonbinary,race_aa,eth_hispanic,45 to 54 Years,7,7.215372497588524e-06
+Male,race_aa,eth_hispanic,45 to 54 Years,8,3.581815064518856e-05
+Female,race_aa,eth_hispanic,45 to 54 Years,8,3.581815064518856e-05
+Nonbinary,race_aa,eth_hispanic,45 to 54 Years,8,7.959589032264124e-06
+Male,race_aa,eth_hispanic,65 to 74 Years,1,5.936083499228761e-06
+Female,race_aa,eth_hispanic,65 to 74 Years,1,5.936083499228761e-06
+Nonbinary,race_aa,eth_hispanic,65 to 74 Years,1,1.3191296664952801e-06
+Male,race_aa,eth_hispanic,65 to 74 Years,2,1.4179165069906682e-05
+Female,race_aa,eth_hispanic,65 to 74 Years,2,1.4179165069906682e-05
+Nonbinary,race_aa,eth_hispanic,65 to 74 Years,2,3.150925571090374e-06
+Male,race_aa,eth_hispanic,65 to 74 Years,3,1.578075411566272e-05
+Female,race_aa,eth_hispanic,65 to 74 Years,3,1.578075411566272e-05
+Nonbinary,race_aa,eth_hispanic,65 to 74 Years,3,3.506834247925049e-06
+Male,race_aa,eth_hispanic,65 to 74 Years,4,1.8455984571593185e-05
+Female,race_aa,eth_hispanic,65 to 74 Years,4,1.8455984571593185e-05
+Nonbinary,race_aa,eth_hispanic,65 to 74 Years,4,4.101329904798486e-06
+Male,race_aa,eth_hispanic,65 to 74 Years,5,2.023947154221349e-05
+Female,race_aa,eth_hispanic,65 to 74 Years,5,2.023947154221349e-05
+Nonbinary,race_aa,eth_hispanic,65 to 74 Years,5,4.4976603427141086e-06
+Male,race_aa,eth_hispanic,65 to 74 Years,6,3.0860535740385146e-05
+Female,race_aa,eth_hispanic,65 to 74 Years,6,3.0860535740385146e-05
+Nonbinary,race_aa,eth_hispanic,65 to 74 Years,6,6.8578968311967e-06
+Male,race_aa,eth_hispanic,65 to 74 Years,7,1.905491676321942e-05
+Female,race_aa,eth_hispanic,65 to 74 Years,7,1.905491676321942e-05
+Nonbinary,race_aa,eth_hispanic,65 to 74 Years,7,4.234425947382093e-06
+Male,race_aa,eth_hispanic,65 to 74 Years,8,2.1020301658703976e-05
+Female,race_aa,eth_hispanic,65 to 74 Years,8,2.1020301658703976e-05
+Nonbinary,race_aa,eth_hispanic,65 to 74 Years,8,4.671178146378661e-06
+Male,race_aa,eth_hispanic,75 Years & Over,1,4.444948430390847e-06
+Female,race_aa,eth_hispanic,75 Years & Over,1,4.444948430390847e-06
+Nonbinary,race_aa,eth_hispanic,75 Years & Over,1,9.877663178646328e-07
+Male,race_aa,eth_hispanic,75 Years & Over,2,1.0617380555701916e-05
+Female,race_aa,eth_hispanic,75 Years & Over,2,1.0617380555701916e-05
+Nonbinary,race_aa,eth_hispanic,75 Years & Over,2,2.3594179012670926e-06
+Male,race_aa,eth_hispanic,75 Years & Over,3,1.1816652890059983e-05
+Female,race_aa,eth_hispanic,75 Years & Over,3,1.1816652890059983e-05
+Nonbinary,race_aa,eth_hispanic,75 Years & Over,3,2.625922864457774e-06
+Male,race_aa,eth_hispanic,75 Years & Over,4,1.3819869559361696e-05
+Female,race_aa,eth_hispanic,75 Years & Over,4,1.3819869559361696e-05
+Nonbinary,race_aa,eth_hispanic,75 Years & Over,4,3.071082124302599e-06
+Male,race_aa,eth_hispanic,75 Years & Over,5,1.5155347338896168e-05
+Female,race_aa,eth_hispanic,75 Years & Over,5,1.5155347338896168e-05
+Nonbinary,race_aa,eth_hispanic,75 Years & Over,5,3.3678549641991485e-06
+Male,race_aa,eth_hispanic,75 Years & Over,6,2.3108416503586533e-05
+Female,race_aa,eth_hispanic,75 Years & Over,6,2.3108416503586533e-05
+Nonbinary,race_aa,eth_hispanic,75 Years & Over,6,5.135203667463674e-06
+Male,race_aa,eth_hispanic,75 Years & Over,7,1.4268350903235222e-05
+Female,race_aa,eth_hispanic,75 Years & Over,7,1.4268350903235222e-05
+Nonbinary,race_aa,eth_hispanic,75 Years & Over,7,3.170744645163383e-06
+Male,race_aa,eth_hispanic,75 Years & Over,8,1.5740034127946093e-05
+Female,race_aa,eth_hispanic,75 Years & Over,8,1.5740034127946093e-05
+Nonbinary,race_aa,eth_hispanic,75 Years & Over,8,3.4977853617657986e-06
+Male,race_aa,eth_hispanic,17 Years,1,7.287306085462604e-07
+Female,race_aa,eth_hispanic,17 Years,1,7.287306085462604e-07
+Nonbinary,race_aa,eth_hispanic,17 Years,1,1.619401352325023e-07
+Male,race_aa,eth_hispanic,17 Years,2,1.740674906512594e-06
+Female,race_aa,eth_hispanic,17 Years,2,1.740674906512594e-06
+Nonbinary,race_aa,eth_hispanic,17 Years,2,3.868166458916876e-07
+Male,race_aa,eth_hispanic,17 Years,3,1.937290563975374e-06
+Female,race_aa,eth_hispanic,17 Years,3,1.937290563975374e-06
+Nonbinary,race_aa,eth_hispanic,17 Years,3,4.3050901421674983e-07
+Male,race_aa,eth_hispanic,17 Years,4,2.265709515360574e-06
+Female,race_aa,eth_hispanic,17 Years,4,2.265709515360574e-06
+Nonbinary,race_aa,eth_hispanic,17 Years,4,5.034910034134608e-07
+Male,race_aa,eth_hispanic,17 Years,5,2.484655482950706e-06
+Female,race_aa,eth_hispanic,17 Years,5,2.484655482950706e-06
+Nonbinary,race_aa,eth_hispanic,17 Years,5,5.521456628779347e-07
+Male,race_aa,eth_hispanic,17 Years,6,3.788527737703883e-06
+Female,race_aa,eth_hispanic,17 Years,6,3.788527737703883e-06
+Nonbinary,race_aa,eth_hispanic,17 Years,6,8.418950528230851e-07
+Male,race_aa,eth_hispanic,17 Years,7,2.3392361462677094e-06
+Female,race_aa,eth_hispanic,17 Years,7,2.3392361462677094e-06
+Nonbinary,race_aa,eth_hispanic,17 Years,7,5.198302547261577e-07
+Male,race_aa,eth_hispanic,17 Years,8,2.5805124239851933e-06
+Female,race_aa,eth_hispanic,17 Years,8,2.5805124239851933e-06
+Nonbinary,race_aa,eth_hispanic,17 Years,8,5.734472053300429e-07
+Male,race_aa,eth_hispanic,55 to 64 Years,1,9.89015254150025e-06
+Female,race_aa,eth_hispanic,55 to 64 Years,1,9.89015254150025e-06
+Nonbinary,race_aa,eth_hispanic,55 to 64 Years,1,2.1978116758889446e-06
+Male,race_aa,eth_hispanic,55 to 64 Years,2,2.3624011601371325e-05
+Female,race_aa,eth_hispanic,55 to 64 Years,2,2.3624011601371325e-05
+Nonbinary,race_aa,eth_hispanic,55 to 64 Years,2,5.249780355860295e-06
+Male,race_aa,eth_hispanic,55 to 64 Years,3,2.6292430934317203e-05
+Female,race_aa,eth_hispanic,55 to 64 Years,3,2.6292430934317203e-05
+Nonbinary,race_aa,eth_hispanic,55 to 64 Years,3,5.842762429848268e-06
+Male,race_aa,eth_hispanic,55 to 64 Years,4,3.074965214696645e-05
+Female,race_aa,eth_hispanic,55 to 64 Years,4,3.074965214696645e-05
+Nonbinary,race_aa,eth_hispanic,55 to 64 Years,4,6.83325603265921e-06
+Male,race_aa,eth_hispanic,55 to 64 Years,5,3.372113295539926e-05
+Female,race_aa,eth_hispanic,55 to 64 Years,5,3.372113295539926e-05
+Nonbinary,race_aa,eth_hispanic,55 to 64 Years,5,7.493585101199835e-06
+Male,race_aa,eth_hispanic,55 to 64 Years,6,5.141696642651409e-05
+Female,race_aa,eth_hispanic,55 to 64 Years,6,5.141696642651409e-05
+Nonbinary,race_aa,eth_hispanic,55 to 64 Years,6,1.1425992539225354e-05
+Male,race_aa,eth_hispanic,55 to 64 Years,7,3.174753749308196e-05
+Female,race_aa,eth_hispanic,55 to 64 Years,7,3.174753749308196e-05
+Nonbinary,race_aa,eth_hispanic,55 to 64 Years,7,7.0550083317959925e-06
+Male,race_aa,eth_hispanic,55 to 64 Years,8,3.50220797770017e-05
+Female,race_aa,eth_hispanic,55 to 64 Years,8,3.50220797770017e-05
+Nonbinary,race_aa,eth_hispanic,55 to 64 Years,8,7.782684394889266e-06
+Male,race_other,eth_not_hispanic,18 to 24 Years,1,4.0673377377412716e-06
+Female,race_other,eth_not_hispanic,18 to 24 Years,1,4.0673377377412716e-06
+Nonbinary,race_other,eth_not_hispanic,18 to 24 Years,1,9.038528306091715e-07
+Male,race_other,eth_not_hispanic,18 to 24 Years,2,9.715404641121912e-06
+Female,race_other,eth_not_hispanic,18 to 24 Years,2,9.715404641121912e-06
+Nonbinary,race_other,eth_not_hispanic,18 to 24 Years,2,2.158978809138203e-06
+Male,race_other,eth_not_hispanic,18 to 24 Years,3,1.0812795465729234e-05
+Female,race_other,eth_not_hispanic,18 to 24 Years,3,1.0812795465729234e-05
+Nonbinary,race_other,eth_not_hispanic,18 to 24 Years,3,2.402843436828719e-06
+Male,race_other,eth_not_hispanic,18 to 24 Years,4,1.2645833325114885e-05
+Female,race_other,eth_not_hispanic,18 to 24 Years,4,1.2645833325114885e-05
+Nonbinary,race_other,eth_not_hispanic,18 to 24 Years,4,2.8101851833588632e-06
+Male,race_other,eth_not_hispanic,18 to 24 Years,5,1.3867858564705314e-05
+Female,race_other,eth_not_hispanic,18 to 24 Years,5,1.3867858564705314e-05
+Nonbinary,race_other,eth_not_hispanic,18 to 24 Years,5,3.081746347712292e-06
+Male,race_other,eth_not_hispanic,18 to 24 Years,6,2.1145292454206524e-05
+Female,race_other,eth_not_hispanic,18 to 24 Years,6,2.1145292454206524e-05
+Nonbinary,race_other,eth_not_hispanic,18 to 24 Years,6,4.6989538787125605e-06
+Male,race_other,eth_not_hispanic,18 to 24 Years,7,1.3056214935425112e-05
+Female,race_other,eth_not_hispanic,18 to 24 Years,7,1.3056214935425112e-05
+Nonbinary,race_other,eth_not_hispanic,18 to 24 Years,7,2.901381096761136e-06
+Male,race_other,eth_not_hispanic,18 to 24 Years,8,1.440287458999864e-05
+Female,race_other,eth_not_hispanic,18 to 24 Years,8,1.440287458999864e-05
+Nonbinary,race_other,eth_not_hispanic,18 to 24 Years,8,3.200638797777476e-06
+Male,race_other,eth_not_hispanic,25 to 34 Years,1,9.5028217460528e-06
+Female,race_other,eth_not_hispanic,25 to 34 Years,1,9.5028217460528e-06
+Nonbinary,race_other,eth_not_hispanic,25 to 34 Years,1,2.1117381657895113e-06
+Male,race_other,eth_not_hispanic,25 to 34 Years,2,2.2698817862768895e-05
+Female,race_other,eth_not_hispanic,25 to 34 Years,2,2.2698817862768895e-05
+Nonbinary,race_other,eth_not_hispanic,25 to 34 Years,2,5.044181747281976e-06
+Male,race_other,eth_not_hispanic,25 to 34 Years,3,2.5262733147017816e-05
+Female,race_other,eth_not_hispanic,25 to 34 Years,3,2.5262733147017816e-05
+Nonbinary,race_other,eth_not_hispanic,25 to 34 Years,3,5.613940699337293e-06
+Male,race_other,eth_not_hispanic,25 to 34 Years,4,2.9545394965306208e-05
+Female,race_other,eth_not_hispanic,25 to 34 Years,4,2.9545394965306208e-05
+Nonbinary,race_other,eth_not_hispanic,25 to 34 Years,4,6.565643325623602e-06
+Male,race_other,eth_not_hispanic,25 to 34 Years,5,3.2400502844165125e-05
+Female,race_other,eth_not_hispanic,25 to 34 Years,5,3.2400502844165125e-05
+Nonbinary,race_other,eth_not_hispanic,25 to 34 Years,5,7.200111743147805e-06
+Male,race_other,eth_not_hispanic,25 to 34 Years,6,4.940330946602644e-05
+Female,race_other,eth_not_hispanic,25 to 34 Years,6,4.940330946602644e-05
+Nonbinary,race_other,eth_not_hispanic,25 to 34 Years,6,1.0978513214672544e-05
+Male,race_other,eth_not_hispanic,25 to 34 Years,7,3.0504199849997656e-05
+Female,race_other,eth_not_hispanic,25 to 34 Years,7,3.0504199849997656e-05
+Nonbinary,race_other,eth_not_hispanic,25 to 34 Years,7,6.778711077777257e-06
+Male,race_other,eth_not_hispanic,25 to 34 Years,8,3.3650500323466554e-05
+Female,race_other,eth_not_hispanic,25 to 34 Years,8,3.3650500323466554e-05
+Nonbinary,race_other,eth_not_hispanic,25 to 34 Years,8,7.477888960770346e-06
+Male,race_other,eth_not_hispanic,35 to 44 Years,1,4.112919057189507e-06
+Female,race_other,eth_not_hispanic,35 to 44 Years,1,4.112919057189507e-06
+Nonbinary,race_other,eth_not_hispanic,35 to 44 Years,1,9.139820127087794e-07
+Male,race_other,eth_not_hispanic,35 to 44 Years,2,9.824281993107382e-06
+Female,race_other,eth_not_hispanic,35 to 44 Years,2,9.824281993107382e-06
+Nonbinary,race_other,eth_not_hispanic,35 to 44 Years,2,2.183173776246085e-06
+Male,race_other,eth_not_hispanic,35 to 44 Years,3,1.0933970916609184e-05
+Female,race_other,eth_not_hispanic,35 to 44 Years,3,1.0933970916609184e-05
+Nonbinary,race_other,eth_not_hispanic,35 to 44 Years,3,2.429771314802041e-06
+Male,race_other,eth_not_hispanic,35 to 44 Years,4,1.2787551029826887e-05
+Female,race_other,eth_not_hispanic,35 to 44 Years,4,1.2787551029826887e-05
+Nonbinary,race_other,eth_not_hispanic,35 to 44 Years,4,2.841678006628197e-06
+Male,race_other,eth_not_hispanic,35 to 44 Years,5,1.4023271105305351e-05
+Female,race_other,eth_not_hispanic,35 to 44 Years,5,1.4023271105305351e-05
+Nonbinary,race_other,eth_not_hispanic,35 to 44 Years,5,3.1162824678456334e-06
+Male,race_other,eth_not_hispanic,35 to 44 Years,6,2.1382260808527843e-05
+Female,race_other,eth_not_hispanic,35 to 44 Years,6,2.1382260808527843e-05
+Nonbinary,race_other,eth_not_hispanic,35 to 44 Years,6,4.751613513006188e-06
+Male,race_other,eth_not_hispanic,35 to 44 Years,7,1.3202531652189065e-05
+Female,race_other,eth_not_hispanic,35 to 44 Years,7,1.3202531652189065e-05
+Nonbinary,race_other,eth_not_hispanic,35 to 44 Years,7,2.9338959227086813e-06
+Male,race_other,eth_not_hispanic,35 to 44 Years,8,1.4564282879644186e-05
+Female,race_other,eth_not_hispanic,35 to 44 Years,8,1.4564282879644186e-05
+Nonbinary,race_other,eth_not_hispanic,35 to 44 Years,8,3.236507306587597e-06
+Male,race_other,eth_not_hispanic,45 to 54 Years,1,2.5119193795154807e-06
+Female,race_other,eth_not_hispanic,45 to 54 Years,1,2.5119193795154807e-06
+Nonbinary,race_other,eth_not_hispanic,45 to 54 Years,1,5.582043065589956e-07
+Male,race_other,eth_not_hispanic,45 to 54 Years,2,6.000070505927866e-06
+Female,race_other,eth_not_hispanic,45 to 54 Years,2,6.000070505927866e-06
+Nonbinary,race_other,eth_not_hispanic,45 to 54 Years,2,1.3333490013173034e-06
+Male,race_other,eth_not_hispanic,45 to 54 Years,3,6.677800622523596e-06
+Female,race_other,eth_not_hispanic,45 to 54 Years,3,6.677800622523596e-06
+Nonbinary,race_other,eth_not_hispanic,45 to 54 Years,3,1.4839556938941324e-06
+Male,race_other,eth_not_hispanic,45 to 54 Years,4,7.809853975175198e-06
+Female,race_other,eth_not_hispanic,45 to 54 Years,4,7.809853975175198e-06
+Nonbinary,race_other,eth_not_hispanic,45 to 54 Years,4,1.7355231055944884e-06
+Male,race_other,eth_not_hispanic,45 to 54 Years,5,8.564556210276262e-06
+Female,race_other,eth_not_hispanic,45 to 54 Years,5,8.564556210276262e-06
+Nonbinary,race_other,eth_not_hispanic,45 to 54 Years,5,1.9032347133947248e-06
+Male,race_other,eth_not_hispanic,45 to 54 Years,6,1.3058976983490066e-05
+Female,race_other,eth_not_hispanic,45 to 54 Years,6,1.3058976983490066e-05
+Nonbinary,race_other,eth_not_hispanic,45 to 54 Years,6,2.901994885220015e-06
+Male,race_other,eth_not_hispanic,45 to 54 Years,7,8.063298755619589e-06
+Female,race_other,eth_not_hispanic,45 to 54 Years,7,8.063298755619589e-06
+Nonbinary,race_other,eth_not_hispanic,45 to 54 Years,7,1.7918441679154643e-06
+Male,race_other,eth_not_hispanic,45 to 54 Years,8,8.894973109225984e-06
+Female,race_other,eth_not_hispanic,45 to 54 Years,8,8.894973109225984e-06
+Nonbinary,race_other,eth_not_hispanic,45 to 54 Years,8,1.976660690939108e-06
+Male,race_other,eth_not_hispanic,65 to 74 Years,1,1.4741493390545194e-06
+Female,race_other,eth_not_hispanic,65 to 74 Years,1,1.4741493390545194e-06
+Nonbinary,race_other,eth_not_hispanic,65 to 74 Years,1,3.275887420121154e-07
+Male,race_other,eth_not_hispanic,65 to 74 Years,2,3.5212117246773164e-06
+Female,race_other,eth_not_hispanic,65 to 74 Years,2,3.5212117246773164e-06
+Nonbinary,race_other,eth_not_hispanic,65 to 74 Years,2,7.824914943727369e-07
+Male,race_other,eth_not_hispanic,65 to 74 Years,3,3.918945589698751e-06
+Female,race_other,eth_not_hispanic,65 to 74 Years,3,3.918945589698751e-06
+Nonbinary,race_other,eth_not_hispanic,65 to 74 Years,3,8.708767977108337e-07
+Male,race_other,eth_not_hispanic,65 to 74 Years,4,4.583304372546196e-06
+Female,race_other,eth_not_hispanic,65 to 74 Years,4,4.583304372546196e-06
+Nonbinary,race_other,eth_not_hispanic,65 to 74 Years,4,1.0185120827880435e-06
+Male,race_other,eth_not_hispanic,65 to 74 Years,5,5.026210227777823e-06
+Female,race_other,eth_not_hispanic,65 to 74 Years,5,5.026210227777823e-06
+Nonbinary,race_other,eth_not_hispanic,65 to 74 Years,5,1.1169356061728496e-06
+Male,race_other,eth_not_hispanic,65 to 74 Years,6,7.663813753709457e-06
+Female,race_other,eth_not_hispanic,65 to 74 Years,6,7.663813753709457e-06
+Nonbinary,race_other,eth_not_hispanic,65 to 74 Years,6,1.703069723046546e-06
+Male,race_other,eth_not_hispanic,65 to 74 Years,7,4.732041413482193e-06
+Female,race_other,eth_not_hispanic,65 to 74 Years,7,4.732041413482193e-06
+Nonbinary,race_other,eth_not_hispanic,65 to 74 Years,7,1.0515647585515983e-06
+Male,race_other,eth_not_hispanic,65 to 74 Years,8,5.220119258924011e-06
+Female,race_other,eth_not_hispanic,65 to 74 Years,8,5.220119258924011e-06
+Nonbinary,race_other,eth_not_hispanic,65 to 74 Years,8,1.1600265019831135e-06
+Male,race_other,eth_not_hispanic,75 Years & Over,1,1.1038452864828163e-06
+Female,race_other,eth_not_hispanic,75 Years & Over,1,1.1038452864828163e-06
+Nonbinary,race_other,eth_not_hispanic,75 Years & Over,1,2.4529895255173695e-07
+Male,race_other,eth_not_hispanic,75 Years & Over,2,2.6366887411054444e-06
+Female,race_other,eth_not_hispanic,75 Years & Over,2,2.6366887411054444e-06
+Nonbinary,race_other,eth_not_hispanic,75 Years & Over,2,5.859308313567655e-07
+Male,race_other,eth_not_hispanic,75 Years & Over,3,2.9345124693717346e-06
+Female,race_other,eth_not_hispanic,75 Years & Over,3,2.9345124693717346e-06
+Nonbinary,race_other,eth_not_hispanic,75 Years & Over,3,6.521138820826078e-07
+Male,race_other,eth_not_hispanic,75 Years & Over,4,3.4319853451184775e-06
+Female,race_other,eth_not_hispanic,75 Years & Over,4,3.4319853451184775e-06
+Nonbinary,race_other,eth_not_hispanic,75 Years & Over,4,7.626634100263283e-07
+Male,race_other,eth_not_hispanic,75 Years & Over,5,3.7636339289496384e-06
+Female,race_other,eth_not_hispanic,75 Years & Over,5,3.7636339289496384e-06
+Nonbinary,race_other,eth_not_hispanic,75 Years & Over,5,8.363630953221419e-07
+Male,race_other,eth_not_hispanic,75 Years & Over,6,5.738675495347147e-06
+Female,race_other,eth_not_hispanic,75 Years & Over,6,5.738675495347147e-06
+Nonbinary,race_other,eth_not_hispanic,75 Years & Over,6,1.275261221188255e-06
+Male,race_other,eth_not_hispanic,75 Years & Over,7,3.5433598695393917e-06
+Female,race_other,eth_not_hispanic,75 Years & Over,7,3.5433598695393917e-06
+Nonbinary,race_other,eth_not_hispanic,75 Years & Over,7,7.874133043420871e-07
+Male,race_other,eth_not_hispanic,75 Years & Over,8,3.9088333089354215e-06
+Female,race_other,eth_not_hispanic,75 Years & Over,8,3.9088333089354215e-06
+Nonbinary,race_other,eth_not_hispanic,75 Years & Over,8,8.686296242078714e-07
+Male,race_other,eth_not_hispanic,17 Years,1,1.809707941400823e-07
+Female,race_other,eth_not_hispanic,17 Years,1,1.809707941400823e-07
+Nonbinary,race_other,eth_not_hispanic,17 Years,1,4.0215732031129395e-08
+Male,race_other,eth_not_hispanic,17 Years,2,4.322740344332613e-07
+Female,race_other,eth_not_hispanic,17 Years,2,4.322740344332613e-07
+Nonbinary,race_other,eth_not_hispanic,17 Years,2,9.606089654072473e-08
+Male,race_other,eth_not_hispanic,17 Years,3,4.811009826280069e-07
+Female,race_other,eth_not_hispanic,17 Years,3,4.811009826280069e-07
+Nonbinary,race_other,eth_not_hispanic,17 Years,3,1.0691132947289041e-07
+Male,race_other,eth_not_hispanic,17 Years,4,5.626595692247709e-07
+Female,race_other,eth_not_hispanic,17 Years,4,5.626595692247709e-07
+Nonbinary,race_other,eth_not_hispanic,17 Years,4,1.2503545982772687e-07
+Male,race_other,eth_not_hispanic,17 Years,5,6.170319602892799e-07
+Female,race_other,eth_not_hispanic,17 Years,5,6.170319602892799e-07
+Nonbinary,race_other,eth_not_hispanic,17 Years,5,1.3711821339761778e-07
+Male,race_other,eth_not_hispanic,17 Years,6,9.408317220018044e-07
+Female,race_other,eth_not_hispanic,17 Years,6,9.408317220018044e-07
+Nonbinary,race_other,eth_not_hispanic,17 Years,6,2.0907371600040098e-07
+Male,race_other,eth_not_hispanic,17 Years,7,5.809189542837482e-07
+Female,race_other,eth_not_hispanic,17 Years,7,5.809189542837482e-07
+Nonbinary,race_other,eth_not_hispanic,17 Years,7,1.2909310095194403e-07
+Male,race_other,eth_not_hispanic,17 Years,8,6.408367882180205e-07
+Female,race_other,eth_not_hispanic,17 Years,8,6.408367882180205e-07
+Nonbinary,race_other,eth_not_hispanic,17 Years,8,1.424081751595601e-07
+Male,race_other,eth_not_hispanic,55 to 64 Years,1,2.456091096780428e-06
+Female,race_other,eth_not_hispanic,55 to 64 Years,1,2.456091096780428e-06
+Nonbinary,race_other,eth_not_hispanic,55 to 64 Years,1,5.457980215067618e-07
+Male,race_other,eth_not_hispanic,55 to 64 Years,2,5.866716850007665e-06
+Female,race_other,eth_not_hispanic,55 to 64 Years,2,5.866716850007665e-06
+Nonbinary,race_other,eth_not_hispanic,55 to 64 Years,2,1.3037148555572588e-06
+Male,race_other,eth_not_hispanic,55 to 64 Years,3,6.529384178810156e-06
+Female,race_other,eth_not_hispanic,55 to 64 Years,3,6.529384178810156e-06
+Nonbinary,race_other,eth_not_hispanic,55 to 64 Years,3,1.4509742619578127e-06
+Male,race_other,eth_not_hispanic,55 to 64 Years,4,7.636277251574436e-06
+Female,race_other,eth_not_hispanic,55 to 64 Years,4,7.636277251574436e-06
+Nonbinary,race_other,eth_not_hispanic,55 to 64 Years,4,1.6969505003498746e-06
+Male,race_other,eth_not_hispanic,55 to 64 Years,5,8.37420596675062e-06
+Female,race_other,eth_not_hispanic,55 to 64 Years,5,8.37420596675062e-06
+Nonbinary,race_other,eth_not_hispanic,55 to 64 Years,5,1.8609346592779154e-06
+Male,race_other,eth_not_hispanic,55 to 64 Years,6,1.27687366735461e-05
+Female,race_other,eth_not_hispanic,55 to 64 Years,6,1.27687366735461e-05
+Nonbinary,race_other,eth_not_hispanic,55 to 64 Years,6,2.8374970385658002e-06
+Male,race_other,eth_not_hispanic,55 to 64 Years,7,7.884089133536592e-06
+Female,race_other,eth_not_hispanic,55 to 64 Years,7,7.884089133536592e-06
+Nonbinary,race_other,eth_not_hispanic,55 to 64 Years,7,1.7520198074525761e-06
+Male,race_other,eth_not_hispanic,55 to 64 Years,8,8.697279235086464e-06
+Female,race_other,eth_not_hispanic,55 to 64 Years,8,8.697279235086464e-06
+Nonbinary,race_other,eth_not_hispanic,55 to 64 Years,8,1.932728718908103e-06
+Male,race_other,eth_hispanic,18 to 24 Years,1,1.706829229230623e-06
+Female,race_other,eth_hispanic,18 to 24 Years,1,1.706829229230623e-06
+Nonbinary,race_other,eth_hispanic,18 to 24 Years,1,3.7929538427347184e-07
+Male,race_other,eth_hispanic,18 to 24 Years,2,4.07700016189916e-06
+Female,race_other,eth_hispanic,18 to 24 Years,2,4.07700016189916e-06
+Nonbinary,race_other,eth_hispanic,18 to 24 Years,2,9.060000359775913e-07
+Male,race_other,eth_hispanic,18 to 24 Years,3,4.53751238293971e-06
+Female,race_other,eth_hispanic,18 to 24 Years,3,4.53751238293971e-06
+Nonbinary,race_other,eth_hispanic,18 to 24 Years,3,1.0083360850977132e-06
+Male,race_other,eth_hispanic,18 to 24 Years,4,5.3067336275032905e-06
+Female,race_other,eth_hispanic,18 to 24 Years,4,5.3067336275032905e-06
+Nonbinary,race_other,eth_hispanic,18 to 24 Years,4,1.1792741394451757e-06
+Male,race_other,eth_hispanic,18 to 24 Years,5,5.8195477905456754e-06
+Female,race_other,eth_hispanic,18 to 24 Years,5,5.8195477905456754e-06
+Nonbinary,race_other,eth_hispanic,18 to 24 Years,5,1.2932328423434836e-06
+Male,race_other,eth_hispanic,18 to 24 Years,6,8.87347094060406e-06
+Female,race_other,eth_hispanic,18 to 24 Years,6,8.87347094060406e-06
+Nonbinary,race_other,eth_hispanic,18 to 24 Years,6,1.971882431245347e-06
+Male,race_other,eth_hispanic,18 to 24 Years,7,5.478947338972752e-06
+Female,race_other,eth_hispanic,18 to 24 Years,7,5.478947338972752e-06
+Nonbinary,race_other,eth_hispanic,18 to 24 Years,7,1.2175438531050562e-06
+Male,race_other,eth_hispanic,18 to 24 Years,8,6.044063444016971e-06
+Female,race_other,eth_hispanic,18 to 24 Years,8,6.044063444016971e-06
+Nonbinary,race_other,eth_hispanic,18 to 24 Years,8,1.3431252097815492e-06
+Male,race_other,eth_hispanic,25 to 34 Years,1,3.987791268432664e-06
+Female,race_other,eth_hispanic,25 to 34 Years,1,3.987791268432664e-06
+Nonbinary,race_other,eth_hispanic,25 to 34 Years,1,8.861758374294809e-07
+Male,race_other,eth_hispanic,25 to 34 Years,2,9.525396781697165e-06
+Female,race_other,eth_hispanic,25 to 34 Years,2,9.525396781697165e-06
+Nonbinary,race_other,eth_hispanic,25 to 34 Years,2,2.1167548403771476e-06
+Male,race_other,eth_hispanic,25 to 34 Years,3,1.0601325517051567e-05
+Female,race_other,eth_hispanic,25 to 34 Years,3,1.0601325517051567e-05
+Nonbinary,race_other,eth_hispanic,25 to 34 Years,3,2.3558501149003484e-06
+Male,race_other,eth_hispanic,25 to 34 Years,4,1.2398513958654638e-05
+Female,race_other,eth_hispanic,25 to 34 Years,4,1.2398513958654638e-05
+Nonbinary,race_other,eth_hispanic,25 to 34 Years,4,2.7552253241454752e-06
+Male,race_other,eth_hispanic,25 to 34 Years,5,1.3596639586390014e-05
+Female,race_other,eth_hispanic,25 to 34 Years,5,1.3596639586390014e-05
+Nonbinary,race_other,eth_hispanic,25 to 34 Years,5,3.0214754636422253e-06
+Male,race_other,eth_hispanic,25 to 34 Years,6,2.0731745936635016e-05
+Female,race_other,eth_hispanic,25 to 34 Years,6,2.0731745936635016e-05
+Nonbinary,race_other,eth_hispanic,25 to 34 Years,6,4.6070546525855595e-06
+Male,race_other,eth_hispanic,25 to 34 Years,7,1.2800869579909064e-05
+Female,race_other,eth_hispanic,25 to 34 Years,7,1.2800869579909064e-05
+Nonbinary,race_other,eth_hispanic,25 to 34 Years,7,2.8446376844242366e-06
+Male,race_other,eth_hispanic,25 to 34 Years,8,1.4121192100025409e-05
+Female,race_other,eth_hispanic,25 to 34 Years,8,1.4121192100025409e-05
+Nonbinary,race_other,eth_hispanic,25 to 34 Years,8,3.138042688894535e-06
+Male,race_other,eth_hispanic,35 to 44 Years,1,1.7259571043562209e-06
+Female,race_other,eth_hispanic,35 to 44 Years,1,1.7259571043562209e-06
+Nonbinary,race_other,eth_hispanic,35 to 44 Years,1,3.8354602319027133e-07
+Male,race_other,eth_hispanic,35 to 44 Years,2,4.12268976496449e-06
+Female,race_other,eth_hispanic,35 to 44 Years,2,4.12268976496449e-06
+Nonbinary,race_other,eth_hispanic,35 to 44 Years,2,9.1615328110322e-07
+Male,race_other,eth_hispanic,35 to 44 Years,3,4.5883627953625435e-06
+Female,race_other,eth_hispanic,35 to 44 Years,3,4.5883627953625435e-06
+Nonbinary,race_other,eth_hispanic,35 to 44 Years,3,1.0196361767472318e-06
+Male,race_other,eth_hispanic,35 to 44 Years,4,5.36620445001636e-06
+Female,race_other,eth_hispanic,35 to 44 Years,4,5.36620445001636e-06
+Nonbinary,race_other,eth_hispanic,35 to 44 Years,4,1.1924898777814133e-06
+Male,race_other,eth_hispanic,35 to 44 Years,5,5.884765553118902e-06
+Female,race_other,eth_hispanic,35 to 44 Years,5,5.884765553118902e-06
+Nonbinary,race_other,eth_hispanic,35 to 44 Years,5,1.3077256784708673e-06
+Male,race_other,eth_hispanic,35 to 44 Years,6,8.972913017863893e-06
+Female,race_other,eth_hispanic,35 to 44 Years,6,8.972913017863893e-06
+Nonbinary,race_other,eth_hispanic,35 to 44 Years,6,1.993980670636421e-06
+Male,race_other,eth_hispanic,35 to 44 Years,7,5.540348104043337e-06
+Female,race_other,eth_hispanic,35 to 44 Years,7,5.540348104043337e-06
+Nonbinary,race_other,eth_hispanic,35 to 44 Years,7,1.231188467565186e-06
+Male,race_other,eth_hispanic,35 to 44 Years,8,6.111797279850366e-06
+Female,race_other,eth_hispanic,35 to 44 Years,8,6.111797279850366e-06
+Nonbinary,race_other,eth_hispanic,35 to 44 Years,8,1.3581771733000814e-06
+Male,race_other,eth_hispanic,45 to 54 Years,1,1.054109025332334e-06
+Female,race_other,eth_hispanic,45 to 54 Years,1,1.054109025332334e-06
+Nonbinary,race_other,eth_hispanic,45 to 54 Years,1,2.3424645007385202e-07
+Male,race_other,eth_hispanic,45 to 54 Years,2,2.5178867301660265e-06
+Female,race_other,eth_hispanic,45 to 54 Years,2,2.5178867301660265e-06
+Nonbinary,race_other,eth_hispanic,45 to 54 Years,2,5.595303844813392e-07
+Male,race_other,eth_hispanic,45 to 54 Years,3,2.8022913326660052e-06
+Female,race_other,eth_hispanic,45 to 54 Years,3,2.8022913326660052e-06
+Nonbinary,race_other,eth_hispanic,45 to 54 Years,3,6.227314072591123e-07
+Male,race_other,eth_hispanic,45 to 54 Years,4,3.277349436010849e-06
+Female,race_other,eth_hispanic,45 to 54 Years,4,3.277349436010849e-06
+Nonbinary,race_other,eth_hispanic,45 to 54 Years,4,7.282998746690776e-07
+Male,race_other,eth_hispanic,45 to 54 Years,5,3.5940548382407436e-06
+Female,race_other,eth_hispanic,45 to 54 Years,5,3.5940548382407436e-06
+Nonbinary,race_other,eth_hispanic,45 to 54 Years,5,7.986788529423875e-07
+Male,race_other,eth_hispanic,45 to 54 Years,6,5.4801064127142955e-06
+Female,race_other,eth_hispanic,45 to 54 Years,6,5.4801064127142955e-06
+Nonbinary,race_other,eth_hispanic,45 to 54 Years,6,1.2178014250476212e-06
+Male,race_other,eth_hispanic,45 to 54 Years,7,3.3837057278044725e-06
+Female,race_other,eth_hispanic,45 to 54 Years,7,3.3837057278044725e-06
+Nonbinary,race_other,eth_hispanic,45 to 54 Years,7,7.519346061787717e-07
+Male,race_other,eth_hispanic,45 to 54 Years,8,3.732711929764281e-06
+Female,race_other,eth_hispanic,45 to 54 Years,8,3.732711929764281e-06
+Nonbinary,race_other,eth_hispanic,45 to 54 Years,8,8.29491539947618e-07
+Male,race_other,eth_hispanic,65 to 74 Years,1,6.186162404960605e-07
+Female,race_other,eth_hispanic,65 to 74 Years,1,6.186162404960605e-07
+Nonbinary,race_other,eth_hispanic,65 to 74 Years,1,1.3747027566579123e-07
+Male,race_other,eth_hispanic,65 to 74 Years,2,1.4776513487484393e-06
+Female,race_other,eth_hispanic,65 to 74 Years,2,1.4776513487484393e-06
+Nonbinary,race_other,eth_hispanic,65 to 74 Years,2,3.283669663885421e-07
+Male,race_other,eth_hispanic,65 to 74 Years,3,1.6445575242484974e-06
+Female,race_other,eth_hispanic,65 to 74 Years,3,1.6445575242484974e-06
+Nonbinary,race_other,eth_hispanic,65 to 74 Years,3,3.654572276107772e-07
+Male,race_other,eth_hispanic,65 to 74 Years,4,1.923350942050535e-06
+Female,race_other,eth_hispanic,65 to 74 Years,4,1.923350942050535e-06
+Nonbinary,race_other,eth_hispanic,65 to 74 Years,4,4.274113204556744e-07
+Male,race_other,eth_hispanic,65 to 74 Years,5,2.1092132205852262e-06
+Female,race_other,eth_hispanic,65 to 74 Years,5,2.1092132205852262e-06
+Nonbinary,race_other,eth_hispanic,65 to 74 Years,5,4.687140490189391e-07
+Male,race_other,eth_hispanic,65 to 74 Years,6,3.216064700217193e-06
+Female,race_other,eth_hispanic,65 to 74 Years,6,3.216064700217193e-06
+Nonbinary,race_other,eth_hispanic,65 to 74 Years,6,7.146810444927096e-07
+Male,race_other,eth_hispanic,65 to 74 Years,7,1.9857673788718876e-06
+Female,race_other,eth_hispanic,65 to 74 Years,7,1.9857673788718876e-06
+Nonbinary,race_other,eth_hispanic,65 to 74 Years,7,4.412816397493084e-07
+Male,race_other,eth_hispanic,65 to 74 Years,8,2.1905857604412113e-06
+Female,race_other,eth_hispanic,65 to 74 Years,8,2.1905857604412113e-06
+Nonbinary,race_other,eth_hispanic,65 to 74 Years,8,4.867968356536025e-07
+Male,race_other,eth_hispanic,75 Years & Over,1,4.632207898633006e-07
+Female,race_other,eth_hispanic,75 Years & Over,1,4.632207898633006e-07
+Nonbinary,race_other,eth_hispanic,75 Years & Over,1,1.0293795330295569e-07
+Male,race_other,eth_hispanic,75 Years & Over,2,1.1064675967138342e-06
+Female,race_other,eth_hispanic,75 Years & Over,2,1.1064675967138342e-06
+Nonbinary,race_other,eth_hispanic,75 Years & Over,2,2.4588168815862985e-07
+Male,race_other,eth_hispanic,75 Years & Over,3,1.2314471969684315e-06
+Female,race_other,eth_hispanic,75 Years & Over,3,1.2314471969684315e-06
+Nonbinary,race_other,eth_hispanic,75 Years & Over,3,2.7365493265965143e-07
+Male,race_other,eth_hispanic,75 Years & Over,4,1.4402081358978572e-06
+Female,race_other,eth_hispanic,75 Years & Over,4,1.4402081358978572e-06
+Nonbinary,race_other,eth_hispanic,75 Years & Over,4,3.200462524217461e-07
+Male,race_other,eth_hispanic,75 Years & Over,5,1.5793820951841408e-06
+Female,race_other,eth_hispanic,75 Years & Over,5,1.5793820951841408e-06
+Nonbinary,race_other,eth_hispanic,75 Years & Over,5,3.5097379892980907e-07
+Male,race_other,eth_hispanic,75 Years & Over,6,2.408194181083052e-06
+Female,race_other,eth_hispanic,75 Years & Over,6,2.408194181083052e-06
+Nonbinary,race_other,eth_hispanic,75 Years & Over,6,5.351542624629004e-07
+Male,race_other,eth_hispanic,75 Years & Over,7,1.4869456595387744e-06
+Female,race_other,eth_hispanic,75 Years & Over,7,1.4869456595387744e-06
+Nonbinary,race_other,eth_hispanic,75 Years & Over,7,3.304323687863943e-07
+Male,race_other,eth_hispanic,75 Years & Over,8,1.640313977856743e-06
+Female,race_other,eth_hispanic,75 Years & Over,8,1.640313977856743e-06
+Nonbinary,race_other,eth_hispanic,75 Years & Over,8,3.645142173014985e-07
+Male,race_other,eth_hispanic,17 Years,1,7.5943101112352e-08
+Female,race_other,eth_hispanic,17 Years,1,7.5943101112352e-08
+Nonbinary,race_other,eth_hispanic,17 Years,1,1.6876244691633778e-08
+Male,race_other,eth_hispanic,17 Years,2,1.8140071087823412e-07
+Female,race_other,eth_hispanic,17 Years,2,1.8140071087823412e-07
+Nonbinary,race_other,eth_hispanic,17 Years,2,4.0311269084052025e-08
+Male,race_other,eth_hispanic,17 Years,3,2.0189059092424237e-07
+Female,race_other,eth_hispanic,17 Years,3,2.0189059092424237e-07
+Nonbinary,race_other,eth_hispanic,17 Years,3,4.4864575760942754e-08
+Male,race_other,eth_hispanic,17 Years,4,2.3611606922823978e-07
+Female,race_other,eth_hispanic,17 Years,4,2.3611606922823978e-07
+Nonbinary,race_other,eth_hispanic,17 Years,4,5.247023760627551e-08
+Male,race_other,eth_hispanic,17 Years,5,2.5893305476423793e-07
+Female,race_other,eth_hispanic,17 Years,5,2.5893305476423793e-07
+Nonbinary,race_other,eth_hispanic,17 Years,5,5.7540678836497315e-08
+Male,race_other,eth_hispanic,17 Years,6,3.9481331191145093e-07
+Female,race_other,eth_hispanic,17 Years,6,3.9481331191145093e-07
+Nonbinary,race_other,eth_hispanic,17 Years,6,8.7736291535878e-08
+Male,race_other,eth_hispanic,17 Years,7,2.437784897440602e-07
+Female,race_other,eth_hispanic,17 Years,7,2.437784897440602e-07
+Nonbinary,race_other,eth_hispanic,17 Years,7,5.417299772090227e-08
+Male,race_other,eth_hispanic,17 Years,8,2.689225807700482e-07
+Female,race_other,eth_hispanic,17 Years,8,2.689225807700482e-07
+Nonbinary,race_other,eth_hispanic,17 Years,8,5.976057350445514e-08
+Male,race_other,eth_hispanic,55 to 64 Years,1,1.030681085256019e-06
+Female,race_other,eth_hispanic,55 to 64 Years,1,1.030681085256019e-06
+Nonbinary,race_other,eth_hispanic,55 to 64 Years,1,2.2904024116800419e-07
+Male,race_other,eth_hispanic,55 to 64 Years,2,2.461925820985231e-06
+Female,race_other,eth_hispanic,55 to 64 Years,2,2.461925820985231e-06
+Nonbinary,race_other,eth_hispanic,55 to 64 Years,2,5.470946268856069e-07
+Male,race_other,eth_hispanic,55 to 64 Years,3,2.7400094321791195e-06
+Female,race_other,eth_hispanic,55 to 64 Years,3,2.7400094321791195e-06
+Nonbinary,race_other,eth_hispanic,55 to 64 Years,3,6.088909849286933e-07
+Male,race_other,eth_hispanic,55 to 64 Years,4,3.204509203785534e-06
+Female,race_other,eth_hispanic,55 to 64 Years,4,3.204509203785534e-06
+Nonbinary,race_other,eth_hispanic,55 to 64 Years,4,7.121131563967854e-07
+Male,race_other,eth_hispanic,55 to 64 Years,5,3.5141757181898095e-06
+Female,race_other,eth_hispanic,55 to 64 Years,5,3.5141757181898095e-06
+Nonbinary,race_other,eth_hispanic,55 to 64 Years,5,7.809279373755132e-07
+Male,race_other,eth_hispanic,55 to 64 Years,6,5.358309139791388e-06
+Female,race_other,eth_hispanic,55 to 64 Years,6,5.358309139791388e-06
+Nonbinary,race_other,eth_hispanic,55 to 64 Years,6,1.1907353643980863e-06
+Male,race_other,eth_hispanic,55 to 64 Years,7,3.308501689966076e-06
+Female,race_other,eth_hispanic,55 to 64 Years,7,3.308501689966076e-06
+Nonbinary,race_other,eth_hispanic,55 to 64 Years,7,7.352225977702391e-07
+Male,race_other,eth_hispanic,55 to 64 Years,8,3.649751107580737e-06
+Female,race_other,eth_hispanic,55 to 64 Years,8,3.649751107580737e-06
+Nonbinary,race_other,eth_hispanic,55 to 64 Years,8,8.110558016846083e-07
+Male,race_asian,eth_not_hispanic,18 to 24 Years,1,0.00029945774094121977
+Female,race_asian,eth_not_hispanic,18 to 24 Years,1,0.00029945774094121977
+Nonbinary,race_asian,eth_not_hispanic,18 to 24 Years,1,6.654616465360439e-05
+Male,race_asian,eth_not_hispanic,18 to 24 Years,2,0.0007152966667026453
+Female,race_asian,eth_not_hispanic,18 to 24 Years,2,0.0007152966667026453
+Nonbinary,race_asian,eth_not_hispanic,18 to 24 Years,2,0.00015895481482281005
+Male,race_asian,eth_not_hispanic,18 to 24 Years,3,0.0007960920661643643
+Female,race_asian,eth_not_hispanic,18 to 24 Years,3,0.0007960920661643643
+Nonbinary,race_asian,eth_not_hispanic,18 to 24 Years,3,0.00017690934803652543
+Male,race_asian,eth_not_hispanic,18 to 24 Years,4,0.0009310494785616414
+Female,race_asian,eth_not_hispanic,18 to 24 Years,4,0.0009310494785616414
+Nonbinary,race_asian,eth_not_hispanic,18 to 24 Years,4,0.0002068998841248092
+Male,race_asian,eth_not_hispanic,18 to 24 Years,5,0.0010210210868264922
+Female,race_asian,eth_not_hispanic,18 to 24 Years,5,0.0010210210868264922
+Nonbinary,race_asian,eth_not_hispanic,18 to 24 Years,5,0.0002268935748503316
+Male,race_asian,eth_not_hispanic,18 to 24 Years,6,0.0015568221569410522
+Female,race_asian,eth_not_hispanic,18 to 24 Years,6,0.0015568221569410522
+Nonbinary,race_asian,eth_not_hispanic,18 to 24 Years,6,0.00034596047932023387
+Male,race_asian,eth_not_hispanic,18 to 24 Years,7,0.0009612638246207336
+Female,race_asian,eth_not_hispanic,18 to 24 Years,7,0.0009612638246207336
+Nonbinary,race_asian,eth_not_hispanic,18 to 24 Years,7,0.0002136141832490519
+Male,race_asian,eth_not_hispanic,18 to 24 Years,8,0.001060411641688716
+Female,race_asian,eth_not_hispanic,18 to 24 Years,8,0.001060411641688716
+Nonbinary,race_asian,eth_not_hispanic,18 to 24 Years,8,0.00023564703148638133
+Male,race_asian,eth_not_hispanic,25 to 34 Years,1,0.0006996452510531809
+Female,race_asian,eth_not_hispanic,25 to 34 Years,1,0.0006996452510531809
+Nonbinary,race_asian,eth_not_hispanic,25 to 34 Years,1,0.00015547672245626244
+Male,race_asian,eth_not_hispanic,25 to 34 Years,2,0.0016712004651464637
+Female,race_asian,eth_not_hispanic,25 to 34 Years,2,0.0016712004651464637
+Nonbinary,race_asian,eth_not_hispanic,25 to 34 Years,2,0.0003713778811436586
+Male,race_asian,eth_not_hispanic,25 to 34 Years,3,0.0018599687279493022
+Female,race_asian,eth_not_hispanic,25 to 34 Years,3,0.0018599687279493022
+Nonbinary,race_asian,eth_not_hispanic,25 to 34 Years,3,0.00041332638398873387
+Male,race_asian,eth_not_hispanic,25 to 34 Years,4,0.002175279704320805
+Female,race_asian,eth_not_hispanic,25 to 34 Years,4,0.002175279704320805
+Nonbinary,race_asian,eth_not_hispanic,25 to 34 Years,4,0.00048339548984906774
+Male,race_asian,eth_not_hispanic,25 to 34 Years,5,0.002385487021901806
+Female,race_asian,eth_not_hispanic,25 to 34 Years,5,0.002385487021901806
+Nonbinary,race_asian,eth_not_hispanic,25 to 34 Years,5,0.0005301082270892901
+Male,race_asian,eth_not_hispanic,25 to 34 Years,6,0.003637318659436423
+Female,race_asian,eth_not_hispanic,25 to 34 Years,6,0.003637318659436423
+Nonbinary,race_asian,eth_not_hispanic,25 to 34 Years,6,0.0008082930354303162
+Male,race_asian,eth_not_hispanic,25 to 34 Years,7,0.002245871713956217
+Female,race_asian,eth_not_hispanic,25 to 34 Years,7,0.002245871713956217
+Nonbinary,race_asian,eth_not_hispanic,25 to 34 Years,7,0.0004990826031013815
+Male,race_asian,eth_not_hispanic,25 to 34 Years,8,0.002477518086315379
+Female,race_asian,eth_not_hispanic,25 to 34 Years,8,0.002477518086315379
+Nonbinary,race_asian,eth_not_hispanic,25 to 34 Years,8,0.000550559574736751
+Male,race_asian,eth_not_hispanic,35 to 44 Years,1,0.0003028136655855962
+Female,race_asian,eth_not_hispanic,35 to 44 Years,1,0.0003028136655855962
+Nonbinary,race_asian,eth_not_hispanic,35 to 44 Years,1,6.729192568568806e-05
+Male,race_asian,eth_not_hispanic,35 to 44 Years,2,0.000723312761742576
+Female,race_asian,eth_not_hispanic,35 to 44 Years,2,0.000723312761742576
+Nonbinary,race_asian,eth_not_hispanic,35 to 44 Years,2,0.000160736169276128
+Male,race_asian,eth_not_hispanic,35 to 44 Years,3,0.0008050136087354012
+Female,race_asian,eth_not_hispanic,35 to 44 Years,3,0.0008050136087354012
+Nonbinary,race_asian,eth_not_hispanic,35 to 44 Years,3,0.0001788919130523114
+Male,race_asian,eth_not_hispanic,35 to 44 Years,4,0.0009414834445710629
+Female,race_asian,eth_not_hispanic,35 to 44 Years,4,0.0009414834445710629
+Nonbinary,race_asian,eth_not_hispanic,35 to 44 Years,4,0.00020921854323801398
+Male,race_asian,eth_not_hispanic,35 to 44 Years,5,0.0010324633351281706
+Female,race_asian,eth_not_hispanic,35 to 44 Years,5,0.0010324633351281706
+Nonbinary,race_asian,eth_not_hispanic,35 to 44 Years,5,0.00022943629669514902
+Male,race_asian,eth_not_hispanic,35 to 44 Years,6,0.0015742689520279601
+Female,race_asian,eth_not_hispanic,35 to 44 Years,6,0.0015742689520279601
+Nonbinary,race_asian,eth_not_hispanic,35 to 44 Years,6,0.00034983754489510227
+Male,race_asian,eth_not_hispanic,35 to 44 Years,7,0.0009720363928924803
+Female,race_asian,eth_not_hispanic,35 to 44 Years,7,0.0009720363928924803
+Nonbinary,race_asian,eth_not_hispanic,35 to 44 Years,7,0.00021600808730944007
+Male,race_asian,eth_not_hispanic,35 to 44 Years,8,0.0010722953270138698
+Female,race_asian,eth_not_hispanic,35 to 44 Years,8,0.0010722953270138698
+Nonbinary,race_asian,eth_not_hispanic,35 to 44 Years,8,0.00023828785044752661
+Male,race_asian,eth_not_hispanic,45 to 54 Years,1,0.00018494006431683875
+Female,race_asian,eth_not_hispanic,45 to 54 Years,1,0.00018494006431683875
+Nonbinary,race_asian,eth_not_hispanic,45 to 54 Years,1,4.1097792070408614e-05
+Male,race_asian,eth_not_hispanic,45 to 54 Years,2,0.00044175519099896654
+Female,race_asian,eth_not_hispanic,45 to 54 Years,2,0.00044175519099896654
+Nonbinary,race_asian,eth_not_hispanic,45 to 54 Years,2,9.816782022199256e-05
+Male,race_asian,eth_not_hispanic,45 to 54 Years,3,0.0004916530708333303
+Female,race_asian,eth_not_hispanic,45 to 54 Years,3,0.0004916530708333303
+Nonbinary,race_asian,eth_not_hispanic,45 to 54 Years,3,0.0001092562379629623
+Male,race_asian,eth_not_hispanic,45 to 54 Years,4,0.0005750004989223096
+Female,race_asian,eth_not_hispanic,45 to 54 Years,4,0.0005750004989223096
+Nonbinary,race_asian,eth_not_hispanic,45 to 54 Years,4,0.00012777788864940212
+Male,race_asian,eth_not_hispanic,45 to 54 Years,5,0.0006305654509816289
+Female,race_asian,eth_not_hispanic,45 to 54 Years,5,0.0006305654509816289
+Nonbinary,race_asian,eth_not_hispanic,45 to 54 Years,5,0.00014012565577369533
+Male,race_asian,eth_not_hispanic,45 to 54 Years,6,0.0009614671804095158
+Female,race_asian,eth_not_hispanic,45 to 54 Years,6,0.0009614671804095158
+Nonbinary,race_asian,eth_not_hispanic,45 to 54 Years,6,0.00021365937342433686
+Male,race_asian,eth_not_hispanic,45 to 54 Years,7,0.0005936603708825292
+Female,race_asian,eth_not_hispanic,45 to 54 Years,7,0.0005936603708825292
+Nonbinary,race_asian,eth_not_hispanic,45 to 54 Years,7,0.00013192452686278425
+Male,race_asian,eth_not_hispanic,45 to 54 Years,8,0.0006548923951668039
+Female,race_asian,eth_not_hispanic,45 to 54 Years,8,0.0006548923951668039
+Nonbinary,race_asian,eth_not_hispanic,45 to 54 Years,8,0.00014553164337040086
+Male,race_asian,eth_not_hispanic,65 to 74 Years,1,0.00010853424508789573
+Female,race_asian,eth_not_hispanic,65 to 74 Years,1,0.00010853424508789573
+Nonbinary,race_asian,eth_not_hispanic,65 to 74 Years,1,2.4118721130643496e-05
+Male,race_asian,eth_not_hispanic,65 to 74 Years,2,0.0002592492132293835
+Female,race_asian,eth_not_hispanic,65 to 74 Years,2,0.0002592492132293835
+Nonbinary,race_asian,eth_not_hispanic,65 to 74 Years,2,5.761093627319633e-05
+Male,race_asian,eth_not_hispanic,65 to 74 Years,3,0.0002885323690415885
+Female,race_asian,eth_not_hispanic,65 to 74 Years,3,0.0002885323690415885
+Nonbinary,race_asian,eth_not_hispanic,65 to 74 Years,3,6.411830423146412e-05
+Male,race_asian,eth_not_hispanic,65 to 74 Years,4,0.00033744578442873455
+Female,race_asian,eth_not_hispanic,65 to 74 Years,4,0.00033744578442873455
+Nonbinary,race_asian,eth_not_hispanic,65 to 74 Years,4,7.498795209527436e-05
+Male,race_asian,eth_not_hispanic,65 to 74 Years,5,0.0003700547280201652
+Female,race_asian,eth_not_hispanic,65 to 74 Years,5,0.0003700547280201652
+Nonbinary,race_asian,eth_not_hispanic,65 to 74 Years,5,8.223438400448115e-05
+Male,race_asian,eth_not_hispanic,65 to 74 Years,6,0.0005642482876168937
+Female,race_asian,eth_not_hispanic,65 to 74 Years,6,0.0005642482876168937
+Nonbinary,race_asian,eth_not_hispanic,65 to 74 Years,6,0.0001253885083593097
+Male,race_asian,eth_not_hispanic,65 to 74 Years,7,0.000348396549067648
+Female,race_asian,eth_not_hispanic,65 to 74 Years,7,0.000348396549067648
+Nonbinary,race_asian,eth_not_hispanic,65 to 74 Years,7,7.742145534836623e-05
+Male,race_asian,eth_not_hispanic,65 to 74 Years,8,0.0003843312804383041
+Female,race_asian,eth_not_hispanic,65 to 74 Years,8,0.0003843312804383041
+Nonbinary,race_asian,eth_not_hispanic,65 to 74 Years,8,8.540695120851202e-05
+Male,race_asian,eth_not_hispanic,75 Years & Over,1,8.12706092173024e-05
+Female,race_asian,eth_not_hispanic,75 Years & Over,1,8.12706092173024e-05
+Nonbinary,race_asian,eth_not_hispanic,75 Years & Over,1,1.8060135381622755e-05
+Male,race_asian,eth_not_hispanic,75 Years & Over,2,0.0001941262085639004
+Female,race_asian,eth_not_hispanic,75 Years & Over,2,0.0001941262085639004
+Nonbinary,race_asian,eth_not_hispanic,75 Years & Over,2,4.3139157458644534e-05
+Male,race_asian,eth_not_hispanic,75 Years & Over,3,0.00021605348055750737
+Female,race_asian,eth_not_hispanic,75 Years & Over,3,0.00021605348055750737
+Nonbinary,race_asian,eth_not_hispanic,75 Years & Over,3,4.8011884568334974e-05
+Male,race_asian,eth_not_hispanic,75 Years & Over,4,0.0002526799210343636
+Female,race_asian,eth_not_hispanic,75 Years & Over,4,0.0002526799210343636
+Nonbinary,race_asian,eth_not_hispanic,75 Years & Over,4,5.615109356319191e-05
+Male,race_asian,eth_not_hispanic,75 Years & Over,5,0.0002770975480189343
+Female,race_asian,eth_not_hispanic,75 Years & Over,5,0.0002770975480189343
+Nonbinary,race_asian,eth_not_hispanic,75 Years & Over,5,6.15772328930965e-05
+Male,race_asian,eth_not_hispanic,75 Years & Over,6,0.0004225099833449599
+Female,race_asian,eth_not_hispanic,75 Years & Over,6,0.0004225099833449599
+Nonbinary,race_asian,eth_not_hispanic,75 Years & Over,6,9.389110740999108e-05
+Male,race_asian,eth_not_hispanic,75 Years & Over,7,0.0002608798703948539
+Female,race_asian,eth_not_hispanic,75 Years & Over,7,0.0002608798703948539
+Nonbinary,race_asian,eth_not_hispanic,75 Years & Over,7,5.797330453218976e-05
+Male,race_asian,eth_not_hispanic,75 Years & Over,8,0.00028778785237038826
+Female,race_asian,eth_not_hispanic,75 Years & Over,8,0.00028778785237038826
+Nonbinary,race_asian,eth_not_hispanic,75 Years & Over,8,6.39528560823085e-05
+Male,race_asian,eth_not_hispanic,17 Years,1,1.3323974718564385e-05
+Female,race_asian,eth_not_hispanic,17 Years,1,1.3323974718564385e-05
+Nonbinary,race_asian,eth_not_hispanic,17 Years,1,2.9608832707920855e-06
+Male,race_asian,eth_not_hispanic,17 Years,2,3.1826175785150836e-05
+Female,race_asian,eth_not_hispanic,17 Years,2,3.1826175785150836e-05
+Nonbinary,race_asian,eth_not_hispanic,17 Years,2,7.072483507811297e-06
+Male,race_asian,eth_not_hispanic,17 Years,3,3.5421059845989206e-05
+Female,race_asian,eth_not_hispanic,17 Years,3,3.5421059845989206e-05
+Nonbinary,race_asian,eth_not_hispanic,17 Years,3,7.871346632442047e-06
+Male,race_asian,eth_not_hispanic,17 Years,4,4.1425810784176326e-05
+Female,race_asian,eth_not_hispanic,17 Years,4,4.1425810784176326e-05
+Nonbinary,race_asian,eth_not_hispanic,17 Years,4,9.205735729816962e-06
+Male,race_asian,eth_not_hispanic,17 Years,5,4.542897807630106e-05
+Female,race_asian,eth_not_hispanic,17 Years,5,4.542897807630106e-05
+Nonbinary,race_asian,eth_not_hispanic,17 Years,5,1.0095328461400235e-05
+Male,race_asian,eth_not_hispanic,17 Years,6,6.926873553238714e-05
+Female,race_asian,eth_not_hispanic,17 Years,6,6.926873553238714e-05
+Nonbinary,race_asian,eth_not_hispanic,17 Years,6,1.5393052340530476e-05
+Male,race_asian,eth_not_hispanic,17 Years,7,4.277015800914361e-05
+Female,race_asian,eth_not_hispanic,17 Years,7,4.277015800914361e-05
+Nonbinary,race_asian,eth_not_hispanic,17 Years,7,9.50447955758747e-06
+Male,race_asian,eth_not_hispanic,17 Years,8,4.718160853255469e-05
+Female,race_asian,eth_not_hispanic,17 Years,8,4.718160853255469e-05
+Nonbinary,race_asian,eth_not_hispanic,17 Years,8,1.0484801896123265e-05
+Male,race_asian,eth_not_hispanic,55 to 64 Years,1,0.00018082970700047024
+Female,race_asian,eth_not_hispanic,55 to 64 Years,1,0.00018082970700047024
+Nonbinary,race_asian,eth_not_hispanic,55 to 64 Years,1,4.018437933343784e-05
+Male,race_asian,eth_not_hispanic,55 to 64 Years,2,0.0004319370280818412
+Female,race_asian,eth_not_hispanic,55 to 64 Years,2,0.0004319370280818412
+Nonbinary,race_asian,eth_not_hispanic,55 to 64 Years,2,9.598600624040916e-05
+Male,race_asian,eth_not_hispanic,55 to 64 Years,3,0.0004807259101649276
+Female,race_asian,eth_not_hispanic,55 to 64 Years,3,0.0004807259101649276
+Nonbinary,race_asian,eth_not_hispanic,55 to 64 Years,3,0.00010682798003665059
+Male,race_asian,eth_not_hispanic,55 to 64 Years,4,0.0005622209126472028
+Female,race_asian,eth_not_hispanic,55 to 64 Years,4,0.0005622209126472028
+Nonbinary,race_asian,eth_not_hispanic,55 to 64 Years,4,0.00012493798058826728
+Male,race_asian,eth_not_hispanic,55 to 64 Years,5,0.0006165509143020527
+Female,race_asian,eth_not_hispanic,55 to 64 Years,5,0.0006165509143020527
+Nonbinary,race_asian,eth_not_hispanic,55 to 64 Years,5,0.00013701131428934504
+Male,race_asian,eth_not_hispanic,55 to 64 Years,6,0.0009400982375898901
+Female,race_asian,eth_not_hispanic,55 to 64 Years,6,0.0009400982375898901
+Nonbinary,race_asian,eth_not_hispanic,55 to 64 Years,6,0.00020891071946442004
+Male,race_asian,eth_not_hispanic,55 to 64 Years,7,0.0005804660624566676
+Female,race_asian,eth_not_hispanic,55 to 64 Years,7,0.0005804660624566676
+Nonbinary,race_asian,eth_not_hispanic,55 to 64 Years,7,0.00012899245832370391
+Male,race_asian,eth_not_hispanic,55 to 64 Years,8,0.0006403371836832808
+Female,race_asian,eth_not_hispanic,55 to 64 Years,8,0.0006403371836832808
+Nonbinary,race_asian,eth_not_hispanic,55 to 64 Years,8,0.00014229715192961794
+Male,race_asian,eth_hispanic,18 to 24 Years,1,2.069984384386062e-06
+Female,race_asian,eth_hispanic,18 to 24 Years,1,2.069984384386062e-06
+Nonbinary,race_asian,eth_hispanic,18 to 24 Years,1,4.5999652986356936e-07
+Male,race_asian,eth_hispanic,18 to 24 Years,2,4.944447004856399e-06
+Female,race_asian,eth_hispanic,18 to 24 Years,2,4.944447004856399e-06
+Nonbinary,race_asian,eth_hispanic,18 to 24 Years,2,1.0987660010791999e-06
+Male,race_asian,eth_hispanic,18 to 24 Years,3,5.502940549522593e-06
+Female,race_asian,eth_hispanic,18 to 24 Years,3,5.502940549522593e-06
+Nonbinary,race_asian,eth_hispanic,18 to 24 Years,3,1.2228756776716873e-06
+Male,race_asian,eth_hispanic,18 to 24 Years,4,6.435825888674164e-06
+Female,race_asian,eth_hispanic,18 to 24 Years,4,6.435825888674164e-06
+Nonbinary,race_asian,eth_hispanic,18 to 24 Years,4,1.430183530816481e-06
+Male,race_asian,eth_hispanic,18 to 24 Years,5,7.057749448108542e-06
+Female,race_asian,eth_hispanic,18 to 24 Years,5,7.057749448108542e-06
+Nonbinary,race_asian,eth_hispanic,18 to 24 Years,5,1.5683887662463428e-06
+Male,race_asian,eth_hispanic,18 to 24 Years,6,1.0761443481158051e-05
+Female,race_asian,eth_hispanic,18 to 24 Years,6,1.0761443481158051e-05
+Nonbinary,race_asian,eth_hispanic,18 to 24 Years,6,2.391431884701789e-06
+Male,race_asian,eth_hispanic,18 to 24 Years,7,6.644680815349892e-06
+Female,race_asian,eth_hispanic,18 to 24 Years,7,6.644680815349892e-06
+Nonbinary,race_asian,eth_hispanic,18 to 24 Years,7,1.4765957367444206e-06
+Male,race_asian,eth_hispanic,18 to 24 Years,8,7.330034389552452e-06
+Female,race_asian,eth_hispanic,18 to 24 Years,8,7.330034389552452e-06
+Nonbinary,race_asian,eth_hispanic,18 to 24 Years,8,1.628896531011656e-06
+Male,race_asian,eth_hispanic,25 to 34 Years,1,4.836257495758732e-06
+Female,race_asian,eth_hispanic,25 to 34 Years,1,4.836257495758732e-06
+Nonbinary,race_asian,eth_hispanic,25 to 34 Years,1,1.0747238879463848e-06
+Male,race_asian,eth_hispanic,25 to 34 Years,2,1.1552076948015638e-05
+Female,race_asian,eth_hispanic,25 to 34 Years,2,1.1552076948015638e-05
+Nonbinary,race_asian,eth_hispanic,25 to 34 Years,2,2.567128210670142e-06
+Male,race_asian,eth_hispanic,25 to 34 Years,3,1.2856926690892246e-05
+Female,race_asian,eth_hispanic,25 to 34 Years,3,1.2856926690892246e-05
+Nonbinary,race_asian,eth_hispanic,25 to 34 Years,3,2.857094820198277e-06
+Male,race_asian,eth_hispanic,25 to 34 Years,4,1.5036495651985319e-05
+Female,race_asian,eth_hispanic,25 to 34 Years,4,1.5036495651985319e-05
+Nonbinary,race_asian,eth_hispanic,25 to 34 Years,4,3.34144347821896e-06
+Male,race_asian,eth_hispanic,25 to 34 Years,5,1.648954162604736e-05
+Female,race_asian,eth_hispanic,25 to 34 Years,5,1.648954162604736e-05
+Nonbinary,race_asian,eth_hispanic,25 to 34 Years,5,3.6643425835660804e-06
+Male,race_asian,eth_hispanic,25 to 34 Years,6,2.514275571038699e-05
+Female,race_asian,eth_hispanic,25 to 34 Years,6,2.514275571038699e-05
+Nonbinary,race_asian,eth_hispanic,25 to 34 Years,6,5.5872790467526644e-06
+Male,race_asian,eth_hispanic,25 to 34 Years,7,1.5524458852230042e-05
+Female,race_asian,eth_hispanic,25 to 34 Years,7,1.5524458852230042e-05
+Nonbinary,race_asian,eth_hispanic,25 to 34 Years,7,3.4498797449400096e-06
+Male,race_asian,eth_hispanic,25 to 34 Years,8,1.7125701057477515e-05
+Female,race_asian,eth_hispanic,25 to 34 Years,8,1.7125701057477515e-05
+Nonbinary,race_asian,eth_hispanic,25 to 34 Years,8,3.8057113461061143e-06
+Male,race_asian,eth_hispanic,35 to 44 Years,1,2.09318202017668e-06
+Female,race_asian,eth_hispanic,35 to 44 Years,1,2.09318202017668e-06
+Nonbinary,race_asian,eth_hispanic,35 to 44 Years,1,4.651515600392623e-07
+Male,race_asian,eth_hispanic,35 to 44 Years,2,4.999857800063287e-06
+Female,race_asian,eth_hispanic,35 to 44 Years,2,4.999857800063287e-06
+Nonbinary,race_asian,eth_hispanic,35 to 44 Years,2,1.1110795111251749e-06
+Male,race_asian,eth_hispanic,35 to 44 Years,3,5.564610198631135e-06
+Female,race_asian,eth_hispanic,35 to 44 Years,3,5.564610198631135e-06
+Nonbinary,race_asian,eth_hispanic,35 to 44 Years,3,1.2365800441402523e-06
+Male,race_asian,eth_hispanic,35 to 44 Years,4,6.507950077679375e-06
+Female,race_asian,eth_hispanic,35 to 44 Years,4,6.507950077679375e-06
+Nonbinary,race_asian,eth_hispanic,35 to 44 Years,4,1.4462111283731946e-06
+Male,race_asian,eth_hispanic,35 to 44 Years,5,7.1368433303782e-06
+Female,race_asian,eth_hispanic,35 to 44 Years,5,7.1368433303782e-06
+Nonbinary,race_asian,eth_hispanic,35 to 44 Years,5,1.585965184528489e-06
+Male,race_asian,eth_hispanic,35 to 44 Years,6,1.0882043447196572e-05
+Female,race_asian,eth_hispanic,35 to 44 Years,6,1.0882043447196572e-05
+Nonbinary,race_asian,eth_hispanic,35 to 44 Years,6,2.418231877154794e-06
+Male,race_asian,eth_hispanic,35 to 44 Years,7,6.719145572988685e-06
+Female,race_asian,eth_hispanic,35 to 44 Years,7,6.719145572988685e-06
+Nonbinary,race_asian,eth_hispanic,35 to 44 Years,7,1.4931434606641524e-06
+Male,race_asian,eth_hispanic,35 to 44 Years,8,7.412179679818483e-06
+Female,race_asian,eth_hispanic,35 to 44 Years,8,7.412179679818483e-06
+Nonbinary,race_asian,eth_hispanic,35 to 44 Years,8,1.647151039959663e-06
+Male,race_asian,eth_hispanic,45 to 54 Years,1,1.2783875413604823e-06
+Female,race_asian,eth_hispanic,45 to 54 Years,1,1.2783875413604823e-06
+Nonbinary,race_asian,eth_hispanic,45 to 54 Years,1,2.840861203023294e-07
+Male,race_asian,eth_hispanic,45 to 54 Years,2,3.053607311052396e-06
+Female,race_asian,eth_hispanic,45 to 54 Years,2,3.053607311052396e-06
+Nonbinary,race_asian,eth_hispanic,45 to 54 Years,2,6.78579402456088e-07
+Male,race_asian,eth_hispanic,45 to 54 Years,3,3.39852353110556e-06
+Female,race_asian,eth_hispanic,45 to 54 Years,3,3.39852353110556e-06
+Nonbinary,race_asian,eth_hispanic,45 to 54 Years,3,7.552274513567912e-07
+Male,race_asian,eth_hispanic,45 to 54 Years,4,3.9746578266514305e-06
+Female,race_asian,eth_hispanic,45 to 54 Years,4,3.9746578266514305e-06
+Nonbinary,race_asian,eth_hispanic,45 to 54 Years,4,8.832572948114291e-07
+Male,race_asian,eth_hispanic,45 to 54 Years,5,4.358747357015343e-06
+Female,race_asian,eth_hispanic,45 to 54 Years,5,4.358747357015343e-06
+Nonbinary,race_asian,eth_hispanic,45 to 54 Years,5,9.686105237811874e-07
+Male,race_asian,eth_hispanic,45 to 54 Years,6,6.646086500525806e-06
+Female,race_asian,eth_hispanic,45 to 54 Years,6,6.646086500525806e-06
+Nonbinary,race_asian,eth_hispanic,45 to 54 Years,6,1.476908111227957e-06
+Male,race_asian,eth_hispanic,45 to 54 Years,7,4.103643116699016e-06
+Female,race_asian,eth_hispanic,45 to 54 Years,7,4.103643116699016e-06
+Nonbinary,race_asian,eth_hispanic,45 to 54 Years,7,9.119206925997813e-07
+Male,race_asian,eth_hispanic,45 to 54 Years,8,4.526905957373675e-06
+Female,race_asian,eth_hispanic,45 to 54 Years,8,4.526905957373675e-06
+Nonbinary,race_asian,eth_hispanic,45 to 54 Years,8,1.0059791016385945e-06
+Male,race_asian,eth_hispanic,65 to 74 Years,1,7.502367171973456e-07
+Female,race_asian,eth_hispanic,65 to 74 Years,1,7.502367171973456e-07
+Nonbinary,race_asian,eth_hispanic,65 to 74 Years,1,1.66719270488299e-07
+Male,race_asian,eth_hispanic,65 to 74 Years,2,1.792045252737458e-06
+Female,race_asian,eth_hispanic,65 to 74 Years,2,1.792045252737458e-06
+Nonbinary,race_asian,eth_hispanic,65 to 74 Years,2,3.982322783861018e-07
+Male,race_asian,eth_hispanic,65 to 74 Years,3,1.9944633804715698e-06
+Female,race_asian,eth_hispanic,65 to 74 Years,3,1.9944633804715698e-06
+Nonbinary,race_asian,eth_hispanic,65 to 74 Years,3,4.432140845492377e-07
+Male,race_asian,eth_hispanic,65 to 74 Years,4,2.3325745467421242e-06
+Female,race_asian,eth_hispanic,65 to 74 Years,4,2.3325745467421242e-06
+Nonbinary,race_asian,eth_hispanic,65 to 74 Years,4,5.183498992760276e-07
+Male,race_asian,eth_hispanic,65 to 74 Years,5,2.5579819909224926e-06
+Female,race_asian,eth_hispanic,65 to 74 Years,5,2.5579819909224926e-06
+Nonbinary,race_asian,eth_hispanic,65 to 74 Years,5,5.684404424272206e-07
+Male,race_asian,eth_hispanic,65 to 74 Years,6,3.9003337853697636e-06
+Female,race_asian,eth_hispanic,65 to 74 Years,6,3.9003337853697636e-06
+Nonbinary,race_asian,eth_hispanic,65 to 74 Years,6,8.667408411932809e-07
+Male,race_asian,eth_hispanic,65 to 74 Years,7,2.4082710765041896e-06
+Female,race_asian,eth_hispanic,65 to 74 Years,7,2.4082710765041896e-06
+Nonbinary,race_asian,eth_hispanic,65 to 74 Years,7,5.351713503342644e-07
+Male,race_asian,eth_hispanic,65 to 74 Years,8,2.6566678371308145e-06
+Female,race_asian,eth_hispanic,65 to 74 Years,8,2.6566678371308145e-06
+Nonbinary,race_asian,eth_hispanic,65 to 74 Years,8,5.903706304735144e-07
+Male,race_asian,eth_hispanic,75 Years & Over,1,5.617784047278291e-07
+Female,race_asian,eth_hispanic,75 Years & Over,1,5.617784047278291e-07
+Nonbinary,race_asian,eth_hispanic,75 Years & Over,1,1.2483964549507314e-07
+Male,race_asian,eth_hispanic,75 Years & Over,2,1.3418862343125141e-06
+Female,race_asian,eth_hispanic,75 Years & Over,2,1.3418862343125141e-06
+Nonbinary,race_asian,eth_hispanic,75 Years & Over,2,2.981969409583365e-07
+Male,race_asian,eth_hispanic,75 Years & Over,3,1.4934572388765993e-06
+Female,race_asian,eth_hispanic,75 Years & Over,3,1.4934572388765993e-06
+Nonbinary,race_asian,eth_hispanic,75 Years & Over,3,3.318793864170221e-07
+Male,race_asian,eth_hispanic,75 Years & Over,4,1.7466353988548377e-06
+Female,race_asian,eth_hispanic,75 Years & Over,4,1.7466353988548377e-06
+Nonbinary,race_asian,eth_hispanic,75 Years & Over,4,3.881411997455195e-07
+Male,race_asian,eth_hispanic,75 Years & Over,5,1.915420838840329e-06
+Female,race_asian,eth_hispanic,75 Years & Over,5,1.915420838840329e-06
+Nonbinary,race_asian,eth_hispanic,75 Years & Over,5,4.256490752978509e-07
+Male,race_asian,eth_hispanic,75 Years & Over,6,2.9205759217390026e-06
+Female,race_asian,eth_hispanic,75 Years & Over,6,2.9205759217390026e-06
+Nonbinary,race_asian,eth_hispanic,75 Years & Over,6,6.490168714975561e-07
+Male,race_asian,eth_hispanic,75 Years & Over,7,1.8033170764619066e-06
+Female,race_asian,eth_hispanic,75 Years & Over,7,1.8033170764619066e-06
+Nonbinary,race_asian,eth_hispanic,75 Years & Over,7,4.007371281026459e-07
+Male,race_asian,eth_hispanic,75 Years & Over,8,1.9893169518688037e-06
+Female,race_asian,eth_hispanic,75 Years & Over,8,1.9893169518688037e-06
+Nonbinary,race_asian,eth_hispanic,75 Years & Over,8,4.420704337486231e-07
+Male,race_asian,eth_hispanic,17 Years,1,9.21012077320008e-08
+Female,race_asian,eth_hispanic,17 Years,1,9.21012077320008e-08
+Nonbinary,race_asian,eth_hispanic,17 Years,1,2.0466935051555732e-08
+Male,race_asian,eth_hispanic,17 Years,2,2.1999660680977192e-07
+Female,race_asian,eth_hispanic,17 Years,2,2.1999660680977192e-07
+Nonbinary,race_asian,eth_hispanic,17 Years,2,4.8888134846615986e-08
+Male,race_asian,eth_hispanic,17 Years,3,2.448460358017392e-07
+Female,race_asian,eth_hispanic,17 Years,3,2.448460358017392e-07
+Nonbinary,race_asian,eth_hispanic,17 Years,3,5.441023017816428e-08
+Male,race_asian,eth_hispanic,17 Years,4,2.863535307661614e-07
+Female,race_asian,eth_hispanic,17 Years,4,2.863535307661614e-07
+Nonbinary,race_asian,eth_hispanic,17 Years,4,6.363411794803586e-08
+Male,race_asian,eth_hispanic,17 Years,5,3.1402519407577593e-07
+Female,race_asian,eth_hispanic,17 Years,5,3.1402519407577593e-07
+Nonbinary,race_asian,eth_hispanic,17 Years,5,6.978337646128354e-08
+Male,race_asian,eth_hispanic,17 Years,6,4.788161442330333e-07
+Female,race_asian,eth_hispanic,17 Years,6,4.788161442330333e-07
+Nonbinary,race_asian,eth_hispanic,17 Years,6,1.0640358760734073e-07
+Male,race_asian,eth_hispanic,17 Years,7,2.956462535193903e-07
+Female,race_asian,eth_hispanic,17 Years,7,2.956462535193903e-07
+Nonbinary,race_asian,eth_hispanic,17 Years,7,6.56991674487534e-08
+Male,race_asian,eth_hispanic,17 Years,8,3.2614015114665216e-07
+Female,race_asian,eth_hispanic,17 Years,8,3.2614015114665216e-07
+Nonbinary,race_asian,eth_hispanic,17 Years,8,7.247558914370047e-08
+Male,race_asian,eth_hispanic,55 to 64 Years,1,1.2499749331828237e-06
+Female,race_asian,eth_hispanic,55 to 64 Years,1,1.2499749331828237e-06
+Nonbinary,race_asian,eth_hispanic,55 to 64 Years,1,2.777722073739608e-07
+Male,race_asian,eth_hispanic,55 to 64 Years,2,2.9857398254501557e-06
+Female,race_asian,eth_hispanic,55 to 64 Years,2,2.9857398254501557e-06
+Nonbinary,race_asian,eth_hispanic,55 to 64 Years,2,6.634977389889235e-07
+Male,race_asian,eth_hispanic,55 to 64 Years,3,3.3229901624299754e-06
+Female,race_asian,eth_hispanic,55 to 64 Years,3,3.3229901624299754e-06
+Nonbinary,race_asian,eth_hispanic,55 to 64 Years,3,7.384422583177723e-07
+Male,race_asian,eth_hispanic,55 to 64 Years,4,3.886319672676049e-06
+Female,race_asian,eth_hispanic,55 to 64 Years,4,3.886319672676049e-06
+Nonbinary,race_asian,eth_hispanic,55 to 64 Years,4,8.636265939280109e-07
+Male,race_asian,eth_hispanic,55 to 64 Years,5,4.261872679506764e-06
+Female,race_asian,eth_hispanic,55 to 64 Years,5,4.261872679506764e-06
+Nonbinary,race_asian,eth_hispanic,55 to 64 Years,5,9.470828176681697e-07
+Male,race_asian,eth_hispanic,55 to 64 Years,6,6.498374914215048e-06
+Female,race_asian,eth_hispanic,55 to 64 Years,6,6.498374914215048e-06
+Nonbinary,race_asian,eth_hispanic,55 to 64 Years,6,1.4440833142700107e-06
+Male,race_asian,eth_hispanic,55 to 64 Years,7,4.012438219746067e-06
+Female,race_asian,eth_hispanic,55 to 64 Years,7,4.012438219746067e-06
+Nonbinary,race_asian,eth_hispanic,55 to 64 Years,7,8.916529377213483e-07
+Male,race_asian,eth_hispanic,55 to 64 Years,8,4.426293896427675e-06
+Female,race_asian,eth_hispanic,55 to 64 Years,8,4.426293896427675e-06
+Nonbinary,race_asian,eth_hispanic,55 to 64 Years,8,9.836208658728166e-07
+Male,race_other,eth_not_hispanic,18 to 24 Years,1,1.815775775777196e-07
+Female,race_other,eth_not_hispanic,18 to 24 Years,1,1.815775775777196e-07
+Nonbinary,race_other,eth_not_hispanic,18 to 24 Years,1,4.0350572795048806e-08
+Male,race_other,eth_not_hispanic,18 to 24 Years,2,4.3372342147861927e-07
+Female,race_other,eth_not_hispanic,18 to 24 Years,2,4.3372342147861927e-07
+Nonbinary,race_other,eth_not_hispanic,18 to 24 Years,2,9.638298255080428e-08
+Male,race_other,eth_not_hispanic,18 to 24 Years,3,4.827140832914419e-07
+Female,race_other,eth_not_hispanic,18 to 24 Years,3,4.827140832914419e-07
+Nonbinary,race_other,eth_not_hispanic,18 to 24 Years,3,1.0726979628698708e-07
+Male,race_other,eth_not_hispanic,18 to 24 Years,4,5.645461305854371e-07
+Female,race_other,eth_not_hispanic,18 to 24 Years,4,5.645461305854371e-07
+Nonbinary,race_other,eth_not_hispanic,18 to 24 Years,4,1.254546956856527e-07
+Male,race_other,eth_not_hispanic,18 to 24 Years,5,6.191008287814336e-07
+Female,race_other,eth_not_hispanic,18 to 24 Years,5,6.191008287814336e-07
+Nonbinary,race_other,eth_not_hispanic,18 to 24 Years,5,1.3757796195142969e-07
+Male,race_other,eth_not_hispanic,18 to 24 Years,6,9.439862702769953e-07
+Female,race_other,eth_not_hispanic,18 to 24 Years,6,9.439862702769953e-07
+Nonbinary,race_other,eth_not_hispanic,18 to 24 Years,6,2.097747267282212e-07
+Male,race_other,eth_not_hispanic,18 to 24 Years,7,5.828667381885706e-07
+Female,race_other,eth_not_hispanic,18 to 24 Years,7,5.828667381885706e-07
+Nonbinary,race_other,eth_not_hispanic,18 to 24 Years,7,1.2952594181968235e-07
+Male,race_other,eth_not_hispanic,18 to 24 Years,8,6.429854727677408e-07
+Female,race_other,eth_not_hispanic,18 to 24 Years,8,6.429854727677408e-07
+Nonbinary,race_other,eth_not_hispanic,18 to 24 Years,8,1.428856606150535e-07
+Male,race_other,eth_not_hispanic,25 to 34 Years,1,4.2423311366303473e-07
+Female,race_other,eth_not_hispanic,25 to 34 Years,1,4.2423311366303473e-07
+Nonbinary,race_other,eth_not_hispanic,25 to 34 Years,1,9.427402525845216e-08
+Male,race_other,eth_not_hispanic,25 to 34 Years,2,1.0133400831592379e-06
+Female,race_other,eth_not_hispanic,25 to 34 Years,2,1.0133400831592379e-06
+Nonbinary,race_other,eth_not_hispanic,25 to 34 Years,2,2.251866851464973e-07
+Male,race_other,eth_not_hispanic,25 to 34 Years,3,1.1278005869203405e-06
+Female,race_other,eth_not_hispanic,25 to 34 Years,3,1.1278005869203405e-06
+Nonbinary,race_other,eth_not_hispanic,25 to 34 Years,3,2.506223526489646e-07
+Male,race_other,eth_not_hispanic,25 to 34 Years,4,1.3189908466653414e-06
+Female,race_other,eth_not_hispanic,25 to 34 Years,4,1.3189908466653414e-06
+Nonbinary,race_other,eth_not_hispanic,25 to 34 Years,4,2.931090770367426e-07
+Male,race_other,eth_not_hispanic,25 to 34 Years,5,1.446451019828675e-06
+Female,race_other,eth_not_hispanic,25 to 34 Years,5,1.446451019828675e-06
+Nonbinary,race_other,eth_not_hispanic,25 to 34 Years,5,3.2143355996192776e-07
+Male,race_other,eth_not_hispanic,25 to 34 Years,6,2.2055048868759897e-06
+Female,race_other,eth_not_hispanic,25 to 34 Years,6,2.2055048868759897e-06
+Nonbinary,race_other,eth_not_hispanic,25 to 34 Years,6,4.901121970835532e-07
+Male,race_other,eth_not_hispanic,25 to 34 Years,7,1.3617946361604916e-06
+Female,race_other,eth_not_hispanic,25 to 34 Years,7,1.3617946361604916e-06
+Nonbinary,race_other,eth_not_hispanic,25 to 34 Years,7,3.0262103025788704e-07
+Male,race_other,eth_not_hispanic,25 to 34 Years,8,1.5022544787260555e-06
+Female,race_other,eth_not_hispanic,25 to 34 Years,8,1.5022544787260555e-06
+Nonbinary,race_other,eth_not_hispanic,25 to 34 Years,8,3.338343286057901e-07
+Male,race_other,eth_not_hispanic,35 to 44 Years,1,1.8361245791022995e-07
+Female,race_other,eth_not_hispanic,35 to 44 Years,1,1.8361245791022995e-07
+Nonbinary,race_other,eth_not_hispanic,35 to 44 Years,1,4.080276842449554e-08
+Male,race_other,eth_not_hispanic,35 to 44 Years,2,4.385840175493987e-07
+Female,race_other,eth_not_hispanic,35 to 44 Years,2,4.385840175493987e-07
+Nonbinary,race_other,eth_not_hispanic,35 to 44 Years,2,9.746311501097749e-08
+Male,race_other,eth_not_hispanic,35 to 44 Years,3,4.881237016342963e-07
+Female,race_other,eth_not_hispanic,35 to 44 Years,3,4.881237016342963e-07
+Nonbinary,race_other,eth_not_hispanic,35 to 44 Years,3,1.0847193369651028e-07
+Male,race_other,eth_not_hispanic,35 to 44 Years,4,5.70872813831508e-07
+Female,race_other,eth_not_hispanic,35 to 44 Years,4,5.70872813831508e-07
+Nonbinary,race_other,eth_not_hispanic,35 to 44 Years,4,1.2686062529589066e-07
+Male,race_other,eth_not_hispanic,35 to 44 Years,5,6.260388886296489e-07
+Female,race_other,eth_not_hispanic,35 to 44 Years,5,6.260388886296489e-07
+Nonbinary,race_other,eth_not_hispanic,35 to 44 Years,5,1.3911975302881087e-07
+Male,race_other,eth_not_hispanic,35 to 44 Years,6,9.545652146663388e-07
+Female,race_other,eth_not_hispanic,35 to 44 Years,6,9.545652146663388e-07
+Nonbinary,race_other,eth_not_hispanic,35 to 44 Years,6,2.121256032591864e-07
+Male,race_other,eth_not_hispanic,35 to 44 Years,7,5.893987344726751e-07
+Female,race_other,eth_not_hispanic,35 to 44 Years,7,5.893987344726751e-07
+Nonbinary,race_other,eth_not_hispanic,35 to 44 Years,7,1.3097749654948337e-07
+Male,race_other,eth_not_hispanic,35 to 44 Years,8,6.501911999840591e-07
+Female,race_other,eth_not_hispanic,35 to 44 Years,8,6.501911999840591e-07
+Nonbinary,race_other,eth_not_hispanic,35 to 44 Years,8,1.444869333297909e-07
+Male,race_other,eth_not_hispanic,45 to 54 Years,1,1.1213925801407423e-07
+Female,race_other,eth_not_hispanic,45 to 54 Years,1,1.1213925801407423e-07
+Nonbinary,race_other,eth_not_hispanic,45 to 54 Years,1,2.491983511423872e-08
+Male,race_other,eth_not_hispanic,45 to 54 Years,2,2.6786029044318507e-07
+Female,race_other,eth_not_hispanic,45 to 54 Years,2,2.6786029044318507e-07
+Nonbinary,race_other,eth_not_hispanic,45 to 54 Years,2,5.952450898737446e-08
+Male,race_other,eth_not_hispanic,45 to 54 Years,3,2.9811609921977753e-07
+Female,race_other,eth_not_hispanic,45 to 54 Years,3,2.9811609921977753e-07
+Nonbinary,race_other,eth_not_hispanic,45 to 54 Years,3,6.624802204883946e-08
+Male,race_other,eth_not_hispanic,45 to 54 Years,4,3.4865419532029107e-07
+Female,race_other,eth_not_hispanic,45 to 54 Years,4,3.4865419532029107e-07
+Nonbinary,race_other,eth_not_hispanic,45 to 54 Years,4,7.74787100711758e-08
+Male,race_other,eth_not_hispanic,45 to 54 Years,5,3.823462593873e-07
+Female,race_other,eth_not_hispanic,45 to 54 Years,5,3.823462593873e-07
+Nonbinary,race_other,eth_not_hispanic,45 to 54 Years,5,8.49658354194e-08
+Male,race_other,eth_not_hispanic,45 to 54 Years,6,5.82990043905756e-07
+Female,race_other,eth_not_hispanic,45 to 54 Years,6,5.82990043905756e-07
+Nonbinary,race_other,eth_not_hispanic,45 to 54 Years,6,1.29553343090168e-07
+Male,race_other,eth_not_hispanic,45 to 54 Years,7,3.5996869444727187e-07
+Female,race_other,eth_not_hispanic,45 to 54 Years,7,3.5996869444727187e-07
+Nonbinary,race_other,eth_not_hispanic,45 to 54 Years,7,7.999304321050487e-08
+Male,race_other,eth_not_hispanic,45 to 54 Years,8,3.9709701380469707e-07
+Female,race_other,eth_not_hispanic,45 to 54 Years,8,3.9709701380469707e-07
+Nonbinary,race_other,eth_not_hispanic,45 to 54 Years,8,8.824378084548824e-08
+Male,race_other,eth_not_hispanic,65 to 74 Years,1,6.581023835064248e-08
+Female,race_other,eth_not_hispanic,65 to 74 Years,1,6.581023835064248e-08
+Nonbinary,race_other,eth_not_hispanic,65 to 74 Years,1,1.4624497411253885e-08
+Male,race_other,eth_not_hispanic,65 to 74 Years,2,1.571969519945094e-07
+Female,race_other,eth_not_hispanic,65 to 74 Years,2,1.571969519945094e-07
+Nonbinary,race_other,eth_not_hispanic,65 to 74 Years,2,3.493265599877987e-08
+Male,race_other,eth_not_hispanic,65 to 74 Years,3,1.7495292811153623e-07
+Female,race_other,eth_not_hispanic,65 to 74 Years,3,1.7495292811153623e-07
+Nonbinary,race_other,eth_not_hispanic,65 to 74 Years,3,3.8878428469230276e-08
+Male,race_other,eth_not_hispanic,65 to 74 Years,4,2.0461180234579456e-07
+Female,race_other,eth_not_hispanic,65 to 74 Years,4,2.0461180234579456e-07
+Nonbinary,race_other,eth_not_hispanic,65 to 74 Years,4,4.546928941017657e-08
+Male,race_other,eth_not_hispanic,65 to 74 Years,5,2.2438438516863335e-07
+Female,race_other,eth_not_hispanic,65 to 74 Years,5,2.2438438516863335e-07
+Nonbinary,race_other,eth_not_hispanic,65 to 74 Years,5,4.986319670414074e-08
+Male,race_other,eth_not_hispanic,65 to 74 Years,6,3.4213454257628534e-07
+Female,race_other,eth_not_hispanic,65 to 74 Years,6,3.4213454257628534e-07
+Nonbinary,race_other,eth_not_hispanic,65 to 74 Years,6,7.602989835028563e-08
+Male,race_other,eth_not_hispanic,65 to 74 Years,7,2.11251848816151e-07
+Female,race_other,eth_not_hispanic,65 to 74 Years,7,2.11251848816151e-07
+Nonbinary,race_other,eth_not_hispanic,65 to 74 Years,7,4.6944855292478e-08
+Male,race_other,eth_not_hispanic,65 to 74 Years,8,2.3304103834480166e-07
+Female,race_other,eth_not_hispanic,65 to 74 Years,8,2.3304103834480166e-07
+Nonbinary,race_other,eth_not_hispanic,65 to 74 Years,8,5.178689740995593e-08
+Male,race_other,eth_not_hispanic,75 Years & Over,1,4.927880743226431e-08
+Female,race_other,eth_not_hispanic,75 Years & Over,1,4.927880743226431e-08
+Nonbinary,race_other,eth_not_hispanic,75 Years & Over,1,1.0950846096058736e-08
+Male,race_other,eth_not_hispanic,75 Years & Over,2,1.1770931879933999e-07
+Female,race_other,eth_not_hispanic,75 Years & Over,2,1.1770931879933999e-07
+Nonbinary,race_other,eth_not_hispanic,75 Years & Over,2,2.6157626399853333e-08
+Male,race_other,eth_not_hispanic,75 Years & Over,3,1.3100502095408393e-07
+Female,race_other,eth_not_hispanic,75 Years & Over,3,1.3100502095408393e-07
+Nonbinary,race_other,eth_not_hispanic,75 Years & Over,3,2.9112226878685317e-08
+Male,race_other,eth_not_hispanic,75 Years & Over,4,1.5321363147849018e-07
+Female,race_other,eth_not_hispanic,75 Years & Over,4,1.5321363147849018e-07
+Nonbinary,race_other,eth_not_hispanic,75 Years & Over,4,3.404747366188671e-08
+Male,race_other,eth_not_hispanic,75 Years & Over,5,1.6801937182809428e-07
+Female,race_other,eth_not_hispanic,75 Years & Over,5,1.6801937182809428e-07
+Nonbinary,race_other,eth_not_hispanic,75 Years & Over,5,3.733763818402095e-08
+Male,race_other,eth_not_hispanic,75 Years & Over,6,2.561908703279754e-07
+Female,race_other,eth_not_hispanic,75 Years & Over,6,2.561908703279754e-07
+Nonbinary,race_other,eth_not_hispanic,75 Years & Over,6,5.6931304517327874e-08
+Male,race_other,eth_not_hispanic,75 Years & Over,7,1.5818570846156626e-07
+Female,race_other,eth_not_hispanic,75 Years & Over,7,1.5818570846156626e-07
+Nonbinary,race_other,eth_not_hispanic,75 Years & Over,7,3.515237965812584e-08
+Male,race_other,eth_not_hispanic,75 Years & Over,8,1.7450148700603045e-07
+Female,race_other,eth_not_hispanic,75 Years & Over,8,1.7450148700603045e-07
+Nonbinary,race_other,eth_not_hispanic,75 Years & Over,8,3.877810822356233e-08
+Male,race_other,eth_not_hispanic,17 Years,1,8.0790533098244e-09
+Female,race_other,eth_not_hispanic,17 Years,1,8.0790533098244e-09
+Nonbinary,race_other,eth_not_hispanic,17 Years,1,1.795345179960978e-09
+Male,race_other,eth_not_hispanic,17 Years,2,1.929794796576892e-08
+Female,race_other,eth_not_hispanic,17 Years,2,1.929794796576892e-08
+Nonbinary,race_other,eth_not_hispanic,17 Years,2,4.288432881281982e-09
+Male,race_other,eth_not_hispanic,17 Years,3,2.1477722438748445e-08
+Female,race_other,eth_not_hispanic,17 Years,3,2.1477722438748445e-08
+Nonbinary,race_other,eth_not_hispanic,17 Years,3,4.772827208610765e-09
+Male,race_other,eth_not_hispanic,17 Years,4,2.5118730768960807e-08
+Female,race_other,eth_not_hispanic,17 Years,4,2.5118730768960807e-08
+Nonbinary,race_other,eth_not_hispanic,17 Years,4,5.581940170880179e-09
+Male,race_other,eth_not_hispanic,17 Years,5,2.754606965576904e-08
+Female,race_other,eth_not_hispanic,17 Years,5,2.754606965576904e-08
+Nonbinary,race_other,eth_not_hispanic,17 Years,5,6.1213488123931196e-09
+Male,race_other,eth_not_hispanic,17 Years,6,4.20014161607912e-08
+Female,race_other,eth_not_hispanic,17 Years,6,4.20014161607912e-08
+Nonbinary,race_other,eth_not_hispanic,17 Years,6,9.333648035731378e-09
+Male,race_other,eth_not_hispanic,17 Years,7,2.593388188766508e-08
+Female,race_other,eth_not_hispanic,17 Years,7,2.593388188766508e-08
+Nonbinary,race_other,eth_not_hispanic,17 Years,7,5.763084863925574e-09
+Male,race_other,eth_not_hispanic,17 Years,8,2.860878518830201e-08
+Female,race_other,eth_not_hispanic,17 Years,8,2.860878518830201e-08
+Nonbinary,race_other,eth_not_hispanic,17 Years,8,6.357507819622669e-09
+Male,race_other,eth_not_hispanic,55 to 64 Years,1,1.0964692396340248e-07
+Female,race_other,eth_not_hispanic,55 to 64 Years,1,1.0964692396340248e-07
+Nonbinary,race_other,eth_not_hispanic,55 to 64 Years,1,2.436598310297833e-08
+Male,race_other,eth_not_hispanic,55 to 64 Years,2,2.619070022324624e-07
+Female,race_other,eth_not_hispanic,55 to 64 Years,2,2.619070022324624e-07
+Nonbinary,race_other,eth_not_hispanic,55 to 64 Years,2,5.820155605165831e-08
+Male,race_other,eth_not_hispanic,55 to 64 Years,3,2.914903651254282e-07
+Female,race_other,eth_not_hispanic,55 to 64 Years,3,2.914903651254282e-07
+Nonbinary,race_other,eth_not_hispanic,55 to 64 Years,3,6.477563669453961e-08
+Male,race_other,eth_not_hispanic,55 to 64 Years,4,3.409052344452578e-07
+Female,race_other,eth_not_hispanic,55 to 64 Years,4,3.409052344452578e-07
+Nonbinary,race_other,eth_not_hispanic,55 to 64 Years,4,7.575671876561285e-08
+Male,race_other,eth_not_hispanic,55 to 64 Years,5,3.738484806584774e-07
+Female,race_other,eth_not_hispanic,55 to 64 Years,5,3.738484806584774e-07
+Nonbinary,race_other,eth_not_hispanic,55 to 64 Years,5,8.307744014632832e-08
+Male,race_other,eth_not_hispanic,55 to 64 Years,6,5.700328872118301e-07
+Female,race_other,eth_not_hispanic,55 to 64 Years,6,5.700328872118301e-07
+Nonbinary,race_other,eth_not_hispanic,55 to 64 Years,6,1.2667397493596227e-07
+Male,race_other,eth_not_hispanic,55 to 64 Years,7,3.51968264889996e-07
+Female,race_other,eth_not_hispanic,55 to 64 Years,7,3.51968264889996e-07
+Nonbinary,race_other,eth_not_hispanic,55 to 64 Years,7,7.821516997555467e-08
+Male,race_other,eth_not_hispanic,55 to 64 Years,8,3.8827139442346925e-07
+Female,race_other,eth_not_hispanic,55 to 64 Years,8,3.8827139442346925e-07
+Nonbinary,race_other,eth_not_hispanic,55 to 64 Years,8,8.628253209410428e-08
+Male,race_other,eth_hispanic,18 to 24 Years,1,0.0
+Female,race_other,eth_hispanic,18 to 24 Years,1,0.0
+Nonbinary,race_other,eth_hispanic,18 to 24 Years,1,0.0
+Male,race_other,eth_hispanic,18 to 24 Years,2,0.0
+Female,race_other,eth_hispanic,18 to 24 Years,2,0.0
+Nonbinary,race_other,eth_hispanic,18 to 24 Years,2,0.0
+Male,race_other,eth_hispanic,18 to 24 Years,3,0.0
+Female,race_other,eth_hispanic,18 to 24 Years,3,0.0
+Nonbinary,race_other,eth_hispanic,18 to 24 Years,3,0.0
+Male,race_other,eth_hispanic,18 to 24 Years,4,0.0
+Female,race_other,eth_hispanic,18 to 24 Years,4,0.0
+Nonbinary,race_other,eth_hispanic,18 to 24 Years,4,0.0
+Male,race_other,eth_hispanic,18 to 24 Years,5,0.0
+Female,race_other,eth_hispanic,18 to 24 Years,5,0.0
+Nonbinary,race_other,eth_hispanic,18 to 24 Years,5,0.0
+Male,race_other,eth_hispanic,18 to 24 Years,6,0.0
+Female,race_other,eth_hispanic,18 to 24 Years,6,0.0
+Nonbinary,race_other,eth_hispanic,18 to 24 Years,6,0.0
+Male,race_other,eth_hispanic,18 to 24 Years,7,0.0
+Female,race_other,eth_hispanic,18 to 24 Years,7,0.0
+Nonbinary,race_other,eth_hispanic,18 to 24 Years,7,0.0
+Male,race_other,eth_hispanic,18 to 24 Years,8,0.0
+Female,race_other,eth_hispanic,18 to 24 Years,8,0.0
+Nonbinary,race_other,eth_hispanic,18 to 24 Years,8,0.0
+Male,race_other,eth_hispanic,25 to 34 Years,1,0.0
+Female,race_other,eth_hispanic,25 to 34 Years,1,0.0
+Nonbinary,race_other,eth_hispanic,25 to 34 Years,1,0.0
+Male,race_other,eth_hispanic,25 to 34 Years,2,0.0
+Female,race_other,eth_hispanic,25 to 34 Years,2,0.0
+Nonbinary,race_other,eth_hispanic,25 to 34 Years,2,0.0
+Male,race_other,eth_hispanic,25 to 34 Years,3,0.0
+Female,race_other,eth_hispanic,25 to 34 Years,3,0.0
+Nonbinary,race_other,eth_hispanic,25 to 34 Years,3,0.0
+Male,race_other,eth_hispanic,25 to 34 Years,4,0.0
+Female,race_other,eth_hispanic,25 to 34 Years,4,0.0
+Nonbinary,race_other,eth_hispanic,25 to 34 Years,4,0.0
+Male,race_other,eth_hispanic,25 to 34 Years,5,0.0
+Female,race_other,eth_hispanic,25 to 34 Years,5,0.0
+Nonbinary,race_other,eth_hispanic,25 to 34 Years,5,0.0
+Male,race_other,eth_hispanic,25 to 34 Years,6,0.0
+Female,race_other,eth_hispanic,25 to 34 Years,6,0.0
+Nonbinary,race_other,eth_hispanic,25 to 34 Years,6,0.0
+Male,race_other,eth_hispanic,25 to 34 Years,7,0.0
+Female,race_other,eth_hispanic,25 to 34 Years,7,0.0
+Nonbinary,race_other,eth_hispanic,25 to 34 Years,7,0.0
+Male,race_other,eth_hispanic,25 to 34 Years,8,0.0
+Female,race_other,eth_hispanic,25 to 34 Years,8,0.0
+Nonbinary,race_other,eth_hispanic,25 to 34 Years,8,0.0
+Male,race_other,eth_hispanic,35 to 44 Years,1,0.0
+Female,race_other,eth_hispanic,35 to 44 Years,1,0.0
+Nonbinary,race_other,eth_hispanic,35 to 44 Years,1,0.0
+Male,race_other,eth_hispanic,35 to 44 Years,2,0.0
+Female,race_other,eth_hispanic,35 to 44 Years,2,0.0
+Nonbinary,race_other,eth_hispanic,35 to 44 Years,2,0.0
+Male,race_other,eth_hispanic,35 to 44 Years,3,0.0
+Female,race_other,eth_hispanic,35 to 44 Years,3,0.0
+Nonbinary,race_other,eth_hispanic,35 to 44 Years,3,0.0
+Male,race_other,eth_hispanic,35 to 44 Years,4,0.0
+Female,race_other,eth_hispanic,35 to 44 Years,4,0.0
+Nonbinary,race_other,eth_hispanic,35 to 44 Years,4,0.0
+Male,race_other,eth_hispanic,35 to 44 Years,5,0.0
+Female,race_other,eth_hispanic,35 to 44 Years,5,0.0
+Nonbinary,race_other,eth_hispanic,35 to 44 Years,5,0.0
+Male,race_other,eth_hispanic,35 to 44 Years,6,0.0
+Female,race_other,eth_hispanic,35 to 44 Years,6,0.0
+Nonbinary,race_other,eth_hispanic,35 to 44 Years,6,0.0
+Male,race_other,eth_hispanic,35 to 44 Years,7,0.0
+Female,race_other,eth_hispanic,35 to 44 Years,7,0.0
+Nonbinary,race_other,eth_hispanic,35 to 44 Years,7,0.0
+Male,race_other,eth_hispanic,35 to 44 Years,8,0.0
+Female,race_other,eth_hispanic,35 to 44 Years,8,0.0
+Nonbinary,race_other,eth_hispanic,35 to 44 Years,8,0.0
+Male,race_other,eth_hispanic,45 to 54 Years,1,0.0
+Female,race_other,eth_hispanic,45 to 54 Years,1,0.0
+Nonbinary,race_other,eth_hispanic,45 to 54 Years,1,0.0
+Male,race_other,eth_hispanic,45 to 54 Years,2,0.0
+Female,race_other,eth_hispanic,45 to 54 Years,2,0.0
+Nonbinary,race_other,eth_hispanic,45 to 54 Years,2,0.0
+Male,race_other,eth_hispanic,45 to 54 Years,3,0.0
+Female,race_other,eth_hispanic,45 to 54 Years,3,0.0
+Nonbinary,race_other,eth_hispanic,45 to 54 Years,3,0.0
+Male,race_other,eth_hispanic,45 to 54 Years,4,0.0
+Female,race_other,eth_hispanic,45 to 54 Years,4,0.0
+Nonbinary,race_other,eth_hispanic,45 to 54 Years,4,0.0
+Male,race_other,eth_hispanic,45 to 54 Years,5,0.0
+Female,race_other,eth_hispanic,45 to 54 Years,5,0.0
+Nonbinary,race_other,eth_hispanic,45 to 54 Years,5,0.0
+Male,race_other,eth_hispanic,45 to 54 Years,6,0.0
+Female,race_other,eth_hispanic,45 to 54 Years,6,0.0
+Nonbinary,race_other,eth_hispanic,45 to 54 Years,6,0.0
+Male,race_other,eth_hispanic,45 to 54 Years,7,0.0
+Female,race_other,eth_hispanic,45 to 54 Years,7,0.0
+Nonbinary,race_other,eth_hispanic,45 to 54 Years,7,0.0
+Male,race_other,eth_hispanic,45 to 54 Years,8,0.0
+Female,race_other,eth_hispanic,45 to 54 Years,8,0.0
+Nonbinary,race_other,eth_hispanic,45 to 54 Years,8,0.0
+Male,race_other,eth_hispanic,65 to 74 Years,1,0.0
+Female,race_other,eth_hispanic,65 to 74 Years,1,0.0
+Nonbinary,race_other,eth_hispanic,65 to 74 Years,1,0.0
+Male,race_other,eth_hispanic,65 to 74 Years,2,0.0
+Female,race_other,eth_hispanic,65 to 74 Years,2,0.0
+Nonbinary,race_other,eth_hispanic,65 to 74 Years,2,0.0
+Male,race_other,eth_hispanic,65 to 74 Years,3,0.0
+Female,race_other,eth_hispanic,65 to 74 Years,3,0.0
+Nonbinary,race_other,eth_hispanic,65 to 74 Years,3,0.0
+Male,race_other,eth_hispanic,65 to 74 Years,4,0.0
+Female,race_other,eth_hispanic,65 to 74 Years,4,0.0
+Nonbinary,race_other,eth_hispanic,65 to 74 Years,4,0.0
+Male,race_other,eth_hispanic,65 to 74 Years,5,0.0
+Female,race_other,eth_hispanic,65 to 74 Years,5,0.0
+Nonbinary,race_other,eth_hispanic,65 to 74 Years,5,0.0
+Male,race_other,eth_hispanic,65 to 74 Years,6,0.0
+Female,race_other,eth_hispanic,65 to 74 Years,6,0.0
+Nonbinary,race_other,eth_hispanic,65 to 74 Years,6,0.0
+Male,race_other,eth_hispanic,65 to 74 Years,7,0.0
+Female,race_other,eth_hispanic,65 to 74 Years,7,0.0
+Nonbinary,race_other,eth_hispanic,65 to 74 Years,7,0.0
+Male,race_other,eth_hispanic,65 to 74 Years,8,0.0
+Female,race_other,eth_hispanic,65 to 74 Years,8,0.0
+Nonbinary,race_other,eth_hispanic,65 to 74 Years,8,0.0
+Male,race_other,eth_hispanic,75 Years & Over,1,0.0
+Female,race_other,eth_hispanic,75 Years & Over,1,0.0
+Nonbinary,race_other,eth_hispanic,75 Years & Over,1,0.0
+Male,race_other,eth_hispanic,75 Years & Over,2,0.0
+Female,race_other,eth_hispanic,75 Years & Over,2,0.0
+Nonbinary,race_other,eth_hispanic,75 Years & Over,2,0.0
+Male,race_other,eth_hispanic,75 Years & Over,3,0.0
+Female,race_other,eth_hispanic,75 Years & Over,3,0.0
+Nonbinary,race_other,eth_hispanic,75 Years & Over,3,0.0
+Male,race_other,eth_hispanic,75 Years & Over,4,0.0
+Female,race_other,eth_hispanic,75 Years & Over,4,0.0
+Nonbinary,race_other,eth_hispanic,75 Years & Over,4,0.0
+Male,race_other,eth_hispanic,75 Years & Over,5,0.0
+Female,race_other,eth_hispanic,75 Years & Over,5,0.0
+Nonbinary,race_other,eth_hispanic,75 Years & Over,5,0.0
+Male,race_other,eth_hispanic,75 Years & Over,6,0.0
+Female,race_other,eth_hispanic,75 Years & Over,6,0.0
+Nonbinary,race_other,eth_hispanic,75 Years & Over,6,0.0
+Male,race_other,eth_hispanic,75 Years & Over,7,0.0
+Female,race_other,eth_hispanic,75 Years & Over,7,0.0
+Nonbinary,race_other,eth_hispanic,75 Years & Over,7,0.0
+Male,race_other,eth_hispanic,75 Years & Over,8,0.0
+Female,race_other,eth_hispanic,75 Years & Over,8,0.0
+Nonbinary,race_other,eth_hispanic,75 Years & Over,8,0.0
+Male,race_other,eth_hispanic,17 Years,1,0.0
+Female,race_other,eth_hispanic,17 Years,1,0.0
+Nonbinary,race_other,eth_hispanic,17 Years,1,0.0
+Male,race_other,eth_hispanic,17 Years,2,0.0
+Female,race_other,eth_hispanic,17 Years,2,0.0
+Nonbinary,race_other,eth_hispanic,17 Years,2,0.0
+Male,race_other,eth_hispanic,17 Years,3,0.0
+Female,race_other,eth_hispanic,17 Years,3,0.0
+Nonbinary,race_other,eth_hispanic,17 Years,3,0.0
+Male,race_other,eth_hispanic,17 Years,4,0.0
+Female,race_other,eth_hispanic,17 Years,4,0.0
+Nonbinary,race_other,eth_hispanic,17 Years,4,0.0
+Male,race_other,eth_hispanic,17 Years,5,0.0
+Female,race_other,eth_hispanic,17 Years,5,0.0
+Nonbinary,race_other,eth_hispanic,17 Years,5,0.0
+Male,race_other,eth_hispanic,17 Years,6,0.0
+Female,race_other,eth_hispanic,17 Years,6,0.0
+Nonbinary,race_other,eth_hispanic,17 Years,6,0.0
+Male,race_other,eth_hispanic,17 Years,7,0.0
+Female,race_other,eth_hispanic,17 Years,7,0.0
+Nonbinary,race_other,eth_hispanic,17 Years,7,0.0
+Male,race_other,eth_hispanic,17 Years,8,0.0
+Female,race_other,eth_hispanic,17 Years,8,0.0
+Nonbinary,race_other,eth_hispanic,17 Years,8,0.0
+Male,race_other,eth_hispanic,55 to 64 Years,1,0.0
+Female,race_other,eth_hispanic,55 to 64 Years,1,0.0
+Nonbinary,race_other,eth_hispanic,55 to 64 Years,1,0.0
+Male,race_other,eth_hispanic,55 to 64 Years,2,0.0
+Female,race_other,eth_hispanic,55 to 64 Years,2,0.0
+Nonbinary,race_other,eth_hispanic,55 to 64 Years,2,0.0
+Male,race_other,eth_hispanic,55 to 64 Years,3,0.0
+Female,race_other,eth_hispanic,55 to 64 Years,3,0.0
+Nonbinary,race_other,eth_hispanic,55 to 64 Years,3,0.0
+Male,race_other,eth_hispanic,55 to 64 Years,4,0.0
+Female,race_other,eth_hispanic,55 to 64 Years,4,0.0
+Nonbinary,race_other,eth_hispanic,55 to 64 Years,4,0.0
+Male,race_other,eth_hispanic,55 to 64 Years,5,0.0
+Female,race_other,eth_hispanic,55 to 64 Years,5,0.0
+Nonbinary,race_other,eth_hispanic,55 to 64 Years,5,0.0
+Male,race_other,eth_hispanic,55 to 64 Years,6,0.0
+Female,race_other,eth_hispanic,55 to 64 Years,6,0.0
+Nonbinary,race_other,eth_hispanic,55 to 64 Years,6,0.0
+Male,race_other,eth_hispanic,55 to 64 Years,7,0.0
+Female,race_other,eth_hispanic,55 to 64 Years,7,0.0
+Nonbinary,race_other,eth_hispanic,55 to 64 Years,7,0.0
+Male,race_other,eth_hispanic,55 to 64 Years,8,0.0
+Female,race_other,eth_hispanic,55 to 64 Years,8,0.0
+Nonbinary,race_other,eth_hispanic,55 to 64 Years,8,0.0
+Male,race_other,eth_not_hispanic,18 to 24 Years,1,2.5929278078102e-05
+Female,race_other,eth_not_hispanic,18 to 24 Years,1,2.5929278078102e-05
+Nonbinary,race_other,eth_not_hispanic,18 to 24 Years,1,5.7620617951337786e-06
+Male,race_other,eth_not_hispanic,18 to 24 Years,2,6.193570458715552e-05
+Female,race_other,eth_not_hispanic,18 to 24 Years,2,6.193570458715552e-05
+Nonbinary,race_other,eth_not_hispanic,18 to 24 Years,2,1.3763489908256781e-05
+Male,race_other,eth_not_hispanic,18 to 24 Years,3,6.893157109402757e-05
+Female,race_other,eth_not_hispanic,18 to 24 Years,3,6.893157109402757e-05
+Nonbinary,race_other,eth_not_hispanic,18 to 24 Years,3,1.5318126909783905e-05
+Male,race_other,eth_not_hispanic,18 to 24 Years,4,8.061718744761172e-05
+Female,race_other,eth_not_hispanic,18 to 24 Years,4,8.061718744761172e-05
+Nonbinary,race_other,eth_not_hispanic,18 to 24 Years,4,1.7914930543913715e-05
+Male,race_other,eth_not_hispanic,18 to 24 Years,5,8.840759835000112e-05
+Female,race_other,eth_not_hispanic,18 to 24 Years,5,8.840759835000112e-05
+Nonbinary,race_other,eth_not_hispanic,18 to 24 Years,5,1.9646132966666914e-05
+Male,race_other,eth_not_hispanic,18 to 24 Years,6,0.00013480123939557383
+Female,race_other,eth_not_hispanic,18 to 24 Years,6,0.00013480123939557383
+Nonbinary,race_other,eth_not_hispanic,18 to 24 Years,6,2.9955830976794184e-05
+Male,race_other,eth_not_hispanic,18 to 24 Years,7,8.323337021333955e-05
+Female,race_other,eth_not_hispanic,18 to 24 Years,7,8.323337021333955e-05
+Nonbinary,race_other,eth_not_hispanic,18 to 24 Years,7,1.8496304491853234e-05
+Male,race_other,eth_not_hispanic,18 to 24 Years,8,9.181832551124627e-05
+Female,race_other,eth_not_hispanic,18 to 24 Years,8,9.181832551124627e-05
+Nonbinary,race_other,eth_not_hispanic,18 to 24 Years,8,2.0404072335832504e-05
+Male,race_other,eth_not_hispanic,25 to 34 Years,1,6.058048863108986e-05
+Female,race_other,eth_not_hispanic,25 to 34 Years,1,6.058048863108986e-05
+Nonbinary,race_other,eth_not_hispanic,25 to 34 Years,1,1.3462330806908858e-05
+Male,race_other,eth_not_hispanic,25 to 34 Years,2,0.00014470496387515949
+Female,race_other,eth_not_hispanic,25 to 34 Years,2,0.00014470496387515949
+Nonbinary,race_other,eth_not_hispanic,25 to 34 Years,2,3.2156658638924326e-05
+Male,race_other,eth_not_hispanic,25 to 34 Years,3,0.00016104992381224724
+Female,race_other,eth_not_hispanic,25 to 34 Years,3,0.00016104992381224724
+Nonbinary,race_other,eth_not_hispanic,25 to 34 Years,3,3.5788871958277165e-05
+Male,race_other,eth_not_hispanic,25 to 34 Years,4,0.0001883518929038372
+Female,race_other,eth_not_hispanic,25 to 34 Years,4,0.0001883518929038372
+Nonbinary,race_other,eth_not_hispanic,25 to 34 Years,4,4.1855976200852716e-05
+Male,race_other,eth_not_hispanic,25 to 34 Years,5,0.00020655320563156378
+Female,race_other,eth_not_hispanic,25 to 34 Years,5,0.00020655320563156378
+Nonbinary,race_other,eth_not_hispanic,25 to 34 Years,5,4.5900712362569734e-05
+Male,race_other,eth_not_hispanic,25 to 34 Years,6,0.0003149460978459355
+Female,race_other,eth_not_hispanic,25 to 34 Years,6,0.0003149460978459355
+Nonbinary,race_other,eth_not_hispanic,25 to 34 Years,6,6.998802174354122e-05
+Male,race_other,eth_not_hispanic,25 to 34 Years,7,0.00019446427404374553
+Female,race_other,eth_not_hispanic,25 to 34 Years,7,0.00019446427404374553
+Nonbinary,race_other,eth_not_hispanic,25 to 34 Years,7,4.321428312083234e-05
+Male,race_other,eth_not_hispanic,25 to 34 Years,8,0.00021452193956211083
+Female,race_other,eth_not_hispanic,25 to 34 Years,8,0.00021452193956211083
+Nonbinary,race_other,eth_not_hispanic,25 to 34 Years,8,4.767154212491352e-05
+Male,race_other,eth_not_hispanic,35 to 44 Years,1,2.6219858989584514e-05
+Female,race_other,eth_not_hispanic,35 to 44 Years,1,2.6219858989584514e-05
+Nonbinary,race_other,eth_not_hispanic,35 to 44 Years,1,5.826635331018781e-06
+Male,race_other,eth_not_hispanic,35 to 44 Years,2,6.262979770606293e-05
+Female,race_other,eth_not_hispanic,35 to 44 Years,2,6.262979770606293e-05
+Nonbinary,race_other,eth_not_hispanic,35 to 44 Years,2,1.391773282356954e-05
+Male,race_other,eth_not_hispanic,35 to 44 Years,3,6.97040645933873e-05
+Female,race_other,eth_not_hispanic,35 to 44 Years,3,6.97040645933873e-05
+Nonbinary,race_other,eth_not_hispanic,35 to 44 Years,3,1.5489792131863843e-05
+Male,race_other,eth_not_hispanic,35 to 44 Years,4,8.152063781515078e-05
+Female,race_other,eth_not_hispanic,35 to 44 Years,4,8.152063781515078e-05
+Nonbinary,race_other,eth_not_hispanic,35 to 44 Years,4,1.811569729225573e-05
+Male,race_other,eth_not_hispanic,35 to 44 Years,5,8.939835329632641e-05
+Female,race_other,eth_not_hispanic,35 to 44 Years,5,8.939835329632641e-05
+Nonbinary,race_other,eth_not_hispanic,35 to 44 Years,5,1.986630073251698e-05
+Male,race_other,eth_not_hispanic,35 to 44 Years,6,0.00013631191265437234
+Female,race_other,eth_not_hispanic,35 to 44 Years,6,0.00013631191265437234
+Nonbinary,race_other,eth_not_hispanic,35 to 44 Years,6,3.0291536145416073e-05
+Male,race_other,eth_not_hispanic,35 to 44 Years,7,8.416613928270982e-05
+Female,race_other,eth_not_hispanic,35 to 44 Years,7,8.416613928270982e-05
+Nonbinary,race_other,eth_not_hispanic,35 to 44 Years,7,1.870358650726885e-05
+Male,race_other,eth_not_hispanic,35 to 44 Years,8,9.284730335773668e-05
+Female,race_other,eth_not_hispanic,35 to 44 Years,8,9.284730335773668e-05
+Nonbinary,race_other,eth_not_hispanic,35 to 44 Years,8,2.063273407949704e-05
+Male,race_other,eth_not_hispanic,45 to 54 Years,1,1.601348604441205e-05
+Female,race_other,eth_not_hispanic,45 to 54 Years,1,1.601348604441205e-05
+Nonbinary,race_other,eth_not_hispanic,45 to 54 Years,1,3.558552454313789e-06
+Male,race_other,eth_not_hispanic,45 to 54 Years,2,3.82504494752922e-05
+Female,race_other,eth_not_hispanic,45 to 54 Years,2,3.82504494752922e-05
+Nonbinary,race_other,eth_not_hispanic,45 to 54 Years,2,8.500099883398266e-06
+Male,race_other,eth_not_hispanic,45 to 54 Years,3,4.2570978968590215e-05
+Female,race_other,eth_not_hispanic,45 to 54 Years,3,4.2570978968590215e-05
+Nonbinary,race_other,eth_not_hispanic,45 to 54 Years,3,9.460217548575604e-06
+Male,race_other,eth_not_hispanic,45 to 54 Years,4,4.978781909174456e-05
+Female,race_other,eth_not_hispanic,45 to 54 Years,4,4.978781909174456e-05
+Nonbinary,race_other,eth_not_hispanic,45 to 54 Years,4,1.1063959798165457e-05
+Male,race_other,eth_not_hispanic,45 to 54 Years,5,5.459904584051411e-05
+Female,race_other,eth_not_hispanic,45 to 54 Years,5,5.459904584051411e-05
+Nonbinary,race_other,eth_not_hispanic,45 to 54 Years,5,1.2133121297892024e-05
+Male,race_other,eth_not_hispanic,45 to 54 Years,6,8.325097826975365e-05
+Female,race_other,eth_not_hispanic,45 to 54 Years,6,8.325097826975365e-05
+Nonbinary,race_other,eth_not_hispanic,45 to 54 Years,6,1.850021739327859e-05
+Male,race_other,eth_not_hispanic,45 to 54 Years,7,5.140352956707765e-05
+Female,race_other,eth_not_hispanic,45 to 54 Years,7,5.140352956707765e-05
+Nonbinary,race_other,eth_not_hispanic,45 to 54 Years,7,1.14230065704617e-05
+Male,race_other,eth_not_hispanic,45 to 54 Years,8,5.670545357131871e-05
+Female,race_other,eth_not_hispanic,45 to 54 Years,8,5.670545357131871e-05
+Nonbinary,race_other,eth_not_hispanic,45 to 54 Years,8,1.2601211904737491e-05
+Male,race_other,eth_not_hispanic,65 to 74 Years,1,9.397702036473065e-06
+Female,race_other,eth_not_hispanic,65 to 74 Years,1,9.397702036473065e-06
+Nonbinary,race_other,eth_not_hispanic,65 to 74 Years,1,2.088378230327348e-06
+Male,race_other,eth_not_hispanic,65 to 74 Years,2,2.2447724744819094e-05
+Female,race_other,eth_not_hispanic,65 to 74 Years,2,2.2447724744819094e-05
+Nonbinary,race_other,eth_not_hispanic,65 to 74 Years,2,4.988383276626466e-06
+Male,race_other,eth_not_hispanic,65 to 74 Years,3,2.4983278134330882e-05
+Female,race_other,eth_not_hispanic,65 to 74 Years,3,2.4983278134330882e-05
+Nonbinary,race_other,eth_not_hispanic,65 to 74 Years,3,5.551839585406863e-06
+Male,race_other,eth_not_hispanic,65 to 74 Years,4,2.9218565374983565e-05
+Female,race_other,eth_not_hispanic,65 to 74 Years,4,2.9218565374983565e-05
+Nonbinary,race_other,eth_not_hispanic,65 to 74 Years,4,6.493014527774126e-06
+Male,race_other,eth_not_hispanic,65 to 74 Years,5,3.2042090202085346e-05
+Female,race_other,eth_not_hispanic,65 to 74 Years,5,3.2042090202085346e-05
+Nonbinary,race_other,eth_not_hispanic,65 to 74 Years,5,7.120464489352299e-06
+Male,race_other,eth_not_hispanic,65 to 74 Years,6,4.8856812679900406e-05
+Female,race_other,eth_not_hispanic,65 to 74 Years,6,4.8856812679900406e-05
+Nonbinary,race_other,eth_not_hispanic,65 to 74 Years,6,1.0857069484422313e-05
+Male,race_other,eth_not_hispanic,65 to 74 Years,7,3.0166764010950603e-05
+Female,race_other,eth_not_hispanic,65 to 74 Years,7,3.0166764010950603e-05
+Nonbinary,race_other,eth_not_hispanic,65 to 74 Years,7,6.703725335766801e-06
+Male,race_other,eth_not_hispanic,65 to 74 Years,8,3.3278260275642356e-05
+Female,race_other,eth_not_hispanic,65 to 74 Years,8,3.3278260275642356e-05
+Nonbinary,race_other,eth_not_hispanic,65 to 74 Years,8,7.3951689501427456e-06
+Male,race_other,eth_not_hispanic,75 Years & Over,1,7.037013701328333e-06
+Female,race_other,eth_not_hispanic,75 Years & Over,1,7.037013701328333e-06
+Nonbinary,race_other,eth_not_hispanic,75 Years & Over,1,1.5637808225174074e-06
+Male,race_other,eth_not_hispanic,75 Years & Over,2,1.680889072454811e-05
+Female,race_other,eth_not_hispanic,75 Years & Over,2,1.680889072454811e-05
+Nonbinary,race_other,eth_not_hispanic,75 Years & Over,2,3.7353090498995805e-06
+Male,race_other,eth_not_hispanic,75 Years & Over,3,1.8707516992245813e-05
+Female,race_other,eth_not_hispanic,75 Years & Over,3,1.8707516992245813e-05
+Nonbinary,race_other,eth_not_hispanic,75 Years & Over,3,4.157225998276848e-06
+Male,race_other,eth_not_hispanic,75 Years & Over,4,2.187890657513147e-05
+Female,race_other,eth_not_hispanic,75 Years & Over,4,2.187890657513147e-05
+Nonbinary,race_other,eth_not_hispanic,75 Years & Over,4,4.861979238918105e-06
+Male,race_other,eth_not_hispanic,75 Years & Over,5,2.3993166297055233e-05
+Female,race_other,eth_not_hispanic,75 Years & Over,5,2.3993166297055233e-05
+Nonbinary,race_other,eth_not_hispanic,75 Years & Over,5,5.331814732678941e-06
+Male,race_other,eth_not_hispanic,75 Years & Over,6,3.658405628284003e-05
+Female,race_other,eth_not_hispanic,75 Years & Over,6,3.658405628284003e-05
+Nonbinary,race_other,eth_not_hispanic,75 Years & Over,6,8.129790285075561e-06
+Male,race_other,eth_not_hispanic,75 Years & Over,7,2.2588919168314837e-05
+Female,race_other,eth_not_hispanic,75 Years & Over,7,2.2588919168314837e-05
+Nonbinary,race_other,eth_not_hispanic,75 Years & Over,7,5.0197598151810755e-06
+Male,race_other,eth_not_hispanic,75 Years & Over,8,2.491881234446465e-05
+Female,race_other,eth_not_hispanic,75 Years & Over,8,2.491881234446465e-05
+Nonbinary,race_other,eth_not_hispanic,75 Years & Over,8,5.537513854325478e-06
+Male,race_other,eth_not_hispanic,17 Years,1,1.1536888126430866e-06
+Female,race_other,eth_not_hispanic,17 Years,1,1.1536888126430866e-06
+Nonbinary,race_other,eth_not_hispanic,17 Years,1,2.563752916984637e-07
+Male,race_other,eth_not_hispanic,17 Years,2,2.7557469695121887e-06
+Female,race_other,eth_not_hispanic,17 Years,2,2.7557469695121887e-06
+Nonbinary,race_other,eth_not_hispanic,17 Years,2,6.123882154471531e-07
+Male,race_other,eth_not_hispanic,17 Years,3,3.0670187642537087e-06
+Female,race_other,eth_not_hispanic,17 Years,3,3.0670187642537087e-06
+Nonbinary,race_other,eth_not_hispanic,17 Years,3,6.815597253897131e-07
+Male,race_other,eth_not_hispanic,17 Years,4,3.5869547538081073e-06
+Female,race_other,eth_not_hispanic,17 Years,4,3.5869547538081073e-06
+Nonbinary,race_other,eth_not_hispanic,17 Years,4,7.971010564018016e-07
+Male,race_other,eth_not_hispanic,17 Years,5,3.933578746844371e-06
+Female,race_other,eth_not_hispanic,17 Years,5,3.933578746844371e-06
+Nonbinary,race_other,eth_not_hispanic,17 Years,5,8.741286104098603e-07
+Male,race_other,eth_not_hispanic,17 Years,6,5.997802227761825e-06
+Female,race_other,eth_not_hispanic,17 Years,6,5.997802227761825e-06
+Nonbinary,race_other,eth_not_hispanic,17 Years,6,1.332844939502628e-06
+Male,race_other,eth_not_hispanic,17 Years,7,3.7033583335590938e-06
+Female,race_other,eth_not_hispanic,17 Years,7,3.7033583335590938e-06
+Nonbinary,race_other,eth_not_hispanic,17 Years,7,8.229685185686876e-07
+Male,race_other,eth_not_hispanic,17 Years,8,4.0853345248901e-06
+Female,race_other,eth_not_hispanic,17 Years,8,4.0853345248901e-06
+Nonbinary,race_other,eth_not_hispanic,17 Years,8,9.078521166422446e-07
+Male,race_other,eth_not_hispanic,55 to 64 Years,1,1.565758074197607e-05
+Female,race_other,eth_not_hispanic,55 to 64 Years,1,1.565758074197607e-05
+Nonbinary,race_other,eth_not_hispanic,55 to 64 Years,1,3.479462387105794e-06
+Male,race_other,eth_not_hispanic,55 to 64 Years,2,3.740031991880088e-05
+Female,race_other,eth_not_hispanic,55 to 64 Years,2,3.740031991880088e-05
+Nonbinary,race_other,eth_not_hispanic,55 to 64 Years,2,8.311182204177973e-06
+Male,race_other,eth_not_hispanic,55 to 64 Years,3,4.162482413991699e-05
+Female,race_other,eth_not_hispanic,55 to 64 Years,3,4.162482413991699e-05
+Nonbinary,race_other,eth_not_hispanic,55 to 64 Years,3,9.249960919981553e-06
+Male,race_other,eth_not_hispanic,55 to 64 Years,4,4.868126747878965e-05
+Female,race_other,eth_not_hispanic,55 to 64 Years,4,4.868126747878965e-05
+Nonbinary,race_other,eth_not_hispanic,55 to 64 Years,4,1.0818059439731034e-05
+Male,race_other,eth_not_hispanic,55 to 64 Years,5,5.338556303803807e-05
+Female,race_other,eth_not_hispanic,55 to 64 Years,5,5.338556303803807e-05
+Nonbinary,race_other,eth_not_hispanic,55 to 64 Years,5,1.1863458452897349e-05
+Male,race_other,eth_not_hispanic,55 to 64 Years,6,8.140069629386077e-05
+Female,race_other,eth_not_hispanic,55 to 64 Years,6,8.140069629386077e-05
+Nonbinary,race_other,eth_not_hispanic,55 to 64 Years,6,1.808904362085795e-05
+Male,race_other,eth_not_hispanic,55 to 64 Years,7,5.026106822629848e-05
+Female,race_other,eth_not_hispanic,55 to 64 Years,7,5.026106822629848e-05
+Nonbinary,race_other,eth_not_hispanic,55 to 64 Years,7,1.1169126272510773e-05
+Male,race_other,eth_not_hispanic,55 to 64 Years,8,5.544515512367919e-05
+Female,race_other,eth_not_hispanic,55 to 64 Years,8,5.544515512367919e-05
+Nonbinary,race_other,eth_not_hispanic,55 to 64 Years,8,1.232114558303982e-05
+Male,race_other,eth_hispanic,18 to 24 Years,1,7.273997757764528e-05
+Female,race_other,eth_hispanic,18 to 24 Years,1,7.273997757764528e-05
+Nonbinary,race_other,eth_hispanic,18 to 24 Years,1,1.616443946169895e-05
+Male,race_other,eth_hispanic,18 to 24 Years,2,0.00017374960264436064
+Female,race_other,eth_hispanic,18 to 24 Years,2,0.00017374960264436064
+Nonbinary,race_other,eth_hispanic,18 to 24 Years,2,3.8611022809857925e-05
+Male,race_other,eth_hispanic,18 to 24 Years,3,0.00019337526176658033
+Female,race_other,eth_hispanic,18 to 24 Years,3,0.00019337526176658033
+Nonbinary,race_other,eth_hispanic,18 to 24 Years,3,4.2972280392573405e-05
+Male,race_other,eth_hispanic,18 to 24 Years,4,0.00022615717991255962
+Female,race_other,eth_hispanic,18 to 24 Years,4,0.00022615717991255962
+Nonbinary,race_other,eth_hispanic,18 to 24 Years,4,5.0257151091679915e-05
+Male,race_other,eth_hispanic,18 to 24 Years,5,0.00024801179200987914
+Female,race_other,eth_hispanic,18 to 24 Years,5,0.00024801179200987914
+Nonbinary,race_other,eth_hispanic,18 to 24 Years,5,5.511373155775092e-05
+Male,race_other,eth_hispanic,18 to 24 Years,6,0.00037816089987302044
+Female,race_other,eth_hispanic,18 to 24 Years,6,0.00037816089987302044
+Nonbinary,race_other,eth_hispanic,18 to 24 Years,6,8.403575552733788e-05
+Male,race_other,eth_hispanic,18 to 24 Years,7,0.00023349641531837602
+Female,race_other,eth_hispanic,18 to 24 Years,7,0.00023349641531837602
+Nonbinary,race_other,eth_hispanic,18 to 24 Years,7,5.1888092292972454e-05
+Male,race_other,eth_hispanic,18 to 24 Years,8,0.0002575799803907952
+Female,race_other,eth_hispanic,18 to 24 Years,8,0.0002575799803907952
+Nonbinary,race_other,eth_hispanic,18 to 24 Years,8,5.723999564239893e-05
+Male,race_other,eth_hispanic,25 to 34 Years,1,0.00016994778533343694
+Female,race_other,eth_hispanic,25 to 34 Years,1,0.00016994778533343694
+Nonbinary,race_other,eth_hispanic,25 to 34 Years,1,3.776617451854155e-05
+Male,race_other,eth_hispanic,25 to 34 Years,2,0.000405944037313651
+Female,race_other,eth_hispanic,25 to 34 Years,2,0.000405944037313651
+Nonbinary,race_other,eth_hispanic,25 to 34 Years,2,9.020978606970022e-05
+Male,race_other,eth_hispanic,25 to 34 Years,3,0.00045179691512035555
+Female,race_other,eth_hispanic,25 to 34 Years,3,0.00045179691512035555
+Nonbinary,race_other,eth_hispanic,25 to 34 Years,3,0.00010039931447119012
+Male,race_other,eth_hispanic,25 to 34 Years,4,0.0005283877331742142
+Female,race_other,eth_hispanic,25 to 34 Years,4,0.0005283877331742142
+Nonbinary,race_other,eth_hispanic,25 to 34 Years,4,0.0001174194962609365
+Male,race_other,eth_hispanic,25 to 34 Years,5,0.0005794482785434534
+Female,race_other,eth_hispanic,25 to 34 Years,5,0.0005794482785434534
+Nonbinary,race_other,eth_hispanic,25 to 34 Years,5,0.0001287662841207674
+Male,race_other,eth_hispanic,25 to 34 Years,6,0.0008835252576826527
+Female,race_other,eth_hispanic,25 to 34 Years,6,0.0008835252576826527
+Nonbinary,race_other,eth_hispanic,25 to 34 Years,6,0.0001963389461517006
+Male,race_other,eth_hispanic,25 to 34 Years,7,0.000545534931245974
+Female,race_other,eth_hispanic,25 to 34 Years,7,0.000545534931245974
+Nonbinary,race_other,eth_hispanic,25 to 34 Years,7,0.00012122998472132755
+Male,race_other,eth_hispanic,25 to 34 Years,8,0.0006018031441777473
+Female,race_other,eth_hispanic,25 to 34 Years,8,0.0006018031441777473
+Nonbinary,race_other,eth_hispanic,25 to 34 Years,8,0.00013373403203949938
+Male,race_other,eth_hispanic,35 to 44 Years,1,7.355515063884905e-05
+Female,race_other,eth_hispanic,35 to 44 Years,1,7.355515063884905e-05
+Nonbinary,race_other,eth_hispanic,35 to 44 Years,1,1.6345589030855345e-05
+Male,race_other,eth_hispanic,35 to 44 Years,2,0.00017569675743031525
+Female,race_other,eth_hispanic,35 to 44 Years,2,0.00017569675743031525
+Nonbinary,race_other,eth_hispanic,35 to 44 Years,2,3.904372387340339e-05
+Male,race_other,eth_hispanic,35 to 44 Years,3,0.00019554235487472815
+Female,race_other,eth_hispanic,35 to 44 Years,3,0.00019554235487472815
+Nonbinary,race_other,eth_hispanic,35 to 44 Years,3,4.345385663882848e-05
+Male,race_other,eth_hispanic,35 to 44 Years,4,0.0002286916492209361
+Female,race_other,eth_hispanic,35 to 44 Years,4,0.0002286916492209361
+Nonbinary,race_other,eth_hispanic,35 to 44 Years,4,5.082036649354136e-05
+Male,race_other,eth_hispanic,35 to 44 Years,5,0.0002507911787850746
+Female,race_other,eth_hispanic,35 to 44 Years,5,0.0002507911787850746
+Nonbinary,race_other,eth_hispanic,35 to 44 Years,5,5.573137306334992e-05
+Male,race_other,eth_hispanic,35 to 44 Years,6,0.0003823988249953922
+Female,race_other,eth_hispanic,35 to 44 Years,6,0.0003823988249953922
+Nonbinary,race_other,eth_hispanic,35 to 44 Years,6,8.49775166656427e-05
+Male,race_other,eth_hispanic,35 to 44 Years,7,0.00023611313302978872
+Female,race_other,eth_hispanic,35 to 44 Years,7,0.00023611313302978872
+Nonbinary,race_other,eth_hispanic,35 to 44 Years,7,5.2469585117730826e-05
+Male,race_other,eth_hispanic,35 to 44 Years,8,0.0002604665947136528
+Female,race_other,eth_hispanic,35 to 44 Years,8,0.0002604665947136528
+Nonbinary,race_other,eth_hispanic,35 to 44 Years,8,5.788146549192284e-05
+Male,race_other,eth_hispanic,45 to 54 Years,1,4.4922986760444806e-05
+Female,race_other,eth_hispanic,45 to 54 Years,1,4.4922986760444806e-05
+Nonbinary,race_other,eth_hispanic,45 to 54 Years,1,9.982885946765513e-06
+Male,race_other,eth_hispanic,45 to 54 Years,2,0.00010730483235155587
+Female,race_other,eth_hispanic,45 to 54 Years,2,0.00010730483235155587
+Nonbinary,race_other,eth_hispanic,45 to 54 Years,2,2.384551830034575e-05
+Male,race_other,eth_hispanic,45 to 54 Years,3,0.00011942530934746061
+Female,race_other,eth_hispanic,45 to 54 Years,3,0.00011942530934746061
+Nonbinary,race_other,eth_hispanic,45 to 54 Years,3,2.6538957632769028e-05
+Male,race_other,eth_hispanic,45 to 54 Years,4,0.00013967087064532937
+Female,race_other,eth_hispanic,45 to 54 Years,4,0.00013967087064532937
+Nonbinary,race_other,eth_hispanic,45 to 54 Years,4,3.1037971254517636e-05
+Male,race_other,eth_hispanic,45 to 54 Years,5,0.00015316791151057511
+Female,race_other,eth_hispanic,45 to 54 Years,5,0.00015316791151057511
+Nonbinary,race_other,eth_hispanic,45 to 54 Years,5,3.40373136690167e-05
+Male,race_other,eth_hispanic,45 to 54 Years,6,0.00023354581158868055
+Female,race_other,eth_hispanic,45 to 54 Years,6,0.00023354581158868055
+Nonbinary,race_other,eth_hispanic,45 to 54 Years,6,5.189906924192901e-05
+Male,race_other,eth_hispanic,45 to 54 Years,7,0.00014420345899559853
+Female,race_other,eth_hispanic,45 to 54 Years,7,0.00014420345899559853
+Nonbinary,race_other,eth_hispanic,45 to 54 Years,7,3.204521311013301e-05
+Male,race_other,eth_hispanic,45 to 54 Years,8,0.00015907706373018528
+Female,race_other,eth_hispanic,45 to 54 Years,8,0.00015907706373018528
+Nonbinary,race_other,eth_hispanic,45 to 54 Years,8,3.535045860670784e-05
+Male,race_other,eth_hispanic,65 to 74 Years,1,2.6363581483271295e-05
+Female,race_other,eth_hispanic,65 to 74 Years,1,2.6363581483271295e-05
+Nonbinary,race_other,eth_hispanic,65 to 74 Years,1,5.858573662949177e-06
+Male,race_other,eth_hispanic,65 to 74 Years,2,6.297309896900984e-05
+Female,race_other,eth_hispanic,65 to 74 Years,2,6.297309896900984e-05
+Nonbinary,race_other,eth_hispanic,65 to 74 Years,2,1.3994021993113296e-05
+Male,race_other,eth_hispanic,65 to 74 Years,3,7.008614300149183e-05
+Female,race_other,eth_hispanic,65 to 74 Years,3,7.008614300149183e-05
+Nonbinary,race_other,eth_hispanic,65 to 74 Years,3,1.5574698444775964e-05
+Male,race_other,eth_hispanic,65 to 74 Years,4,8.196748801973748e-05
+Female,race_other,eth_hispanic,65 to 74 Years,4,8.196748801973748e-05
+Nonbinary,race_other,eth_hispanic,65 to 74 Years,4,1.8214997337719442e-05
+Male,race_other,eth_hispanic,65 to 74 Years,5,8.988838469856789e-05
+Female,race_other,eth_hispanic,65 to 74 Years,5,8.988838469856789e-05
+Nonbinary,race_other,eth_hispanic,65 to 74 Years,5,1.9975196599681753e-05
+Male,race_other,eth_hispanic,65 to 74 Years,6,0.00013705909775608028
+Female,race_other,eth_hispanic,65 to 74 Years,6,0.00013705909775608028
+Nonbinary,race_other,eth_hispanic,65 to 74 Years,6,3.0457577279128956e-05
+Male,race_other,eth_hispanic,65 to 74 Years,7,8.462749063576268e-05
+Female,race_other,eth_hispanic,65 to 74 Years,7,8.462749063576268e-05
+Nonbinary,race_other,eth_hispanic,65 to 74 Years,7,1.8806109030169485e-05
+Male,race_other,eth_hispanic,65 to 74 Years,8,9.335623996094144e-05
+Female,race_other,eth_hispanic,65 to 74 Years,8,9.335623996094144e-05
+Nonbinary,race_other,eth_hispanic,65 to 74 Years,8,2.074583110243143e-05
+Male,race_other,eth_hispanic,75 Years & Over,1,1.974109025736802e-05
+Female,race_other,eth_hispanic,75 Years & Over,1,1.974109025736802e-05
+Nonbinary,race_other,eth_hispanic,75 Years & Over,1,4.386908946081782e-06
+Male,race_other,eth_hispanic,75 Years & Over,2,4.715435311102261e-05
+Female,race_other,eth_hispanic,75 Years & Over,2,4.715435311102261e-05
+Nonbinary,race_other,eth_hispanic,75 Years & Over,2,1.0478745135782803e-05
+Male,race_other,eth_hispanic,75 Years & Over,3,5.2480611394213827e-05
+Female,race_other,eth_hispanic,75 Years & Over,3,5.2480611394213827e-05
+Nonbinary,race_other,eth_hispanic,75 Years & Over,3,1.1662358087603072e-05
+Male,race_other,eth_hispanic,75 Years & Over,4,6.137738077029228e-05
+Female,race_other,eth_hispanic,75 Years & Over,4,6.137738077029228e-05
+Nonbinary,race_other,eth_hispanic,75 Years & Over,4,1.3639417948953842e-05
+Male,race_other,eth_hispanic,75 Years & Over,5,6.730856035434456e-05
+Female,race_other,eth_hispanic,75 Years & Over,5,6.730856035434456e-05
+Nonbinary,race_other,eth_hispanic,75 Years & Over,5,1.4957457856521015e-05
+Male,race_other,eth_hispanic,75 Years & Over,6,0.0001026300626534022
+Female,race_other,eth_hispanic,75 Years & Over,6,0.0001026300626534022
+Nonbinary,race_other,eth_hispanic,75 Years & Over,6,2.2806680589644935e-05
+Male,race_other,eth_hispanic,75 Years & Over,7,6.336919480971287e-05
+Female,race_other,eth_hispanic,75 Years & Over,7,6.336919480971287e-05
+Nonbinary,race_other,eth_hispanic,75 Years & Over,7,1.4082043291047305e-05
+Male,race_other,eth_hispanic,75 Years & Over,8,6.990529569462619e-05
+Female,race_other,eth_hispanic,75 Years & Over,8,6.990529569462619e-05
+Nonbinary,race_other,eth_hispanic,75 Years & Over,8,1.5534510154361376e-05
+Male,race_other,eth_hispanic,17 Years,1,3.236468755916136e-06
+Female,race_other,eth_hispanic,17 Years,1,3.236468755916136e-06
+Nonbinary,race_other,eth_hispanic,17 Years,1,7.192152790924747e-07
+Male,race_other,eth_hispanic,17 Years,2,7.730757955088178e-06
+Female,race_other,eth_hispanic,17 Years,2,7.730757955088178e-06
+Nonbinary,race_other,eth_hispanic,17 Years,2,1.7179462122418173e-06
+Male,race_other,eth_hispanic,17 Years,3,8.603975608963905e-06
+Female,race_other,eth_hispanic,17 Years,3,8.603975608963905e-06
+Nonbinary,race_other,eth_hispanic,17 Years,3,1.911994579769757e-06
+Male,race_other,eth_hispanic,17 Years,4,1.0062563546047196e-05
+Female,race_other,eth_hispanic,17 Years,4,1.0062563546047196e-05
+Nonbinary,race_other,eth_hispanic,17 Years,4,2.236125232454932e-06
+Male,race_other,eth_hispanic,17 Years,5,1.1034955504102716e-05
+Female,race_other,eth_hispanic,17 Years,5,1.1034955504102716e-05
+Nonbinary,race_other,eth_hispanic,17 Years,5,2.4522123342450484e-06
+Male,race_other,eth_hispanic,17 Years,6,1.6825767314015453e-05
+Female,race_other,eth_hispanic,17 Years,6,1.6825767314015453e-05
+Nonbinary,race_other,eth_hispanic,17 Years,6,3.7390594031145457e-06
+Male,race_other,eth_hispanic,17 Years,7,1.0389113084200175e-05
+Female,race_other,eth_hispanic,17 Years,7,1.0389113084200175e-05
+Nonbinary,race_other,eth_hispanic,17 Years,7,2.308691796488928e-06
+Male,race_other,eth_hispanic,17 Years,8,1.1460679346435487e-05
+Female,race_other,eth_hispanic,17 Years,8,1.1460679346435487e-05
+Nonbinary,race_other,eth_hispanic,17 Years,8,2.5468176325412192e-06
+Male,race_other,eth_hispanic,55 to 64 Years,1,4.392455773974556e-05
+Female,race_other,eth_hispanic,55 to 64 Years,1,4.392455773974556e-05
+Nonbinary,race_other,eth_hispanic,55 to 64 Years,1,9.761012831054568e-06
+Male,race_other,eth_hispanic,55 to 64 Years,2,0.00010491994509434002
+Female,race_other,eth_hispanic,55 to 64 Years,2,0.00010491994509434002
+Nonbinary,race_other,eth_hispanic,55 to 64 Years,2,2.3315543354297783e-05
+Male,race_other,eth_hispanic,55 to 64 Years,3,0.00011677104026926389
+Female,race_other,eth_hispanic,55 to 64 Years,3,0.00011677104026926389
+Nonbinary,race_other,eth_hispanic,55 to 64 Years,3,2.594912005983642e-05
+Male,race_other,eth_hispanic,55 to 64 Years,4,0.00013656663691879057
+Female,race_other,eth_hispanic,55 to 64 Years,4,0.00013656663691879057
+Nonbinary,race_other,eth_hispanic,55 to 64 Years,4,3.0348141537509016e-05
+Male,race_other,eth_hispanic,55 to 64 Years,5,0.0001497637013518083
+Female,race_other,eth_hispanic,55 to 64 Years,5,0.0001497637013518083
+Nonbinary,race_other,eth_hispanic,55 to 64 Years,5,3.328082252262407e-05
+Male,race_other,eth_hispanic,55 to 64 Years,6,0.0002283551746170931
+Female,race_other,eth_hispanic,55 to 64 Years,6,0.0002283551746170931
+Nonbinary,race_other,eth_hispanic,55 to 64 Years,6,5.074559435935402e-05
+Male,race_other,eth_hispanic,55 to 64 Years,7,0.00014099848691495335
+Female,race_other,eth_hispanic,55 to 64 Years,7,0.00014099848691495335
+Nonbinary,race_other,eth_hispanic,55 to 64 Years,7,3.1332997092211854e-05
+Male,race_other,eth_hispanic,55 to 64 Years,8,0.0001555415206060649
+Female,race_other,eth_hispanic,55 to 64 Years,8,0.0001555415206060649
+Nonbinary,race_other,eth_hispanic,55 to 64 Years,8,3.456478235690331e-05
+Male,race_two_or_more,eth_not_hispanic,18 to 24 Years,1,7.687994634641771e-05
+Female,race_two_or_more,eth_not_hispanic,18 to 24 Years,1,7.687994634641771e-05
+Nonbinary,race_two_or_more,eth_not_hispanic,18 to 24 Years,1,1.7084432521426157e-05
+Male,race_two_or_more,eth_not_hispanic,18 to 24 Years,2,0.00018363849665407417
+Female,race_two_or_more,eth_not_hispanic,18 to 24 Years,2,0.00018363849665407417
+Nonbinary,race_two_or_more,eth_not_hispanic,18 to 24 Years,2,4.0808554812016485e-05
+Male,race_two_or_more,eth_not_hispanic,18 to 24 Years,3,0.00020438114286562632
+Female,race_two_or_more,eth_not_hispanic,18 to 24 Years,3,0.00020438114286562632
+Nonbinary,race_two_or_more,eth_not_hispanic,18 to 24 Years,3,4.541803174791696e-05
+Male,race_two_or_more,eth_not_hispanic,18 to 24 Years,4,0.0002390288316899089
+Female,race_two_or_more,eth_not_hispanic,18 to 24 Years,4,0.0002390288316899089
+Nonbinary,race_two_or_more,eth_not_hispanic,18 to 24 Years,4,5.3117518153313096e-05
+Male,race_two_or_more,eth_not_hispanic,18 to 24 Years,5,0.0002621272909060972
+Female,race_two_or_more,eth_not_hispanic,18 to 24 Years,5,0.0002621272909060972
+Nonbinary,race_two_or_more,eth_not_hispanic,18 to 24 Years,5,5.8250509090243824e-05
+Male,race_two_or_more,eth_not_hispanic,18 to 24 Years,6,0.0003996837868353381
+Female,race_two_or_more,eth_not_hispanic,18 to 24 Years,6,0.0003996837868353381
+Nonbinary,race_two_or_more,eth_not_hispanic,18 to 24 Years,6,8.881861929674181e-05
+Male,race_two_or_more,eth_not_hispanic,18 to 24 Years,7,0.00024678577694907676
+Female,race_two_or_more,eth_not_hispanic,18 to 24 Years,7,0.00024678577694907676
+Nonbinary,race_two_or_more,eth_not_hispanic,18 to 24 Years,7,5.4841283766461506e-05
+Male,race_two_or_more,eth_not_hispanic,18 to 24 Years,8,0.00027224004916990115
+Female,race_two_or_more,eth_not_hispanic,18 to 24 Years,8,0.00027224004916990115
+Nonbinary,race_two_or_more,eth_not_hispanic,18 to 24 Years,8,6.049778870442248e-05
+Male,race_two_or_more,eth_not_hispanic,25 to 34 Years,1,0.00017962030032495514
+Female,race_two_or_more,eth_not_hispanic,25 to 34 Years,1,0.00017962030032495514
+Nonbinary,race_two_or_more,eth_not_hispanic,25 to 34 Years,1,3.9915622294434475e-05
+Male,race_two_or_more,eth_not_hispanic,25 to 34 Years,2,0.000429048191209684
+Female,race_two_or_more,eth_not_hispanic,25 to 34 Years,2,0.000429048191209684
+Nonbinary,race_two_or_more,eth_not_hispanic,25 to 34 Years,2,9.534404249104089e-05
+Male,race_two_or_more,eth_not_hispanic,25 to 34 Years,3,0.00047751076850214197
+Female,race_two_or_more,eth_not_hispanic,25 to 34 Years,3,0.00047751076850214197
+Nonbinary,race_two_or_more,eth_not_hispanic,25 to 34 Years,3,0.00010611350411158711
+Male,race_two_or_more,eth_not_hispanic,25 to 34 Years,4,0.0005584607244781872
+Female,race_two_or_more,eth_not_hispanic,25 to 34 Years,4,0.0005584607244781872
+Nonbinary,race_two_or_more,eth_not_hispanic,25 to 34 Years,4,0.00012410238321737495
+Male,race_two_or_more,eth_not_hispanic,25 to 34 Years,5,0.0006124273617955505
+Female,race_two_or_more,eth_not_hispanic,25 to 34 Years,5,0.0006124273617955505
+Nonbinary,race_two_or_more,eth_not_hispanic,25 to 34 Years,5,0.00013609496928790012
+Male,race_two_or_more,eth_not_hispanic,25 to 34 Years,6,0.0009338107691034304
+Female,race_two_or_more,eth_not_hispanic,25 to 34 Years,6,0.0009338107691034304
+Nonbinary,race_two_or_more,eth_not_hispanic,25 to 34 Years,6,0.00020751350424520678
+Male,race_two_or_more,eth_not_hispanic,25 to 34 Years,7,0.0005765838489504364
+Female,race_two_or_more,eth_not_hispanic,25 to 34 Years,7,0.0005765838489504364
+Nonbinary,race_two_or_more,eth_not_hispanic,25 to 34 Years,7,0.0001281297442112081
+Male,race_two_or_more,eth_not_hispanic,25 to 34 Years,8,0.0006360545462927048
+Female,race_two_or_more,eth_not_hispanic,25 to 34 Years,8,0.0006360545462927048
+Nonbinary,race_two_or_more,eth_not_hispanic,25 to 34 Years,8,0.0001413454547317122
+Male,race_two_or_more,eth_not_hispanic,35 to 44 Years,1,7.77415146792027e-05
+Female,race_two_or_more,eth_not_hispanic,35 to 44 Years,1,7.77415146792027e-05
+Nonbinary,race_two_or_more,eth_not_hispanic,35 to 44 Years,1,1.7275892150933936e-05
+Male,race_two_or_more,eth_not_hispanic,35 to 44 Years,2,0.0001856964730304425
+Female,race_two_or_more,eth_not_hispanic,35 to 44 Years,2,0.0001856964730304425
+Nonbinary,race_two_or_more,eth_not_hispanic,35 to 44 Years,2,4.12658828956539e-05
+Male,race_two_or_more,eth_not_hispanic,35 to 44 Years,3,0.00020667157527199122
+Female,race_two_or_more,eth_not_hispanic,35 to 44 Years,3,0.00020667157527199122
+Nonbinary,race_two_or_more,eth_not_hispanic,35 to 44 Years,3,4.592701672710916e-05
+Male,race_two_or_more,eth_not_hispanic,35 to 44 Years,4,0.00024170754937629575
+Female,race_two_or_more,eth_not_hispanic,35 to 44 Years,4,0.00024170754937629575
+Nonbinary,race_two_or_more,eth_not_hispanic,35 to 44 Years,4,5.3712788750287946e-05
+Male,race_two_or_more,eth_not_hispanic,35 to 44 Years,5,0.000265064865445832
+Female,race_two_or_more,eth_not_hispanic,35 to 44 Years,5,0.000265064865445832
+Nonbinary,race_two_or_more,eth_not_hispanic,35 to 44 Years,5,5.890330343240712e-05
+Male,race_two_or_more,eth_not_hispanic,35 to 44 Years,6,0.0004041629118897869
+Female,race_two_or_more,eth_not_hispanic,35 to 44 Years,6,0.0004041629118897869
+Nonbinary,race_two_or_more,eth_not_hispanic,35 to 44 Years,6,8.981398041995264e-05
+Male,race_two_or_more,eth_not_hispanic,35 to 44 Years,7,0.0002495514241757671
+Female,race_two_or_more,eth_not_hispanic,35 to 44 Years,7,0.0002495514241757671
+Nonbinary,race_two_or_more,eth_not_hispanic,35 to 44 Years,7,5.545587203905935e-05
+Male,race_two_or_more,eth_not_hispanic,35 to 44 Years,8,0.00027529095407329083
+Female,race_two_or_more,eth_not_hispanic,35 to 44 Years,8,0.00027529095407329083
+Nonbinary,race_two_or_more,eth_not_hispanic,35 to 44 Years,8,6.11757675718424e-05
+Male,race_two_or_more,eth_not_hispanic,45 to 54 Years,1,4.747976184316596e-05
+Female,race_two_or_more,eth_not_hispanic,45 to 54 Years,1,4.747976184316596e-05
+Nonbinary,race_two_or_more,eth_not_hispanic,45 to 54 Years,1,1.0551058187370213e-05
+Male,race_two_or_more,eth_not_hispanic,45 to 54 Years,2,0.00011341204697366112
+Female,race_two_or_more,eth_not_hispanic,45 to 54 Years,2,0.00011341204697366112
+Nonbinary,race_two_or_more,eth_not_hispanic,45 to 54 Years,2,2.520267710525803e-05
+Male,race_two_or_more,eth_not_hispanic,45 to 54 Years,3,0.00012622235640967225
+Female,race_two_or_more,eth_not_hispanic,45 to 54 Years,3,0.00012622235640967225
+Nonbinary,race_two_or_more,eth_not_hispanic,45 to 54 Years,3,2.8049412535482722e-05
+Male,race_two_or_more,eth_not_hispanic,45 to 54 Years,4,0.0001476201862986328
+Female,race_two_or_more,eth_not_hispanic,45 to 54 Years,4,0.0001476201862986328
+Nonbinary,race_two_or_more,eth_not_hispanic,45 to 54 Years,4,3.280448584414062e-05
+Male,race_two_or_more,eth_not_hispanic,45 to 54 Years,5,0.00016188540622460646
+Female,race_two_or_more,eth_not_hispanic,45 to 54 Years,5,0.00016188540622460646
+Nonbinary,race_two_or_more,eth_not_hispanic,45 to 54 Years,5,3.597453471657921e-05
+Male,race_two_or_more,eth_not_hispanic,45 to 54 Years,6,0.0002468379845897331
+Female,race_two_or_more,eth_not_hispanic,45 to 54 Years,6,0.0002468379845897331
+Nonbinary,race_two_or_more,eth_not_hispanic,45 to 54 Years,6,5.4852885464385146e-05
+Male,race_two_or_more,eth_not_hispanic,45 to 54 Years,7,0.0001524107452289972
+Female,race_two_or_more,eth_not_hispanic,45 to 54 Years,7,0.0001524107452289972
+Nonbinary,race_two_or_more,eth_not_hispanic,45 to 54 Years,7,3.386905449533271e-05
+Male,race_two_or_more,eth_not_hispanic,45 to 54 Years,8,0.0001681308756449333
+Female,race_two_or_more,eth_not_hispanic,45 to 54 Years,8,0.0001681308756449333
+Nonbinary,race_two_or_more,eth_not_hispanic,45 to 54 Years,8,3.736241680998518e-05
+Male,race_two_or_more,eth_not_hispanic,65 to 74 Years,1,2.7864054917666097e-05
+Female,race_two_or_more,eth_not_hispanic,65 to 74 Years,1,2.7864054917666097e-05
+Nonbinary,race_two_or_more,eth_not_hispanic,65 to 74 Years,1,6.192012203925799e-06
+Male,race_two_or_more,eth_not_hispanic,65 to 74 Years,2,6.6557189474485e-05
+Female,race_two_or_more,eth_not_hispanic,65 to 74 Years,2,6.6557189474485e-05
+Nonbinary,race_two_or_more,eth_not_hispanic,65 to 74 Years,2,1.4790486549885556e-05
+Male,race_two_or_more,eth_not_hispanic,65 to 74 Years,3,7.407506976243526e-05
+Female,race_two_or_more,eth_not_hispanic,65 to 74 Years,3,7.407506976243526e-05
+Nonbinary,race_two_or_more,eth_not_hispanic,65 to 74 Years,3,1.6461126613874503e-05
+Male,race_two_or_more,eth_not_hispanic,65 to 74 Years,4,8.663263711322208e-05
+Female,race_two_or_more,eth_not_hispanic,65 to 74 Years,4,8.663263711322208e-05
+Nonbinary,race_two_or_more,eth_not_hispanic,65 to 74 Years,4,1.925169713627157e-05
+Male,race_two_or_more,eth_not_hispanic,65 to 74 Years,5,9.500434868041324e-05
+Female,race_two_or_more,eth_not_hispanic,65 to 74 Years,5,9.500434868041324e-05
+Nonbinary,race_two_or_more,eth_not_hispanic,65 to 74 Years,5,2.1112077484536278e-05
+Male,race_two_or_more,eth_not_hispanic,65 to 74 Years,6,0.00014485976532682037
+Female,race_two_or_more,eth_not_hispanic,65 to 74 Years,6,0.00014485976532682037
+Nonbinary,race_two_or_more,eth_not_hispanic,65 to 74 Years,6,3.219105896151564e-05
+Male,race_two_or_more,eth_not_hispanic,65 to 74 Years,7,8.944403278877139e-05
+Female,race_two_or_more,eth_not_hispanic,65 to 74 Years,7,8.944403278877139e-05
+Nonbinary,race_two_or_more,eth_not_hispanic,65 to 74 Years,7,1.987645173083809e-05
+Male,race_two_or_more,eth_not_hispanic,65 to 74 Years,8,9.866957563520344e-05
+Female,race_two_or_more,eth_not_hispanic,65 to 74 Years,8,9.866957563520344e-05
+Nonbinary,race_two_or_more,eth_not_hispanic,65 to 74 Years,8,2.192657236337854e-05
+Male,race_two_or_more,eth_not_hispanic,75 Years & Over,1,2.086464706682376e-05
+Female,race_two_or_more,eth_not_hispanic,75 Years & Over,1,2.086464706682376e-05
+Nonbinary,race_two_or_more,eth_not_hispanic,75 Years & Over,1,4.636588237071947e-06
+Male,race_two_or_more,eth_not_hispanic,75 Years & Over,2,4.9838125579647836e-05
+Female,race_two_or_more,eth_not_hispanic,75 Years & Over,2,4.9838125579647836e-05
+Nonbinary,race_two_or_more,eth_not_hispanic,75 Years & Over,2,1.107513901769952e-05
+Male,race_two_or_more,eth_not_hispanic,75 Years & Over,3,5.5467525871967245e-05
+Female,race_two_or_more,eth_not_hispanic,75 Years & Over,3,5.5467525871967245e-05
+Nonbinary,race_two_or_more,eth_not_hispanic,75 Years & Over,3,1.2326116860437165e-05
+Male,race_two_or_more,eth_not_hispanic,75 Years & Over,4,6.487065156800221e-05
+Female,race_two_or_more,eth_not_hispanic,75 Years & Over,4,6.487065156800221e-05
+Nonbinary,race_two_or_more,eth_not_hispanic,75 Years & Over,4,1.4415700348444938e-05
+Male,race_two_or_more,eth_not_hispanic,75 Years & Over,5,7.11394020320255e-05
+Female,race_two_or_more,eth_not_hispanic,75 Years & Over,5,7.11394020320255e-05
+Nonbinary,race_two_or_more,eth_not_hispanic,75 Years & Over,5,1.5808756007116777e-05
+Male,race_two_or_more,eth_not_hispanic,75 Years & Over,6,0.00010847121449688064
+Female,race_two_or_more,eth_not_hispanic,75 Years & Over,6,0.00010847121449688064
+Nonbinary,race_two_or_more,eth_not_hispanic,75 Years & Over,6,2.4104714332640143e-05
+Male,race_two_or_more,eth_not_hispanic,75 Years & Over,7,6.697582896263694e-05
+Female,race_two_or_more,eth_not_hispanic,75 Years & Over,7,6.697582896263694e-05
+Nonbinary,race_two_or_more,eth_not_hispanic,75 Years & Over,7,1.4883517547252653e-05
+Male,race_two_or_more,eth_not_hispanic,75 Years & Over,8,7.388392959836409e-05
+Female,race_two_or_more,eth_not_hispanic,75 Years & Over,8,7.388392959836409e-05
+Nonbinary,race_two_or_more,eth_not_hispanic,75 Years & Over,8,1.6418651021858687e-05
+Male,race_two_or_more,eth_not_hispanic,17 Years,1,3.420671171380151e-06
+Female,race_two_or_more,eth_not_hispanic,17 Years,1,3.420671171380151e-06
+Nonbinary,race_two_or_more,eth_not_hispanic,17 Years,1,7.601491491955892e-07
+Male,race_two_or_more,eth_not_hispanic,17 Years,2,8.170751168707754e-06
+Female,race_two_or_more,eth_not_hispanic,17 Years,2,8.170751168707754e-06
+Nonbinary,race_two_or_more,eth_not_hispanic,17 Years,2,1.8157224819350566e-06
+Male,race_two_or_more,eth_not_hispanic,17 Years,3,9.093667680567421e-06
+Female,race_two_or_more,eth_not_hispanic,17 Years,3,9.093667680567421e-06
+Nonbinary,race_two_or_more,eth_not_hispanic,17 Years,3,2.0208150401260937e-06
+Male,race_two_or_more,eth_not_hispanic,17 Years,4,1.063527060757956e-05
+Female,race_two_or_more,eth_not_hispanic,17 Years,4,1.063527060757956e-05
+Nonbinary,race_two_or_more,eth_not_hispanic,17 Years,4,2.3633934683510135e-06
+Male,race_two_or_more,eth_not_hispanic,17 Years,5,1.1663005892254315e-05
+Female,race_two_or_more,eth_not_hispanic,17 Years,5,1.1663005892254315e-05
+Nonbinary,race_two_or_more,eth_not_hispanic,17 Years,5,2.5917790871676257e-06
+Male,race_two_or_more,eth_not_hispanic,17 Years,6,1.7783399602481593e-05
+Female,race_two_or_more,eth_not_hispanic,17 Years,6,1.7783399602481593e-05
+Nonbinary,race_two_or_more,eth_not_hispanic,17 Years,6,3.9518665783292425e-06
+Male,race_two_or_more,eth_not_hispanic,17 Years,7,1.0980405591238998e-05
+Female,race_two_or_more,eth_not_hispanic,17 Years,7,1.0980405591238998e-05
+Nonbinary,race_two_or_more,eth_not_hispanic,17 Years,7,2.4400901313864444e-06
+Male,race_two_or_more,eth_not_hispanic,17 Years,8,1.211295964872884e-05
+Female,race_two_or_more,eth_not_hispanic,17 Years,8,1.211295964872884e-05
+Nonbinary,race_two_or_more,eth_not_hispanic,17 Years,8,2.691768810828631e-06
+Male,race_two_or_more,eth_not_hispanic,55 to 64 Years,1,4.642450760611139e-05
+Female,race_two_or_more,eth_not_hispanic,55 to 64 Years,1,4.642450760611139e-05
+Nonbinary,race_two_or_more,eth_not_hispanic,55 to 64 Years,1,1.031655724580253e-05
+Male,race_two_or_more,eth_not_hispanic,55 to 64 Years,2,0.00011089142474524076
+Female,race_two_or_more,eth_not_hispanic,55 to 64 Years,2,0.00011089142474524076
+Nonbinary,race_two_or_more,eth_not_hispanic,55 to 64 Years,2,2.4642538832275726e-05
+Male,race_two_or_more,eth_not_hispanic,55 to 64 Years,3,0.00012341702059412432
+Female,race_two_or_more,eth_not_hispanic,55 to 64 Years,3,0.00012341702059412432
+Nonbinary,race_two_or_more,eth_not_hispanic,55 to 64 Years,3,2.7426004576472073e-05
+Male,race_two_or_more,eth_not_hispanic,55 to 64 Years,4,0.00014433927626414324
+Female,race_two_or_more,eth_not_hispanic,55 to 64 Years,4,0.00014433927626414324
+Nonbinary,race_two_or_more,eth_not_hispanic,55 to 64 Years,4,3.207539472536516e-05
+Male,race_two_or_more,eth_not_hispanic,55 to 64 Years,5,0.00015828744671082248
+Female,race_two_or_more,eth_not_hispanic,55 to 64 Years,5,0.00015828744671082248
+Nonbinary,race_two_or_more,eth_not_hispanic,55 to 64 Years,5,3.517498815796055e-05
+Male,race_two_or_more,eth_not_hispanic,55 to 64 Years,6,0.00024135192444552412
+Female,race_two_or_more,eth_not_hispanic,55 to 64 Years,6,0.00024135192444552412
+Nonbinary,race_two_or_more,eth_not_hispanic,55 to 64 Years,6,5.3633760987894254e-05
+Male,race_two_or_more,eth_not_hispanic,55 to 64 Years,7,0.00014902336335444606
+Female,race_two_or_more,eth_not_hispanic,55 to 64 Years,7,0.00014902336335444606
+Nonbinary,race_two_or_more,eth_not_hispanic,55 to 64 Years,7,3.311630296765468e-05
+Male,race_two_or_more,eth_not_hispanic,55 to 64 Years,8,0.0001643941083989209
+Female,race_two_or_more,eth_not_hispanic,55 to 64 Years,8,0.0001643941083989209
+Nonbinary,race_two_or_more,eth_not_hispanic,55 to 64 Years,8,3.653202408864909e-05
+Male,race_two_or_more,eth_hispanic,18 to 24 Years,1,4.808174254258732e-05
+Female,race_two_or_more,eth_hispanic,18 to 24 Years,1,4.808174254258732e-05
+Nonbinary,race_two_or_more,eth_hispanic,18 to 24 Years,1,1.0684831676130517e-05
+Male,race_two_or_more,eth_hispanic,18 to 24 Years,2,0.00011484996200755551
+Female,race_two_or_more,eth_hispanic,18 to 24 Years,2,0.00011484996200755551
+Nonbinary,race_two_or_more,eth_hispanic,18 to 24 Years,2,2.552221377945678e-05
+Male,race_two_or_more,eth_hispanic,18 to 24 Years,3,0.00012782268925559285
+Female,race_two_or_more,eth_hispanic,18 to 24 Years,3,0.00012782268925559285
+Nonbinary,race_two_or_more,eth_hispanic,18 to 24 Years,3,2.8405042056798416e-05
+Male,race_two_or_more,eth_hispanic,18 to 24 Years,4,0.00014949181537904602
+Female,race_two_or_more,eth_hispanic,18 to 24 Years,4,0.00014949181537904602
+Nonbinary,race_two_or_more,eth_hispanic,18 to 24 Years,4,3.322040341756578e-05
+Male,race_two_or_more,eth_hispanic,18 to 24 Years,5,0.00016393789946134805
+Female,race_two_or_more,eth_hispanic,18 to 24 Years,5,0.00016393789946134805
+Nonbinary,race_two_or_more,eth_hispanic,18 to 24 Years,5,3.643064432474401e-05
+Male,race_two_or_more,eth_hispanic,18 to 24 Years,6,0.0002499675643693856
+Female,race_two_or_more,eth_hispanic,18 to 24 Years,6,0.0002499675643693856
+Nonbinary,race_two_or_more,eth_hispanic,18 to 24 Years,6,5.5548347637641246e-05
+Male,race_two_or_more,eth_hispanic,18 to 24 Years,7,0.00015434311227235651
+Female,race_two_or_more,eth_hispanic,18 to 24 Years,7,0.00015434311227235651
+Nonbinary,race_two_or_more,eth_hispanic,18 to 24 Years,7,3.4298469393857004e-05
+Male,race_two_or_more,eth_hispanic,18 to 24 Years,8,0.00017026255318892315
+Female,race_two_or_more,eth_hispanic,18 to 24 Years,8,0.00017026255318892315
+Nonbinary,race_two_or_more,eth_hispanic,18 to 24 Years,8,3.7836122930871816e-05
+Male,race_two_or_more,eth_hispanic,25 to 34 Years,1,0.00011233692849798834
+Female,race_two_or_more,eth_hispanic,25 to 34 Years,1,0.00011233692849798834
+Nonbinary,race_two_or_more,eth_hispanic,25 to 34 Years,1,2.4963761888441853e-05
+Male,race_two_or_more,eth_hispanic,25 to 34 Years,2,0.0002683324540206062
+Female,race_two_or_more,eth_hispanic,25 to 34 Years,2,0.0002683324540206062
+Nonbinary,race_two_or_more,eth_hispanic,25 to 34 Years,2,5.962943422680138e-05
+Male,race_two_or_more,eth_hispanic,25 to 34 Years,3,0.00029864159541655074
+Female,race_two_or_more,eth_hispanic,25 to 34 Years,3,0.00029864159541655074
+Nonbinary,race_two_or_more,eth_hispanic,25 to 34 Years,3,6.636479898145572e-05
+Male,race_two_or_more,eth_hispanic,25 to 34 Years,4,0.0003492687761970345
+Female,race_two_or_more,eth_hispanic,25 to 34 Years,4,0.0003492687761970345
+Nonbinary,race_two_or_more,eth_hispanic,25 to 34 Years,4,7.761528359934101e-05
+Male,race_two_or_more,eth_hispanic,25 to 34 Years,5,0.0003830202300506903
+Female,race_two_or_more,eth_hispanic,25 to 34 Years,5,0.0003830202300506903
+Nonbinary,race_two_or_more,eth_hispanic,25 to 34 Years,5,8.511560667793117e-05
+Male,race_two_or_more,eth_hispanic,25 to 34 Years,6,0.0005840176940448491
+Female,race_two_or_more,eth_hispanic,25 to 34 Years,6,0.0005840176940448491
+Nonbinary,race_two_or_more,eth_hispanic,25 to 34 Years,6,0.00012978170978774424
+Male,race_two_or_more,eth_hispanic,25 to 34 Years,7,0.000360603219655352
+Female,race_two_or_more,eth_hispanic,25 to 34 Years,7,0.000360603219655352
+Nonbinary,race_two_or_more,eth_hispanic,25 to 34 Years,7,8.013404881230044e-05
+Male,race_two_or_more,eth_hispanic,25 to 34 Years,8,0.0003977969859667188
+Female,race_two_or_more,eth_hispanic,25 to 34 Years,8,0.0003977969859667188
+Nonbinary,race_two_or_more,eth_hispanic,25 to 34 Years,8,8.839933021482641e-05
+Male,race_two_or_more,eth_hispanic,35 to 44 Years,1,4.862057885463613e-05
+Female,race_two_or_more,eth_hispanic,35 to 44 Years,1,4.862057885463613e-05
+Nonbinary,race_two_or_more,eth_hispanic,35 to 44 Years,1,1.080457307880803e-05
+Male,race_two_or_more,eth_hispanic,35 to 44 Years,2,0.0001161370478470981
+Female,race_two_or_more,eth_hispanic,35 to 44 Years,2,0.0001161370478470981
+Nonbinary,race_two_or_more,eth_hispanic,35 to 44 Years,2,2.580823285491069e-05
+Male,race_two_or_more,eth_hispanic,35 to 44 Years,3,0.00012925515619278093
+Female,race_two_or_more,eth_hispanic,35 to 44 Years,3,0.00012925515619278093
+Nonbinary,race_two_or_more,eth_hispanic,35 to 44 Years,3,2.872336804284021e-05
+Male,race_two_or_more,eth_hispanic,35 to 44 Years,4,0.00015116712110260585
+Female,race_two_or_more,eth_hispanic,35 to 44 Years,4,0.00015116712110260585
+Nonbinary,race_two_or_more,eth_hispanic,35 to 44 Years,4,3.3592693578356856e-05
+Male,race_two_or_more,eth_hispanic,35 to 44 Years,5,0.00016577509770915574
+Female,race_two_or_more,eth_hispanic,35 to 44 Years,5,0.00016577509770915574
+Nonbinary,race_two_or_more,eth_hispanic,35 to 44 Years,5,3.6838910602034615e-05
+Male,race_two_or_more,eth_hispanic,35 to 44 Years,6,0.00025276886884368423
+Female,race_two_or_more,eth_hispanic,35 to 44 Years,6,0.00025276886884368423
+Nonbinary,race_two_or_more,eth_hispanic,35 to 44 Years,6,5.617085974304094e-05
+Male,race_two_or_more,eth_hispanic,35 to 44 Years,7,0.00015607278488838762
+Female,race_two_or_more,eth_hispanic,35 to 44 Years,7,0.00015607278488838762
+Nonbinary,race_two_or_more,eth_hispanic,35 to 44 Years,7,3.468284108630836e-05
+Male,race_two_or_more,eth_hispanic,35 to 44 Years,8,0.0001721706297558045
+Female,race_two_or_more,eth_hispanic,35 to 44 Years,8,0.0001721706297558045
+Nonbinary,race_two_or_more,eth_hispanic,35 to 44 Years,8,3.826013994573434e-05
+Male,race_two_or_more,eth_hispanic,45 to 54 Years,1,2.9694475522131285e-05
+Female,race_two_or_more,eth_hispanic,45 to 54 Years,1,2.9694475522131285e-05
+Nonbinary,race_two_or_more,eth_hispanic,45 to 54 Years,1,6.598772338251397e-06
+Male,race_two_or_more,eth_hispanic,45 to 54 Years,2,7.092940490936599e-05
+Female,race_two_or_more,eth_hispanic,45 to 54 Years,2,7.092940490936599e-05
+Nonbinary,race_two_or_more,eth_hispanic,45 to 54 Years,2,1.5762089979859107e-05
+Male,race_two_or_more,eth_hispanic,45 to 54 Years,3,7.894114307340888e-05
+Female,race_two_or_more,eth_hispanic,45 to 54 Years,3,7.894114307340888e-05
+Nonbinary,race_two_or_more,eth_hispanic,45 to 54 Years,3,1.7542476238535304e-05
+Male,race_two_or_more,eth_hispanic,45 to 54 Years,4,9.232363092082684e-05
+Female,race_two_or_more,eth_hispanic,45 to 54 Years,4,9.232363092082684e-05
+Nonbinary,race_two_or_more,eth_hispanic,45 to 54 Years,4,2.051636242685041e-05
+Male,race_two_or_more,eth_hispanic,45 to 54 Years,5,0.00010124528948577214
+Female,race_two_or_more,eth_hispanic,45 to 54 Years,5,0.00010124528948577214
+Nonbinary,race_two_or_more,eth_hispanic,45 to 54 Years,5,2.2498953219060475e-05
+Male,race_two_or_more,eth_hispanic,45 to 54 Years,6,0.00015437576362626723
+Female,race_two_or_more,eth_hispanic,45 to 54 Years,6,0.00015437576362626723
+Nonbinary,race_two_or_more,eth_hispanic,45 to 54 Years,6,3.430572525028161e-05
+Male,race_two_or_more,eth_hispanic,45 to 54 Years,7,9.531971028965183e-05
+Female,race_two_or_more,eth_hispanic,45 to 54 Years,7,9.531971028965183e-05
+Nonbinary,race_two_or_more,eth_hispanic,45 to 54 Years,7,2.118215784214485e-05
+Male,race_two_or_more,eth_hispanic,45 to 54 Years,8,0.00010515128925549947
+Female,race_two_or_more,eth_hispanic,45 to 54 Years,8,0.00010515128925549947
+Nonbinary,race_two_or_more,eth_hispanic,45 to 54 Years,8,2.336695316788877e-05
+Male,race_two_or_more,eth_hispanic,65 to 74 Years,1,1.7426551115252727e-05
+Female,race_two_or_more,eth_hispanic,65 to 74 Years,1,1.7426551115252727e-05
+Nonbinary,race_two_or_more,eth_hispanic,65 to 74 Years,1,3.872566914500606e-06
+Male,race_two_or_more,eth_hispanic,65 to 74 Years,2,4.1625752888152296e-05
+Female,race_two_or_more,eth_hispanic,65 to 74 Years,2,4.1625752888152296e-05
+Nonbinary,race_two_or_more,eth_hispanic,65 to 74 Years,2,9.25016730847829e-06
+Male,race_two_or_more,eth_hispanic,65 to 74 Years,3,4.632753536394171e-05
+Female,race_two_or_more,eth_hispanic,65 to 74 Years,3,4.632753536394171e-05
+Nonbinary,race_two_or_more,eth_hispanic,65 to 74 Years,3,1.0295007858653712e-05
+Male,race_two_or_more,eth_hispanic,65 to 74 Years,4,5.418120526117448e-05
+Female,race_two_or_more,eth_hispanic,65 to 74 Years,4,5.418120526117448e-05
+Nonbinary,race_two_or_more,eth_hispanic,65 to 74 Years,4,1.2040267835816553e-05
+Male,race_two_or_more,eth_hispanic,65 to 74 Years,5,5.941698519266298e-05
+Female,race_two_or_more,eth_hispanic,65 to 74 Years,5,5.941698519266298e-05
+Nonbinary,race_two_or_more,eth_hispanic,65 to 74 Years,5,1.320377448725844e-05
+Male,race_two_or_more,eth_hispanic,65 to 74 Years,6,9.059722687421387e-05
+Female,race_two_or_more,eth_hispanic,65 to 74 Years,6,9.059722687421387e-05
+Nonbinary,race_two_or_more,eth_hispanic,65 to 74 Years,6,2.013271708315864e-05
+Male,race_two_or_more,eth_hispanic,65 to 74 Years,7,5.593948956652513e-05
+Female,race_two_or_more,eth_hispanic,65 to 74 Years,7,5.593948956652513e-05
+Nonbinary,race_two_or_more,eth_hispanic,65 to 74 Years,7,1.2430997681450029e-05
+Male,race_two_or_more,eth_hispanic,65 to 74 Years,8,6.170926695371269e-05
+Female,race_two_or_more,eth_hispanic,65 to 74 Years,8,6.170926695371269e-05
+Nonbinary,race_two_or_more,eth_hispanic,65 to 74 Years,8,1.3713170434158376e-05
+Male,race_two_or_more,eth_hispanic,75 Years & Over,1,1.3049028208065536e-05
+Female,race_two_or_more,eth_hispanic,75 Years & Over,1,1.3049028208065536e-05
+Nonbinary,race_two_or_more,eth_hispanic,75 Years & Over,1,2.899784046236786e-06
+Male,race_two_or_more,eth_hispanic,75 Years & Over,2,3.116942761806988e-05
+Female,race_two_or_more,eth_hispanic,75 Years & Over,2,3.116942761806988e-05
+Nonbinary,race_two_or_more,eth_hispanic,75 Years & Over,2,6.926539470682195e-06
+Male,race_two_or_more,eth_hispanic,75 Years & Over,3,3.46901295486466e-05
+Female,race_two_or_more,eth_hispanic,75 Years & Over,3,3.46901295486466e-05
+Nonbinary,race_two_or_more,eth_hispanic,75 Years & Over,3,7.708917677477022e-06
+Male,race_two_or_more,eth_hispanic,75 Years & Over,4,4.057096961551025e-05
+Female,race_two_or_more,eth_hispanic,75 Years & Over,4,4.057096961551025e-05
+Nonbinary,race_two_or_more,eth_hispanic,75 Years & Over,4,9.015771025668944e-06
+Male,race_two_or_more,eth_hispanic,75 Years & Over,5,4.4491529660086e-05
+Female,race_two_or_more,eth_hispanic,75 Years & Over,5,4.4491529660086e-05
+Nonbinary,race_two_or_more,eth_hispanic,75 Years & Over,5,9.887006591130223e-06
+Male,race_two_or_more,eth_hispanic,75 Years & Over,6,6.783934246285801e-05
+Female,race_two_or_more,eth_hispanic,75 Years & Over,6,6.783934246285801e-05
+Nonbinary,race_two_or_more,eth_hispanic,75 Years & Over,6,1.5075409436190668e-05
+Male,race_two_or_more,eth_hispanic,75 Years & Over,7,4.1887575600628996e-05
+Female,race_two_or_more,eth_hispanic,75 Years & Over,7,4.1887575600628996e-05
+Nonbinary,race_two_or_more,eth_hispanic,75 Years & Over,7,9.308350133473111e-06
+Male,race_two_or_more,eth_hispanic,75 Years & Over,8,4.620799375920375e-05
+Female,race_two_or_more,eth_hispanic,75 Years & Over,8,4.620799375920375e-05
+Nonbinary,race_two_or_more,eth_hispanic,75 Years & Over,8,1.0268443057600835e-05
+Male,race_two_or_more,eth_hispanic,17 Years,1,2.1393333164418206e-06
+Female,race_two_or_more,eth_hispanic,17 Years,1,2.1393333164418206e-06
+Nonbinary,race_two_or_more,eth_hispanic,17 Years,1,4.754074036537379e-07
+Male,race_two_or_more,eth_hispanic,17 Years,2,5.110096621336373e-06
+Female,race_two_or_more,eth_hispanic,17 Years,2,5.110096621336373e-06
+Nonbinary,race_two_or_more,eth_hispanic,17 Years,2,1.1355770269636383e-06
+Male,race_two_or_more,eth_hispanic,17 Years,3,5.6873009017814365e-06
+Female,race_two_or_more,eth_hispanic,17 Years,3,5.6873009017814365e-06
+Nonbinary,race_two_or_more,eth_hispanic,17 Years,3,1.2638446448403194e-06
+Male,race_two_or_more,eth_hispanic,17 Years,4,6.651439907621814e-06
+Female,race_two_or_more,eth_hispanic,17 Years,4,6.651439907621814e-06
+Nonbinary,race_two_or_more,eth_hispanic,17 Years,4,1.478097757249292e-06
+Male,race_two_or_more,eth_hispanic,17 Years,5,7.294199244848729e-06
+Female,race_two_or_more,eth_hispanic,17 Years,5,7.294199244848729e-06
+Nonbinary,race_two_or_more,eth_hispanic,17 Years,5,1.62093316552194e-06
+Male,race_two_or_more,eth_hispanic,17 Years,6,1.1121974999379168e-05
+Female,race_two_or_more,eth_hispanic,17 Years,6,1.1121974999379168e-05
+Nonbinary,race_two_or_more,eth_hispanic,17 Years,6,2.4715499998620375e-06
+Male,race_two_or_more,eth_hispanic,17 Years,7,6.867291923854738e-06
+Female,race_two_or_more,eth_hispanic,17 Years,7,6.867291923854738e-06
+Nonbinary,race_two_or_more,eth_hispanic,17 Years,7,1.5260648719677197e-06
+Male,race_two_or_more,eth_hispanic,17 Years,8,7.5756063178635025e-06
+Female,race_two_or_more,eth_hispanic,17 Years,8,7.5756063178635025e-06
+Nonbinary,race_two_or_more,eth_hispanic,17 Years,8,1.683468070636334e-06
+Male,race_two_or_more,eth_hispanic,55 to 64 Years,1,2.9034505465513304e-05
+Female,race_two_or_more,eth_hispanic,55 to 64 Years,1,2.9034505465513304e-05
+Nonbinary,race_two_or_more,eth_hispanic,55 to 64 Years,1,6.452112325669624e-06
+Male,race_two_or_more,eth_hispanic,55 to 64 Years,2,6.935297419116639e-05
+Female,race_two_or_more,eth_hispanic,55 to 64 Years,2,6.935297419116639e-05
+Nonbinary,race_two_or_more,eth_hispanic,55 to 64 Years,2,1.541177204248142e-05
+Male,race_two_or_more,eth_hispanic,55 to 64 Years,3,7.71866486852249e-05
+Female,race_two_or_more,eth_hispanic,55 to 64 Years,3,7.71866486852249e-05
+Nonbinary,race_two_or_more,eth_hispanic,55 to 64 Years,3,1.7152588596716642e-05
+Male,race_two_or_more,eth_hispanic,55 to 64 Years,4,9.027170608111773e-05
+Female,race_two_or_more,eth_hispanic,55 to 64 Years,4,9.027170608111773e-05
+Nonbinary,race_two_or_more,eth_hispanic,55 to 64 Years,4,2.0060379129137272e-05
+Male,race_two_or_more,eth_hispanic,55 to 64 Years,5,9.899507767837958e-05
+Female,race_two_or_more,eth_hispanic,55 to 64 Years,5,9.899507767837958e-05
+Nonbinary,race_two_or_more,eth_hispanic,55 to 64 Years,5,2.199890615075102e-05
+Male,race_two_or_more,eth_hispanic,55 to 64 Years,6,0.00015094470853371512
+Female,race_two_or_more,eth_hispanic,55 to 64 Years,6,0.00015094470853371512
+Nonbinary,race_two_or_more,eth_hispanic,55 to 64 Years,6,3.3543268563047805e-05
+Male,race_two_or_more,eth_hispanic,55 to 64 Years,7,9.320119654288482e-05
+Female,race_two_or_more,eth_hispanic,55 to 64 Years,7,9.320119654288482e-05
+Nonbinary,race_two_or_more,eth_hispanic,55 to 64 Years,7,2.071137700952996e-05
+Male,race_two_or_more,eth_hispanic,55 to 64 Years,8,0.00010281426524334998
+Female,race_two_or_more,eth_hispanic,55 to 64 Years,8,0.00010281426524334998
+Nonbinary,race_two_or_more,eth_hispanic,55 to 64 Years,8,2.284761449852222e-05

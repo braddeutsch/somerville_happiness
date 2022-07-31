@@ -1,0 +1,99 @@
+ID Race,Race,ID Ethnicity,Ethnicity,ID Year,Year,Hispanic Population Moe,Geography,ID Geography,Slug Geography,Population,share
+0,"White Alone",0,"Not Hispanic or Latino",2019,"2019",1314,"Somerville, MA","16000US2562535","somerville-ma",55183,0.6820631349961684
+0,"White Alone",1,"Hispanic or Latino",2019,"2019",1152,"Somerville, MA","16000US2562535","somerville-ma",6113,0.075556819024547
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2019,"2019",720,"Somerville, MA","16000US2562535","somerville-ma",4534,0.05604034311423133
+1,"Black or African American Alone",1,"Hispanic or Latino",2019,"2019",325,"Somerville, MA","16000US2562535","somerville-ma",451,0.005574370256841273
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2019,"2019",81,"Somerville, MA","16000US2562535","somerville-ma",112,0.0013843225471534867
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2019,"2019",87,"Somerville, MA","16000US2562535","somerville-ma",47,0.0005809210688947667
+3,"Asian Alone",0,"Not Hispanic or Latino",2019,"2019",930,"Somerville, MA","16000US2562535","somerville-ma",8246,0.10192074753417546
+3,"Asian Alone",1,"Hispanic or Latino",2019,"2019",52,"Somerville, MA","16000US2562535","somerville-ma",57,0.0007045212963191853
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2019,"2019",8,"Somerville, MA","16000US2562535","somerville-ma",5,0.00006180011371220923
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2019,"2019",28.999999999999996,"Somerville, MA","16000US2562535","somerville-ma",0,0
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2019,"2019",324,"Somerville, MA","16000US2562535","somerville-ma",714,0.008825056238103477
+5,"Some Other Race Alone",1,"Hispanic or Latino",2019,"2019",690,"Somerville, MA","16000US2562535","somerville-ma",2003,0.024757125553111017
+6,"Two or More Races",0,"Not Hispanic or Latino",2019,"2019",499.45970808464625,"Somerville, MA","16000US2562535","somerville-ma",2117,0.02616616814574939
+6,"Two or More Races",1,"Hispanic or Latino",2019,"2019",684.7262226612912,"Somerville, MA","16000US2562535","somerville-ma",1324,0.016364670110993004
+0,"White Alone",0,"Not Hispanic or Latino",2018,"2018",1386,"Somerville, MA","16000US2562535","somerville-ma",55986,0.6960489345301738
+0,"White Alone",1,"Hispanic or Latino",2018,"2018",917.0000000000001,"Somerville, MA","16000US2562535","somerville-ma",5144,0.06395305467836984
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2018,"2018",841,"Somerville, MA","16000US2562535","somerville-ma",4922,0.0611930278240545
+1,"Black or African American Alone",1,"Hispanic or Latino",2018,"2018",373,"Somerville, MA","16000US2562535","somerville-ma",548,0.0068130392620036305
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2018,"2018",64,"Somerville, MA","16000US2562535","somerville-ma",75,0.0009324415048362633
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2018,"2018",48,"Somerville, MA","16000US2562535","somerville-ma",37,0.0004600044757192232
+3,"Asian Alone",0,"Not Hispanic or Latino",2018,"2018",955.0000000000001,"Somerville, MA","16000US2562535","somerville-ma",7770,0.09660093990103688
+3,"Asian Alone",1,"Hispanic or Latino",2018,"2018",62,"Somerville, MA","16000US2562535","somerville-ma",65,0.0008081159708580949
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2018,"2018",19,"Somerville, MA","16000US2562535","somerville-ma",13,0.00016162319417161898
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2018,"2018",28.999999999999996,"Somerville, MA","16000US2562535","somerville-ma",0,0
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2018,"2018",352,"Somerville, MA","16000US2562535","somerville-ma",578,0.007186015863938136
+5,"Some Other Race Alone",1,"Hispanic or Latino",2018,"2018",747,"Somerville, MA","16000US2562535","somerville-ma",2184,0.027152696620831987
+6,"Two or More Races",0,"Not Hispanic or Latino",2018,"2018",527.7546778570513,"Somerville, MA","16000US2562535","somerville-ma",2423,0.030124076882910213
+6,"Two or More Races",1,"Hispanic or Latino",2018,"2018",343.7513636336589,"Somerville, MA","16000US2562535","somerville-ma",689,0.008566029291095805
+0,"White Alone",0,"Not Hispanic or Latino",2017,"2017",1288,"Somerville, MA","16000US2562535","somerville-ma",56500,0.70640011002338
+0,"White Alone",1,"Hispanic or Latino",2017,"2017",854,"Somerville, MA","16000US2562535","somerville-ma",5224,0.06531387919932986
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2017,"2017",659,"Somerville, MA","16000US2562535","somerville-ma",4832,0.060412837728017206
+1,"Black or African American Alone",1,"Hispanic or Latino",2017,"2017",408,"Somerville, MA","16000US2562535","somerville-ma",444,0.005551179625670455
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2017,"2017",76,"Somerville, MA","16000US2562535","somerville-ma",113,0.00141280022004676
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2017,"2017",22,"Somerville, MA","16000US2562535","somerville-ma",15,0.00018753985221859644
+3,"Asian Alone",0,"Not Hispanic or Latino",2017,"2017",957,"Somerville, MA","16000US2562535","somerville-ma",7643,0.09555780603378218
+3,"Asian Alone",1,"Hispanic or Latino",2017,"2017",11,"Somerville, MA","16000US2562535","somerville-ma",9,0.00011252391133115787
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2017,"2017",22,"Somerville, MA","16000US2562535","somerville-ma",18,0.00022504782266231574
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2017,"2017",28.999999999999996,"Somerville, MA","16000US2562535","somerville-ma",0,0
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2017,"2017",372,"Somerville, MA","16000US2562535","somerville-ma",742,0.009276971356413238
+5,"Some Other Race Alone",1,"Hispanic or Latino",2017,"2017",611,"Somerville, MA","16000US2562535","somerville-ma",1568,0.019604165885250616
+6,"Two or More Races",0,"Not Hispanic or Latino",2017,"2017",326.266762021509,"Somerville, MA","16000US2562535","somerville-ma",2193,0.027418326394358802
+6,"Two or More Races",1,"Hispanic or Latino",2017,"2017",290.2998449879021,"Somerville, MA","16000US2562535","somerville-ma",682,0.008526811947538852
+0,"White Alone",0,"Not Hispanic or Latino",2016,"2016",1520,"Somerville, MA","16000US2562535","somerville-ma",55542,0.6985799992453494
+0,"White Alone",1,"Hispanic or Latino",2016,"2016",754,"Somerville, MA","16000US2562535","somerville-ma",4603,0.05789427346019847
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2016,"2016",764,"Somerville, MA","16000US2562535","somerville-ma",5073,0.06380570264253461
+1,"Black or African American Alone",1,"Hispanic or Latino",2016,"2016",381,"Somerville, MA","16000US2562535","somerville-ma",541,0.006804432314135862
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2016,"2016",67,"Somerville, MA","16000US2562535","somerville-ma",108,0.001358370961047455
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2016,"2016",31,"Somerville, MA","16000US2562535","somerville-ma",19,0.00023897266907316336
+3,"Asian Alone",0,"Not Hispanic or Latino",2016,"2016",1044,"Somerville, MA","16000US2562535","somerville-ma",8213,0.1032990805840995
+3,"Asian Alone",1,"Hispanic or Latino",2016,"2016",22,"Somerville, MA","16000US2562535","somerville-ma",20,0.0002515501779717509
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2016,"2016",25,"Somerville, MA","16000US2562535","somerville-ma",18,0.00022639516017457584
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2016,"2016",28,"Somerville, MA","16000US2562535","somerville-ma",0,0
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2016,"2016",418,"Somerville, MA","16000US2562535","somerville-ma",708,0.008904876300199982
+5,"Some Other Race Alone",1,"Hispanic or Latino",2016,"2016",666,"Somerville, MA","16000US2562535","somerville-ma",1918,0.024123662067490913
+6,"Two or More Races",0,"Not Hispanic or Latino",2016,"2016",406.9950859654205,"Somerville, MA","16000US2562535","somerville-ma",2344,0.029481680858289207
+6,"Two or More Races",1,"Hispanic or Latino",2016,"2016",192.38762953994728,"Somerville, MA","16000US2562535","somerville-ma",400,0.005031003559435018
+0,"White Alone",0,"Not Hispanic or Latino",2015,"2015",1318,"Somerville, MA","16000US2562535","somerville-ma",54707,0.69606209046377
+0,"White Alone",1,"Hispanic or Latino",2015,"2015",778,"Somerville, MA","16000US2562535","somerville-ma",4598,0.058502449265220434
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2015,"2015",929,"Somerville, MA","16000US2562535","somerville-ma",5324,0.06773967809657103
+1,"Black or African American Alone",1,"Hispanic or Latino",2015,"2015",383,"Somerville, MA","16000US2562535","somerville-ma",687,0.008741014059418538
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2015,"2015",56,"Somerville, MA","16000US2562535","somerville-ma",83,0.0010560468223169413
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2015,"2015",28,"Somerville, MA","16000US2562535","somerville-ma",16,0.00020357529104904893
+3,"Asian Alone",0,"Not Hispanic or Latino",2015,"2015",995,"Somerville, MA","16000US2562535","somerville-ma",7923,0.10080793943635091
+3,"Asian Alone",1,"Hispanic or Latino",2015,"2015",42,"Somerville, MA","16000US2562535","somerville-ma",41,0.0005216616833131879
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2015,"2015",28.999999999999996,"Somerville, MA","16000US2562535","somerville-ma",23,0.0002926394808830078
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2015,"2015",28,"Somerville, MA","16000US2562535","somerville-ma",0,0
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2015,"2015",361,"Somerville, MA","16000US2562535","somerville-ma",720,0.009160888097207201
+5,"Some Other Race Alone",1,"Hispanic or Latino",2015,"2015",694,"Somerville, MA","16000US2562535","somerville-ma",1898,0.024149118900693427
+6,"Two or More Races",0,"Not Hispanic or Latino",2015,"2015",393.57083225259464,"Somerville, MA","16000US2562535","somerville-ma",2147,0.027317259367644252
+6,"Two or More Races",1,"Hispanic or Latino",2015,"2015",204.59960899278377,"Somerville, MA","16000US2562535","somerville-ma",428,0.005445639035562059
+0,"White Alone",0,"Not Hispanic or Latino",2014,"2014",1462,"Somerville, MA","16000US2562535","somerville-ma",54901,0.7078519855595667
+0,"White Alone",1,"Hispanic or Latino",2014,"2014",671,"Somerville, MA","16000US2562535","somerville-ma",4186,0.053971119133574004
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2014,"2014",1125,"Somerville, MA","16000US2562535","somerville-ma",5103,0.0657942238267148
+1,"Black or African American Alone",1,"Hispanic or Latino",2014,"2014",446,"Somerville, MA","16000US2562535","somerville-ma",693,0.008935018050541517
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2014,"2014",53,"Somerville, MA","16000US2562535","somerville-ma",68,0.0008767405879319237
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2014,"2014",207,"Somerville, MA","16000US2562535","somerville-ma",154,0.0019855595667870036
+3,"Asian Alone",0,"Not Hispanic or Latino",2014,"2014",816,"Somerville, MA","16000US2562535","somerville-ma",7337,0.09459773078906653
+3,"Asian Alone",1,"Hispanic or Latino",2014,"2014",48,"Somerville, MA","16000US2562535","somerville-ma",52,0.0006704486848891181
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2014,"2014",21,"Somerville, MA","16000US2562535","somerville-ma",16,0.00020629190304280557
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2014,"2014",28.999999999999996,"Somerville, MA","16000US2562535","somerville-ma",0,0
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2014,"2014",361,"Somerville, MA","16000US2562535","somerville-ma",678,0.008741619391438886
+5,"Some Other Race Alone",1,"Hispanic or Latino",2014,"2014",679,"Somerville, MA","16000US2562535","somerville-ma",1824,0.023517276946879835
+6,"Two or More Races",0,"Not Hispanic or Latino",2014,"2014",399.9062390110962,"Somerville, MA","16000US2562535","somerville-ma",2120,0.027333677153171736
+6,"Two or More Races",1,"Hispanic or Latino",2014,"2014",249.1605907843373,"Somerville, MA","16000US2562535","somerville-ma",428,0.005518308406395049
+0,"White Alone",0,"Not Hispanic or Latino",2013,"2013",1304,"Somerville, MA","16000US2562535","somerville-ma",54802,0.7122230164403145
+0,"White Alone",1,"Hispanic or Latino",2013,"2013",767,"Somerville, MA","16000US2562535","somerville-ma",4553,0.05917213594125674
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2013,"2013",882,"Somerville, MA","16000US2562535","somerville-ma",4744,0.061654428487880955
+1,"Black or African American Alone",1,"Hispanic or Latino",2013,"2013",423.00000000000006,"Somerville, MA","16000US2562535","somerville-ma",637,0.008278640587432582
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2013,"2013",41,"Somerville, MA","16000US2562535","somerville-ma",55,0.0007147962830593281
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2013,"2013",194,"Somerville, MA","16000US2562535","somerville-ma",136,0.001767496263564884
+3,"Asian Alone",0,"Not Hispanic or Latino",2013,"2013",789,"Somerville, MA","16000US2562535","somerville-ma",7181,0.093326401975437
+3,"Asian Alone",1,"Hispanic or Latino",2013,"2013",43,"Somerville, MA","16000US2562535","somerville-ma",44,0.0005718370264474624
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2013,"2013",32,"Somerville, MA","16000US2562535","somerville-ma",23,0.0002989148092793554
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2013,"2013",28.999999999999996,"Somerville, MA","16000US2562535","somerville-ma",0,0
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2013,"2013",338,"Somerville, MA","16000US2562535","somerville-ma",696,0.009045422054714406
+5,"Some Other Race Alone",1,"Hispanic or Latino",2013,"2013",787,"Somerville, MA","16000US2562535","somerville-ma",2028,0.02635648840080577
+6,"Two or More Races",0,"Not Hispanic or Latino",2013,"2013",396.01136347332255,"Somerville, MA","16000US2562535","somerville-ma",1702,0.0221196958866723
+6,"Two or More Races",1,"Hispanic or Latino",2013,"2013",206.81634364817498,"Somerville, MA","16000US2562535","somerville-ma",344,0.004470725843134706
