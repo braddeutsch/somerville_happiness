@@ -1,34 +1,30 @@
-,share
-hhi_1,3059.2646789829823
-hhi_2,7307.481251143215
-hhi_3,8132.88823852203
-hhi_4,9511.615145417956
-hhi_5,10430.766416681903
-hhi_6,15904.518017194063
-hhi_7,9820.285348454361
-hhi_8,10833.180903603436
-gender_Male,33750.0
-gender_Female,33750.0
-gender_Nonbinary,7500.0
-"('race_white', 'eth_not_hispanic')",51154.735124712635
-"('race_white', 'eth_hispanic')",5666.761426841025
-"('race_aa', 'eth_not_hispanic')",4203.025733567348
-"('race_aa', 'eth_hispanic')",418.07776926309
-"('race_other', 'eth_not_hispanic')",103.824191036505
-"('race_other', 'eth_hispanic')",43.569080167102506
-"('race_asian', 'eth_not_hispanic')",7644.056065063155
-"('race_asian', 'eth_hispanic')",52.8390972239325
-"('race_other', 'eth_not_hispanic')",4.635008528415
-"('race_other', 'eth_hispanic')",0.0
-"('race_other', 'eth_not_hispanic')",661.879217857755
-"('race_other', 'eth_hispanic')",1856.784416483325
-"('race_two_or_more', 'eth_not_hispanic')",1962.4626109311976
-"('race_two_or_more', 'eth_hispanic')",1227.3502583244751
-18 to 24 Years,12005.103376989384
-25 to 34 Years,28048.41023549236
-35 to 44 Years,12139.640631409648
-45 to 54 Years,7414.149935454566
-65 to 74 Years,4351.080817374656
-75 Years & Over,3258.0959907666347
-17 Years,534.1511406117099
-55 to 64 Years,7249.36787190105
+demo,count
+hhi_1,3059
+hhi_2,7307
+hhi_3,8132
+hhi_4,9511
+hhi_5,10430
+hhi_6,15904
+hhi_7,9820
+hhi_8,10833
+gender_Male,37312
+gender_Female,37312
+gender_Nonbinary,375
+"race_ethnicity_(aa, hispanic)",418
+"race_ethnicity_(aa, not_hispanic)",4203
+"race_ethnicity_(asian, hispanic)",52
+"race_ethnicity_(asian, not_hispanic)",7644
+"race_ethnicity_(other, hispanic)",1900
+"race_ethnicity_(other, not_hispanic)",770
+"race_ethnicity_(two_or_more, hispanic)",1227
+"race_ethnicity_(two_or_more, not_hispanic)",1962
+"race_ethnicity_(white, hispanic)",5666
+"race_ethnicity_(white, not_hispanic)",51154
+age_18 to 24 Years,12005
+age_25 to 34 Years,28048
+age_35 to 44 Years,12139
+age_45 to 54 Years,7414
+age_65 to 74 Years,4351
+age_75 Years & Over,3258
+age_17 Years,534
+age_55 to 64 Years,7249
