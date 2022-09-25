@@ -11,15 +11,15 @@ gender_Male,37312
 gender_Female,37312
 gender_Nonbinary,375
 "race_ethnicity_(aa, hispanic)",418
-"race_ethnicity_(aa, not_hispanic)",4203
+"race_ethnicity_(aa, non-hispanic)",4203
 "race_ethnicity_(asian, hispanic)",52
-"race_ethnicity_(asian, not_hispanic)",7644
+"race_ethnicity_(asian, non-hispanic)",7644
 "race_ethnicity_(other, hispanic)",1900
-"race_ethnicity_(other, not_hispanic)",770
+"race_ethnicity_(other, non-hispanic)",770
 "race_ethnicity_(two_or_more, hispanic)",1227
-"race_ethnicity_(two_or_more, not_hispanic)",1962
+"race_ethnicity_(two_or_more, non-hispanic)",1962
 "race_ethnicity_(white, hispanic)",5666
-"race_ethnicity_(white, not_hispanic)",51154
+"race_ethnicity_(white, non-hispanic)",51154
 age_18 to 24 Years,12005
 age_25 to 34 Years,28048
 age_35 to 44 Years,12139
